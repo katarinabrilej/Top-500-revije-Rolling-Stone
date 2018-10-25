@@ -1,0 +1,2502 @@
+[
+    {
+        "mesto": 500,
+        "avtor": "Smokey Robinson and the Miracles",
+        "naslov": "Shop Around"
+    },
+    {
+        "mesto": 499,
+        "avtor": "Weezer",
+        "naslov": "Buddy Holly"
+    },
+    {
+        "mesto": 498,
+        "avtor": "The Rolling Stones",
+        "naslov": "Miss You"
+    },
+    {
+        "mesto": 497,
+        "avtor": "Bruce Springsteen",
+        "naslov": "The Rising"
+    },
+    {
+        "mesto": 496,
+        "avtor": "Jackson Browne",
+        "naslov": "Running on Empty"
+    },
+    {
+        "mesto": 495,
+        "avtor": "The Rolling Stones",
+        "naslov": "Brown Sugar"
+    },
+    {
+        "mesto": 494,
+        "avtor": "R. Kelly",
+        "naslov": "Ignition (Remix)"
+    },
+    {
+        "mesto": 493,
+        "avtor": "MGMT",
+        "naslov": "Time to Pretend"
+    },
+    {
+        "mesto": 492,
+        "avtor": "Gloria Gaynor",
+        "naslov": "I Will Survive"
+    },
+    {
+        "mesto": 491,
+        "avtor": "Joan Jett and the Blackhearts",
+        "naslov": "I Love Rock 'N Roll"
+    },
+    {
+        "mesto": 490,
+        "avtor": "Coldplay",
+        "naslov": "Clocks"
+    },
+    {
+        "mesto": 489,
+        "avtor": "The Drifters",
+        "naslov": "Under the Boardwalk"
+    },
+    {
+        "mesto": 488,
+        "avtor": "The Cure",
+        "naslov": "Just Like Heaven"
+    },
+    {
+        "mesto": 487,
+        "avtor": "Alice Cooper",
+        "naslov": "I'm Eighteen"
+    },
+    {
+        "mesto": 486,
+        "avtor": "David Bowie",
+        "naslov": "Young Americans"
+    },
+    {
+        "mesto": 485,
+        "avtor": "LaBelle",
+        "naslov": "Lady Marmalade"
+    },
+    {
+        "mesto": 484,
+        "avtor": "Justin Timberlake",
+        "naslov": "Cry Me a River"
+    },
+    {
+        "mesto": 483,
+        "avtor": "Jefferson Airplane",
+        "naslov": "White Rabbit"
+    },
+    {
+        "mesto": 482,
+        "avtor": "Kelly Clarkson",
+        "naslov": "Since U Been Gone"
+    },
+    {
+        "mesto": 481,
+        "avtor": "Rick James",
+        "naslov": "Super Freak"
+    },
+    {
+        "mesto": 480,
+        "avtor": "Beastie Boys",
+        "naslov": "Sabotage"
+    },
+    {
+        "mesto": 479,
+        "avtor": "Foreigner",
+        "naslov": "I Want to Know What Love Is"
+    },
+    {
+        "mesto": 478,
+        "avtor": "The Strokes",
+        "naslov": "Last Nite"
+    },
+    {
+        "mesto": 477,
+        "avtor": "The Smiths",
+        "naslov": "How Soon Is Now?"
+    },
+    {
+        "mesto": 476,
+        "avtor": "Aretha Franklin",
+        "naslov": "Do Right Woman — Do Right Man"
+    },
+    {
+        "mesto": 475,
+        "avtor": "The Supremes",
+        "naslov": "Where Did Our Love Go"
+    },
+    {
+        "mesto": 474,
+        "avtor": "Van Morrison",
+        "naslov": "Into the Mystic"
+    },
+    {
+        "mesto": 473,
+        "avtor": "Guns N' Roses",
+        "naslov": "Welcome to the Jungle"
+    },
+    {
+        "mesto": 472,
+        "avtor": "Del Shannon",
+        "naslov": "Runaway"
+    },
+    {
+        "mesto": 471,
+        "avtor": "Cheap Trick",
+        "naslov": "Surrender"
+    },
+    {
+        "mesto": 470,
+        "avtor": "The Four Tops",
+        "naslov": "Standing in the Shadows of Love"
+    },
+    {
+        "mesto": 469,
+        "avtor": "The Beatles",
+        "naslov": "Rain"
+    },
+    {
+        "mesto": 468,
+        "avtor": "The Staple Singers",
+        "naslov": "Respect Yourself"
+    },
+    {
+        "mesto": 467,
+        "avtor": "Jay-Z Featuring UGK",
+        "naslov": "Big Pimpin'"
+    },
+    {
+        "mesto": 466,
+        "avtor": "Missy Elliott",
+        "naslov": "Get Ur Freak On"
+    },
+    {
+        "mesto": 465,
+        "avtor": "Muddy Waters",
+        "naslov": "Rollin' Stone"
+    },
+    {
+        "mesto": 464,
+        "avtor": "Prince and the Revolution",
+        "naslov": "Kiss"
+    },
+    {
+        "mesto": 463,
+        "avtor": "Sam and Dave",
+        "naslov": "Soul Man"
+    },
+    {
+        "mesto": 462,
+        "avtor": "Nirvana",
+        "naslov": "All Apologies"
+    },
+    {
+        "mesto": 461,
+        "avtor": "Ramones",
+        "naslov": "Sheena Is a Punk Rocker"
+    },
+    {
+        "mesto": 460,
+        "avtor": "George Harrison",
+        "naslov": "My Sweet Lord"
+    },
+    {
+        "mesto": 459,
+        "avtor": "Guns N' Roses",
+        "naslov": "Paradise City"
+    },
+    {
+        "mesto": 458,
+        "avtor": "Sam Cooke",
+        "naslov": "Cupid"
+    },
+    {
+        "mesto": 457,
+        "avtor": "Chubby Checker",
+        "naslov": "The Twist"
+    },
+    {
+        "mesto": 456,
+        "avtor": "The Beatles",
+        "naslov": "Penny Lane"
+    },
+    {
+        "mesto": 455,
+        "avtor": "The Velvet Underground",
+        "naslov": "Heroin"
+    },
+    {
+        "mesto": 454,
+        "avtor": "The Shangri-Las",
+        "naslov": "Leader of the Pack"
+    },
+    {
+        "mesto": 453,
+        "avtor": "Toots and the Maytals",
+        "naslov": "Pressure Drop"
+    },
+    {
+        "mesto": 452,
+        "avtor": "Nirvana",
+        "naslov": "Come As You Are"
+    },
+    {
+        "mesto": 451,
+        "avtor": "Sonny and Cher",
+        "naslov": "I Got You Babe"
+    },
+    {
+        "mesto": 450,
+        "avtor": "Bob Marley and the Wailers",
+        "naslov": "I Shot the Sheriff"
+    },
+    {
+        "mesto": 449,
+        "avtor": "The Dell-Vikings",
+        "naslov": "Come Go With Me"
+    },
+    {
+        "mesto": 448,
+        "avtor": "50 Cent",
+        "naslov": "In Da Club"
+    },
+    {
+        "mesto": 447,
+        "avtor": "John Cougar Mellencamp",
+        "naslov": "Pink Houses"
+    },
+    {
+        "mesto": 446,
+        "avtor": "Salt &#8216;n Pepa",
+        "naslov": "Push It"
+    },
+    {
+        "mesto": 445,
+        "avtor": "The Stooges",
+        "naslov": "I Wanna Be Your Dog"
+    },
+    {
+        "mesto": 444,
+        "avtor": "Elvis Presley",
+        "naslov": "Love Me Tender"
+    },
+    {
+        "mesto": 443,
+        "avtor": "The Rolling Stones",
+        "naslov": "Beast of Burden"
+    },
+    {
+        "mesto": 442,
+        "avtor": "Love",
+        "naslov": "Alone Again Or"
+    },
+    {
+        "mesto": 441,
+        "avtor": "Wilson Pickett",
+        "naslov": "Mustang Sally"
+    },
+    {
+        "mesto": 440,
+        "avtor": "Led Zeppelin",
+        "naslov": "Ramble On"
+    },
+    {
+        "mesto": 439,
+        "avtor": "Gladys Knight and the Pips",
+        "naslov": "Midnight Train to Georgia"
+    },
+    {
+        "mesto": 438,
+        "avtor": "Fats Domino",
+        "naslov": "Ain't It a Shame"
+    },
+    {
+        "mesto": 437,
+        "avtor": "The Clash",
+        "naslov": "(White Man) In Hammersmith Palais"
+    },
+    {
+        "mesto": 436,
+        "avtor": "Solomon Burke",
+        "naslov": "Everybody Needs Somebody to Love"
+    },
+    {
+        "mesto": 435,
+        "avtor": "U2",
+        "naslov": "New Year's Day"
+    },
+    {
+        "mesto": 434,
+        "avtor": "Deep Purple",
+        "naslov": "Smoke on the Water"
+    },
+    {
+        "mesto": 433,
+        "avtor": "Rolling Stones",
+        "naslov": "Tumbling Dice"
+    },
+    {
+        "mesto": 432,
+        "avtor": "Green Day",
+        "naslov": "American Idiot"
+    },
+    {
+        "mesto": 431,
+        "avtor": "The Smiths",
+        "naslov": "William, It Was Really Nothing"
+    },
+    {
+        "mesto": 430,
+        "avtor": "Elvis Presley",
+        "naslov": "Blue Suede Shoes"
+    },
+    {
+        "mesto": 429,
+        "avtor": "Billy Joel",
+        "naslov": "Piano Man"
+    },
+    {
+        "mesto": 428,
+        "avtor": "The Isley Brothers",
+        "naslov": "It's Your Thing"
+    },
+    {
+        "mesto": 427,
+        "avtor": "Dr. Dre",
+        "naslov": "Nuthin' But a 'G' Thang"
+    },
+    {
+        "mesto": 426,
+        "avtor": "Crosby, Stills and Nash",
+        "naslov": "Suite: Judy Blue Eyes"
+    },
+    {
+        "mesto": 425,
+        "avtor": "N.W.A",
+        "naslov": "Fuck tha Police"
+    },
+    {
+        "mesto": 424,
+        "avtor": "The Notorious B.I.G.",
+        "naslov": "Juicy"
+    },
+    {
+        "mesto": 423,
+        "avtor": "Don Henley",
+        "naslov": "The Boys of Summer"
+    },
+    {
+        "mesto": 422,
+        "avtor": "The Four Tops",
+        "naslov": "Can't Help Myself"
+    },
+    {
+        "mesto": 421,
+        "avtor": "The Coasters",
+        "naslov": "Young Blood"
+    },
+    {
+        "mesto": 420,
+        "avtor": "Little Richard",
+        "naslov": "The Girl Can't Help It"
+    },
+    {
+        "mesto": 419,
+        "avtor": "Bobbie Gentry",
+        "naslov": "Ode to Billie Joe"
+    },
+    {
+        "mesto": 418,
+        "avtor": "Donna Summer",
+        "naslov": "I Feel Love"
+    },
+    {
+        "mesto": 417,
+        "avtor": "Pixies",
+        "naslov": "Monkey Gone to Heaven"
+    },
+    {
+        "mesto": 416,
+        "avtor": "Aerosmith",
+        "naslov": "Sweet Emotion"
+    },
+    {
+        "mesto": 415,
+        "avtor": "Nirvana",
+        "naslov": "In Bloom"
+    },
+    {
+        "mesto": 414,
+        "avtor": "Carpenters",
+        "naslov": "We've Only Just Begun"
+    },
+    {
+        "mesto": 413,
+        "avtor": "Bob Dylan",
+        "naslov": "Visions of Johanna"
+    },
+    {
+        "mesto": 412,
+        "avtor": "Rihanna Featuring Jay-Z",
+        "naslov": "Umbrella"
+    },
+    {
+        "mesto": 411,
+        "avtor": "Eddie Cochran",
+        "naslov": "C'mon Everybody"
+    },
+    {
+        "mesto": 410,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Thank You (Falettinme Be Mice Elf Agin)"
+    },
+    {
+        "mesto": 409,
+        "avtor": "The Shirelles",
+        "naslov": "Tonight's the Night"
+    },
+    {
+        "mesto": 408,
+        "avtor": "Metallica",
+        "naslov": "Enter Sandman"
+    },
+    {
+        "mesto": 407,
+        "avtor": "Lynyrd Skynyrd",
+        "naslov": "Sweet Home Alabama"
+    },
+    {
+        "mesto": 406,
+        "avtor": "Big Star",
+        "naslov": "Thirteen"
+    },
+    {
+        "mesto": 405,
+        "avtor": "Blue Öyster Cult",
+        "naslov": "(Don't Fear) the Reaper"
+    },
+    {
+        "mesto": 404,
+        "avtor": "The Shangri-Las",
+        "naslov": "Remember (Walkin' in the Sand)"
+    },
+    {
+        "mesto": 403,
+        "avtor": "Elvis Presley",
+        "naslov": "Can't Help Falling in Love"
+    },
+    {
+        "mesto": 402,
+        "avtor": "The Five Stairsteps",
+        "naslov": "O-o-h Child"
+    },
+    {
+        "mesto": 401,
+        "avtor": "The Lovin' Spoonful",
+        "naslov": "Summer in the City"
+    },
+    {
+        "mesto": 400,
+        "avtor": "The Four Tops",
+        "naslov": "Baby I Need Your Loving"
+    },
+    {
+        "mesto": 399,
+        "avtor": "The Temptations",
+        "naslov": "Just My Imagination"
+    },
+    {
+        "mesto": 398,
+        "avtor": "The Police",
+        "naslov": "Roxanne"
+    },
+    {
+        "mesto": 397,
+        "avtor": "Elton John",
+        "naslov": "Tiny Dancer"
+    },
+    {
+        "mesto": 396,
+        "avtor": "Eric B. and Rakim",
+        "naslov": "Know You Got Soul"
+    },
+    {
+        "mesto": 395,
+        "avtor": "Crosby, Stills, Nash and Young",
+        "naslov": "Ohio"
+    },
+    {
+        "mesto": 394,
+        "avtor": "The Beatles",
+        "naslov": "Ticket to Ride"
+    },
+    {
+        "mesto": 393,
+        "avtor": "The Allman Brothers Band",
+        "naslov": "Whipping Post"
+    },
+    {
+        "mesto": 392,
+        "avtor": "The Verve",
+        "naslov": "Bitter Sweet Symphony"
+    },
+    {
+        "mesto": 391,
+        "avtor": "Aaron Neville",
+        "naslov": "Tell It Like It Is"
+    },
+    {
+        "mesto": 390,
+        "avtor": "Elton John",
+        "naslov": "Goodbye Yellow Brick Road"
+    },
+    {
+        "mesto": 389,
+        "avtor": "R.E.M.",
+        "naslov": "Radio Free Europe"
+    },
+    {
+        "mesto": 388,
+        "avtor": "U2",
+        "naslov": "Pride (In the Name of Love)"
+    },
+    {
+        "mesto": 387,
+        "avtor": "Ray Charles",
+        "naslov": "Hit the Road Jack"
+    },
+    {
+        "mesto": 386,
+        "avtor": "Yeah Yeah Yeahs",
+        "naslov": "Maps"
+    },
+    {
+        "mesto": 385,
+        "avtor": "Radiohead",
+        "naslov": "Fake Plastic Trees"
+    },
+    {
+        "mesto": 384,
+        "avtor": "Pink Floyd",
+        "naslov": "Another Brick in the Wall Part 2"
+    },
+    {
+        "mesto": 383,
+        "avtor": "Chuck Berry",
+        "naslov": "Brown Eyed Handsome Man"
+    },
+    {
+        "mesto": 382,
+        "avtor": "Sam Cooke",
+        "naslov": "Wonderful World"
+    },
+    {
+        "mesto": 381,
+        "avtor": "Television",
+        "naslov": "Marquee Moon"
+    },
+    {
+        "mesto": 380,
+        "avtor": "The Who",
+        "naslov": "I Can't Explain"
+    },
+    {
+        "mesto": 379,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "The Wind Cries Mary"
+    },
+    {
+        "mesto": 378,
+        "avtor": "Bo Diddley",
+        "naslov": "I'm a Man"
+    },
+    {
+        "mesto": 377,
+        "avtor": "Depeche Mode",
+        "naslov": "Personal Jesus"
+    },
+    {
+        "mesto": 376,
+        "avtor": "Cream",
+        "naslov": "White Room"
+    },
+    {
+        "mesto": 375,
+        "avtor": "Bee Gees",
+        "naslov": "How Deep Is Your Love"
+    },
+    {
+        "mesto": 374,
+        "avtor": "The Righteous Brothers",
+        "naslov": "Unchained Melody"
+    },
+    {
+        "mesto": 373,
+        "avtor": "Bob Dylan",
+        "naslov": "Highway 61 Revisited"
+    },
+    {
+        "mesto": 372,
+        "avtor": "The Box Tops",
+        "naslov": "The Letter"
+    },
+    {
+        "mesto": 371,
+        "avtor": "The Clash",
+        "naslov": "Complete Control"
+    },
+    {
+        "mesto": 370,
+        "avtor": "The Beatles",
+        "naslov": "All You Need is Love"
+    },
+    {
+        "mesto": 369,
+        "avtor": "Roberta Flack",
+        "naslov": "Killing Me Softly With His Song"
+    },
+    {
+        "mesto": 368,
+        "avtor": "Muddy Waters",
+        "naslov": "Got My Mojo Working"
+    },
+    {
+        "mesto": 367,
+        "avtor": "Martha and the Vandellas",
+        "naslov": "Nowhere to Run"
+    },
+    {
+        "mesto": 366,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "Little Wing"
+    },
+    {
+        "mesto": 365,
+        "avtor": "Eurythmics",
+        "naslov": "Sweet Dreams (Are Made of This)"
+    },
+    {
+        "mesto": 364,
+        "avtor": "Creedence Clearwater Revival",
+        "naslov": "Bad Moon Rising"
+    },
+    {
+        "mesto": 363,
+        "avtor": "Elvis Costello",
+        "naslov": "Watching the Detectives"
+    },
+    {
+        "mesto": 362,
+        "avtor": "Eric Clapton",
+        "naslov": "Tears in Heaven"
+    },
+    {
+        "mesto": 361,
+        "avtor": "Elvis Presley",
+        "naslov": "All Shook Up"
+    },
+    {
+        "mesto": 360,
+        "avtor": "The Platters",
+        "naslov": "The Great Pretender"
+    },
+    {
+        "mesto": 359,
+        "avtor": "Little Eva",
+        "naslov": "The Loco-Motion"
+    },
+    {
+        "mesto": 358,
+        "avtor": "Ben E. King",
+        "naslov": "Spanish Harlem"
+    },
+    {
+        "mesto": 357,
+        "avtor": "The Isley Brothers",
+        "naslov": "That Lady (Part 1 and 2)"
+    },
+    {
+        "mesto": 356,
+        "avtor": "Elton John",
+        "naslov": "Candle in the Wind"
+    },
+    {
+        "mesto": 355,
+        "avtor": "Dr. Dre and 2Pac",
+        "naslov": "California Love"
+    },
+    {
+        "mesto": 354,
+        "avtor": "Ritchie Valens",
+        "naslov": "La Bamba"
+    },
+    {
+        "mesto": 353,
+        "avtor": "Big Brother and the Holding Company",
+        "naslov": "Piece of My Heart"
+    },
+    {
+        "mesto": 352,
+        "avtor": "Lavern Baker",
+        "naslov": "Jim Dandy"
+    },
+    {
+        "mesto": 351,
+        "avtor": "Dion",
+        "naslov": "Runaround Sue"
+    },
+    {
+        "mesto": 350,
+        "avtor": "Jimmy Cliff",
+        "naslov": "The Harder They Come"
+    },
+    {
+        "mesto": 349,
+        "avtor": "The Who",
+        "naslov": "Baba O'Riley"
+    },
+    {
+        "mesto": 348,
+        "avtor": "The Supremes",
+        "naslov": "You Keep Me Hanging On"
+    },
+    {
+        "mesto": 347,
+        "avtor": "Paul McCartney",
+        "naslov": "Maybe I'm Amazed"
+    },
+    {
+        "mesto": 346,
+        "avtor": "Aerosmith",
+        "naslov": "Walk This Way"
+    },
+    {
+        "mesto": 345,
+        "avtor": "U2",
+        "naslov": "Beautiful Day"
+    },
+    {
+        "mesto": 344,
+        "avtor": "Michael Jackson",
+        "naslov": "Beat It"
+    },
+    {
+        "mesto": 343,
+        "avtor": "The Rolling Stones",
+        "naslov": "Wild Horses"
+    },
+    {
+        "mesto": 342,
+        "avtor": "The Velvet Underground",
+        "naslov": "Sweet Jane"
+    },
+    {
+        "mesto": 341,
+        "avtor": "Norman Greenbaum",
+        "naslov": "Spirit in the Sky"
+    },
+    {
+        "mesto": 340,
+        "avtor": "Bob Dylan",
+        "naslov": "Subterranean Homesick Blues"
+    },
+    {
+        "mesto": 339,
+        "avtor": "Bonnie Raitt",
+        "naslov": "I Can't Make You Love Me"
+    },
+    {
+        "mesto": 338,
+        "avtor": "Queen",
+        "naslov": "We Will Rock You"
+    },
+    {
+        "mesto": 337,
+        "avtor": "Earth, Wind and Fire",
+        "naslov": "Way of the World"
+    },
+    {
+        "mesto": 336,
+        "avtor": "The Doors",
+        "naslov": "The End"
+    },
+    {
+        "mesto": 335,
+        "avtor": "Jerry Butler and The Impressions",
+        "naslov": "For Your Precious Love"
+    },
+    {
+        "mesto": 334,
+        "avtor": "James Brown",
+        "naslov": "Get Up (I Feel Like Being a) Sex Machine"
+    },
+    {
+        "mesto": 333,
+        "avtor": "The Young Rascals",
+        "naslov": "Good Lovin'"
+    },
+    {
+        "mesto": 332,
+        "avtor": "The Supremes",
+        "naslov": "Baby Love"
+    },
+    {
+        "mesto": 331,
+        "avtor": "Patti Smith Group",
+        "naslov": "Dancing Barefoot"
+    },
+    {
+        "mesto": 330,
+        "avtor": "Public Enemy",
+        "naslov": "Fight the Power"
+    },
+    {
+        "mesto": 329,
+        "avtor": "Neil Young",
+        "naslov": "Cortez the Killer"
+    },
+    {
+        "mesto": 328,
+        "avtor": "Led Zeppelin",
+        "naslov": "Heartbreaker"
+    },
+    {
+        "mesto": 327,
+        "avtor": "Franz Ferdinand",
+        "naslov": "Take Me Out"
+    },
+    {
+        "mesto": 326,
+        "avtor": "Alice Cooper",
+        "naslov": "School's Out"
+    },
+    {
+        "mesto": 325,
+        "avtor": "Jimmy Cliff",
+        "naslov": "Many Rivers to Cross"
+    },
+    {
+        "mesto": 324,
+        "avtor": "Pink Floyd",
+        "naslov": "Wish You Were Here"
+    },
+    {
+        "mesto": 323,
+        "avtor": "Elvis Costello",
+        "naslov": "Alison"
+    },
+    {
+        "mesto": 322,
+        "avtor": "The Animals",
+        "naslov": "Don't Let Me Be Misunderstood"
+    },
+    {
+        "mesto": 321,
+        "avtor": "Pink Floyd",
+        "naslov": "Comfortably Numb"
+    },
+    {
+        "mesto": 320,
+        "avtor": "Screamin' Jay Hawkins",
+        "naslov": "I Put a Spell on You"
+    },
+    {
+        "mesto": 319,
+        "avtor": "Roy Orbison",
+        "naslov": "In Dreams"
+    },
+    {
+        "mesto": 318,
+        "avtor": "The Everly Brothers",
+        "naslov": "Wake Up Little Susie"
+    },
+    {
+        "mesto": 317,
+        "avtor": "Black Sabbath",
+        "naslov": "Iron Man"
+    },
+    {
+        "mesto": 316,
+        "avtor": "Tina Turner",
+        "naslov": "What's Love Got to Do With It"
+    },
+    {
+        "mesto": 315,
+        "avtor": "Jackie Wilson",
+        "naslov": "Lonely Teardrops"
+    },
+    {
+        "mesto": 314,
+        "avtor": "Frankie Lymon and The Teenagers",
+        "naslov": "Why Do Fools Fall In Love"
+    },
+    {
+        "mesto": 313,
+        "avtor": "The Jam",
+        "naslov": "That's Entertainment"
+    },
+    {
+        "mesto": 312,
+        "avtor": "James Brown",
+        "naslov": "Say It Loud - I'm Black and I'm Proud"
+    },
+    {
+        "mesto": 311,
+        "avtor": "The Beatles",
+        "naslov": "With a Little Help From My Friends"
+    },
+    {
+        "mesto": 310,
+        "avtor": "The Rolling Stones",
+        "naslov": "Ruby Tuesday"
+    },
+    {
+        "mesto": 309,
+        "avtor": "Willie Nelson",
+        "naslov": "Blue Eyes Crying in the Rain"
+    },
+    {
+        "mesto": 308,
+        "avtor": "Rod Stewart",
+        "naslov": "Da Ya Think I'm Sexy?"
+    },
+    {
+        "mesto": 307,
+        "avtor": "Daft Punk",
+        "naslov": "One More Time"
+    },
+    {
+        "mesto": 306,
+        "avtor": "Madonna",
+        "naslov": "Like A Prayer"
+    },
+    {
+        "mesto": 305,
+        "avtor": "Blondie",
+        "naslov": "One Way or Another"
+    },
+    {
+        "mesto": 304,
+        "avtor": "Prince",
+        "naslov": "Sign 'O' The Times"
+    },
+    {
+        "mesto": 303,
+        "avtor": "Neil Young",
+        "naslov": "Heart of Gold"
+    },
+    {
+        "mesto": 302,
+        "avtor": "Bob Marley and the Wailers",
+        "naslov": "Get Up, Stand Up"
+    },
+    {
+        "mesto": 301,
+        "avtor": "The Rolling Stones",
+        "naslov": "Street Fighting Man"
+    },
+    {
+        "mesto": 300,
+        "avtor": "Led Zeppelin",
+        "naslov": "Black Dog"
+    },
+    {
+        "mesto": 299,
+        "avtor": "Al Green",
+        "naslov": "Tired of Being Alone"
+    },
+    {
+        "mesto": 298,
+        "avtor": "The Clash",
+        "naslov": "Train in Vain"
+    },
+    {
+        "mesto": 297,
+        "avtor": "The Zombies",
+        "naslov": "She's Not There"
+    },
+    {
+        "mesto": 296,
+        "avtor": "Eminem feat. Dido",
+        "naslov": "Stan"
+    },
+    {
+        "mesto": 295,
+        "avtor": "The Beatles",
+        "naslov": "Can't Buy Me Love"
+    },
+    {
+        "mesto": 294,
+        "avtor": "Barrett Strong",
+        "naslov": "Money (That's What I Want)"
+    },
+    {
+        "mesto": 293,
+        "avtor": "Run-DMC",
+        "naslov": "Walk This Way"
+    },
+    {
+        "mesto": 292,
+        "avtor": "Pavement",
+        "naslov": "Summer Babe (Winter Version)"
+    },
+    {
+        "mesto": 291,
+        "avtor": "Howlin' Wolf",
+        "naslov": "Smokestack Lightning"
+    },
+    {
+        "mesto": 290,
+        "avtor": "Elvis Costello and the Attractions",
+        "naslov": "(What's So Funny About) Peace, Love and Understanding"
+    },
+    {
+        "mesto": 289,
+        "avtor": "Blondie",
+        "naslov": "Call Me"
+    },
+    {
+        "mesto": 288,
+        "avtor": "Joni Mitchell",
+        "naslov": "Help Me"
+    },
+    {
+        "mesto": 287,
+        "avtor": "Stevie Wonder",
+        "naslov": "You Are the Sunshine of My Life"
+    },
+    {
+        "mesto": 286,
+        "avtor": "The White Stripes",
+        "naslov": "Seven Nation Army"
+    },
+    {
+        "mesto": 285,
+        "avtor": "Bill Withers",
+        "naslov": "Ain't No Sunshine"
+    },
+    {
+        "mesto": 284,
+        "avtor": "The Dixie Cups",
+        "naslov": "Chapel of Love"
+    },
+    {
+        "mesto": 283,
+        "avtor": "The Cure",
+        "naslov": "Pictures of You"
+    },
+    {
+        "mesto": 282,
+        "avtor": "David Bowie",
+        "naslov": "Ziggy Stardust"
+    },
+    {
+        "mesto": 281,
+        "avtor": "The Staple Singers",
+        "naslov": "ll Take You There"
+    },
+    {
+        "mesto": 280,
+        "avtor": "Bruce Springsteen",
+        "naslov": "Born in the U.S.A."
+    },
+    {
+        "mesto": 279,
+        "avtor": "Jefferson Airplane",
+        "naslov": "Somebody to Love"
+    },
+    {
+        "mesto": 278,
+        "avtor": "The Beatles",
+        "naslov": "Something"
+    },
+    {
+        "mesto": 277,
+        "avtor": "Chuck Berry",
+        "naslov": "Sweet Little Sixteen"
+    },
+    {
+        "mesto": 276,
+        "avtor": "The Beach Boys",
+        "naslov": "Sloop John B"
+    },
+    {
+        "mesto": 275,
+        "avtor": "George Jones",
+        "naslov": "He Stopped Loving Her Today"
+    },
+    {
+        "mesto": 274,
+        "avtor": "The Modern Lovers",
+        "naslov": "Roadrunner"
+    },
+    {
+        "mesto": 273,
+        "avtor": "Kanye West",
+        "naslov": "Jesus Walks"
+    },
+    {
+        "mesto": 272,
+        "avtor": "U2",
+        "naslov": "Sunday Bloody Sunday"
+    },
+    {
+        "mesto": 271,
+        "avtor": "New York Dolls",
+        "naslov": "Personality Crisis"
+    },
+    {
+        "mesto": 270,
+        "avtor": "Archie Bell and The Drells",
+        "naslov": "Tighten Up"
+    },
+    {
+        "mesto": 269,
+        "avtor": "The Ronettes",
+        "naslov": "Walking in the Rain"
+    },
+    {
+        "mesto": 268,
+        "avtor": "Randy Newman",
+        "naslov": "Sail Away"
+    },
+    {
+        "mesto": 267,
+        "avtor": "The Crystals",
+        "naslov": "He's A Rebel"
+    },
+    {
+        "mesto": 266,
+        "avtor": "Smokey Robinson and The Miracles",
+        "naslov": "Ooo Baby Baby"
+    },
+    {
+        "mesto": 265,
+        "avtor": "Stevie Wonder",
+        "naslov": "Higher Ground"
+    },
+    {
+        "mesto": 264,
+        "avtor": "Jeff Buckley",
+        "naslov": "Hallelujah"
+    },
+    {
+        "mesto": 263,
+        "avtor": "The Dells",
+        "naslov": "Oh, What A Night"
+    },
+    {
+        "mesto": 262,
+        "avtor": "The Who",
+        "naslov": "I Can See For Miles"
+    },
+    {
+        "mesto": 261,
+        "avtor": "The Troggs",
+        "naslov": "Wild Thing"
+    },
+    {
+        "mesto": 260,
+        "avtor": "Bob Dylan",
+        "naslov": "Mississippi"
+    },
+    {
+        "mesto": 259,
+        "avtor": "Blondie",
+        "naslov": "Heart of Glass"
+    },
+    {
+        "mesto": 258,
+        "avtor": "AC/DC",
+        "naslov": "Highway to Hell"
+    },
+    {
+        "mesto": 257,
+        "avtor": "Radiohead",
+        "naslov": "Paranoid Android"
+    },
+    {
+        "mesto": 256,
+        "avtor": "Mott the Hoople",
+        "naslov": "All the Young Dudes"
+    },
+    {
+        "mesto": 255,
+        "avtor": "Bobby Darin",
+        "naslov": "Mack the Knife"
+    },
+    {
+        "mesto": 254,
+        "avtor": "The Drifters",
+        "naslov": "Money Honey"
+    },
+    {
+        "mesto": 253,
+        "avtor": "Black Sabbath",
+        "naslov": "Paranoid"
+    },
+    {
+        "mesto": 252,
+        "avtor": "Aretha Franklin",
+        "naslov": "Chain of Fools"
+    },
+    {
+        "mesto": 251,
+        "avtor": "Sugarhill Gang",
+        "naslov": "Rapper's Delight"
+    },
+    {
+        "mesto": 250,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Hot Fun in the Summertime"
+    },
+    {
+        "mesto": 249,
+        "avtor": "The Band",
+        "naslov": "The Night They Drove Old Dixie Down"
+    },
+    {
+        "mesto": 248,
+        "avtor": "Jackie Wilson",
+        "naslov": "(Your Love Keeps Lifting Me) Higher and Higher"
+    },
+    {
+        "mesto": 247,
+        "avtor": "The Spencer Davis Group",
+        "naslov": "Gimme Some Lovin'"
+    },
+    {
+        "mesto": 246,
+        "avtor": "The B-52's",
+        "naslov": "Love Shack"
+    },
+    {
+        "mesto": 245,
+        "avtor": "Elton John",
+        "naslov": "Rocket Man"
+    },
+    {
+        "mesto": 244,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Stand!"
+    },
+    {
+        "mesto": 243,
+        "avtor": "Dion",
+        "naslov": "The Wanderer"
+    },
+    {
+        "mesto": 242,
+        "avtor": "Dusty Springfield",
+        "naslov": "Son of a Preacher Man"
+    },
+    {
+        "mesto": 241,
+        "avtor": "Patsy Cline",
+        "naslov": "I Fall to Pieces"
+    },
+    {
+        "mesto": 240,
+        "avtor": "Afrika Bambaataa and the Soul Sonic Force",
+        "naslov": "Planet Rock"
+    },
+    {
+        "mesto": 239,
+        "avtor": "Ray Charles",
+        "naslov": "I Got a Woman"
+    },
+    {
+        "mesto": 238,
+        "avtor": "Buddy Holly and the Crickets",
+        "naslov": "Everyday"
+    },
+    {
+        "mesto": 237,
+        "avtor": "The Byrds",
+        "naslov": "I'll Feel a Whole Lot Better"
+    },
+    {
+        "mesto": 236,
+        "avtor": "M.I.A.",
+        "naslov": "Paper Planes"
+    },
+    {
+        "mesto": 235,
+        "avtor": "The Animals",
+        "naslov": "We Gotta Get Out of This Place"
+    },
+    {
+        "mesto": 234,
+        "avtor": "Roy Orbison",
+        "naslov": "Only the Lonely"
+    },
+    {
+        "mesto": 233,
+        "avtor": "Marvin Gaye",
+        "naslov": "Sexual Healing"
+    },
+    {
+        "mesto": 232,
+        "avtor": "Bob Dylan",
+        "naslov": "Just Like a Woman"
+    },
+    {
+        "mesto": 231,
+        "avtor": "Van Morrison",
+        "naslov": "Moondance"
+    },
+    {
+        "mesto": 230,
+        "avtor": "Muddy Waters",
+        "naslov": "Mannish Boy"
+    },
+    {
+        "mesto": 229,
+        "avtor": "Chic",
+        "naslov": "Good Times"
+    },
+    {
+        "mesto": 228,
+        "avtor": "The Clash",
+        "naslov": "Should I Stay or Should I Go"
+    },
+    {
+        "mesto": 227,
+        "avtor": "James Taylor",
+        "naslov": "Fire and Rain"
+    },
+    {
+        "mesto": 226,
+        "avtor": "Muddy Waters",
+        "naslov": "Hoochie Coochie Man"
+    },
+    {
+        "mesto": 225,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Dance to the Music"
+    },
+    {
+        "mesto": 224,
+        "avtor": "Roy Orbison",
+        "naslov": "Oh, Pretty Woman"
+    },
+    {
+        "mesto": 223,
+        "avtor": "Lou Reed",
+        "naslov": "Walk on the Wild Side"
+    },
+    {
+        "mesto": 222,
+        "avtor": "The Left Banke",
+        "naslov": "Walk Away Renee"
+    },
+    {
+        "mesto": 221,
+        "avtor": "Howlin' Wolf",
+        "naslov": "Spoonful"
+    },
+    {
+        "mesto": 220,
+        "avtor": "John Lee Hooker",
+        "naslov": "Boom Boom"
+    },
+    {
+        "mesto": 219,
+        "avtor": "Dolly Parton",
+        "naslov": "Jolene"
+    },
+    {
+        "mesto": 218,
+        "avtor": "The Lovin' Spoonful",
+        "naslov": "Do You Believe in Magic"
+    },
+    {
+        "mesto": 217,
+        "avtor": "Hank Williams",
+        "naslov": "Your Cheatin' Heart"
+    },
+    {
+        "mesto": 216,
+        "avtor": "Neil Young",
+        "naslov": "Rockin' in the Free World"
+    },
+    {
+        "mesto": 215,
+        "avtor": "Prince",
+        "naslov": "1999"
+    },
+    {
+        "mesto": 214,
+        "avtor": "The Beach Boys",
+        "naslov": "Caroline, No"
+    },
+    {
+        "mesto": 213,
+        "avtor": "? and the Mysterians",
+        "naslov": "96 Tears"
+    },
+    {
+        "mesto": 212,
+        "avtor": "The Beach Boys",
+        "naslov": "In My Room"
+    },
+    {
+        "mesto": 211,
+        "avtor": "Them",
+        "naslov": "Gloria"
+    },
+    {
+        "mesto": 210,
+        "avtor": "The Everly Brothers",
+        "naslov": "Bye Bye Love"
+    },
+    {
+        "mesto": 209,
+        "avtor": "The Four Tops",
+        "naslov": "Reach Out, I'll Be There"
+    },
+    {
+        "mesto": 208,
+        "avtor": "Bill Withers",
+        "naslov": "Lean on Me"
+    },
+    {
+        "mesto": 207,
+        "avtor": "Otis Redding",
+        "naslov": "Try a Little Tenderness"
+    },
+    {
+        "mesto": 206,
+        "avtor": "Bob Dylan",
+        "naslov": "Positively 4th Street"
+    },
+    {
+        "mesto": 205,
+        "avtor": "The Beatles",
+        "naslov": "Come Together"
+    },
+    {
+        "mesto": 204,
+        "avtor": "New Order",
+        "naslov": "Bizarre Love Triangle"
+    },
+    {
+        "mesto": 203,
+        "avtor": "Beck",
+        "naslov": "Loser"
+    },
+    {
+        "mesto": 202,
+        "avtor": "Parliament",
+        "naslov": "Flash Light"
+    },
+    {
+        "mesto": 201,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "Hey Joe"
+    },
+    {
+        "mesto": 200,
+        "avtor": "Elvis Presley",
+        "naslov": "Don't Be Cruel"
+    },
+    {
+        "mesto": 199,
+        "avtor": "The Chantels",
+        "naslov": "Maybe"
+    },
+    {
+        "mesto": 198,
+        "avtor": "Guns n' Roses",
+        "naslov": "Sweet Child O'Mine"
+    },
+    {
+        "mesto": 197,
+        "avtor": "Buddy Holly",
+        "naslov": "Peggy Sue"
+    },
+    {
+        "mesto": 196,
+        "avtor": "The Drifters",
+        "naslov": "There Goes My Baby"
+    },
+    {
+        "mesto": 195,
+        "avtor": "Glen Campbell",
+        "naslov": "Wichita Lineman"
+    },
+    {
+        "mesto": 194,
+        "avtor": "Amy Winehouse",
+        "naslov": "Rehab"
+    },
+    {
+        "mesto": 193,
+        "avtor": "Lynyrd Skynyrd",
+        "naslov": "Free Bird"
+    },
+    {
+        "mesto": 192,
+        "avtor": "Bob Dylan",
+        "naslov": "Knockin' on Heaven's Door"
+    },
+    {
+        "mesto": 191,
+        "avtor": "Bee Gees",
+        "naslov": "Stayin' Alive"
+    },
+    {
+        "mesto": 190,
+        "avtor": "AC/DC",
+        "naslov": "Back in Black"
+    },
+    {
+        "mesto": 189,
+        "avtor": "Aretha Franklin",
+        "naslov": "I Never Loved a Man (the Way I Love You)"
+    },
+    {
+        "mesto": 188,
+        "avtor": "Creedence Clearwater Revival",
+        "naslov": "Who'll Stop the Rain"
+    },
+    {
+        "mesto": 187,
+        "avtor": "Bob Dylan",
+        "naslov": "Desolation Row"
+    },
+    {
+        "mesto": 186,
+        "avtor": "The Beatles",
+        "naslov": "Please Please Me"
+    },
+    {
+        "mesto": 185,
+        "avtor": "B.B. King",
+        "naslov": "The Thrill is Gone"
+    },
+    {
+        "mesto": 184,
+        "avtor": "The Drifters",
+        "naslov": "Save the Last Dance for Me"
+    },
+    {
+        "mesto": 183,
+        "avtor": "Booker T. and the MG's",
+        "naslov": "Green Onions"
+    },
+    {
+        "mesto": 182,
+        "avtor": "OutKast",
+        "naslov": "Hey Ya!"
+    },
+    {
+        "mesto": 181,
+        "avtor": "Joy Division",
+        "naslov": "Love Will Tear Us Apart"
+    },
+    {
+        "mesto": 180,
+        "avtor": "Big Star",
+        "naslov": "September Gurls"
+    },
+    {
+        "mesto": 179,
+        "avtor": "Tom Petty",
+        "naslov": "Free Fallin'"
+    },
+    {
+        "mesto": 178,
+        "avtor": "The Beach Boys",
+        "naslov": "Don't Worry Baby"
+    },
+    {
+        "mesto": 177,
+        "avtor": "The Bobby Fuller Four",
+        "naslov": "I Fought the Law"
+    },
+    {
+        "mesto": 176,
+        "avtor": "The Rolling Stones",
+        "naslov": "Paint it Black"
+    },
+    {
+        "mesto": 175,
+        "avtor": "The Sex Pistols",
+        "naslov": "God Save the Queen"
+    },
+    {
+        "mesto": 174,
+        "avtor": "Abba",
+        "naslov": "Dancing Queen"
+    },
+    {
+        "mesto": 173,
+        "avtor": "Aerosmith",
+        "naslov": "Dream On"
+    },
+    {
+        "mesto": 172,
+        "avtor": "Jay-Z",
+        "naslov": "99 Problems"
+    },
+    {
+        "mesto": 171,
+        "avtor": "Joni Mitchell",
+        "naslov": "Both Sides Now"
+    },
+    {
+        "mesto": 170,
+        "avtor": "R.E.M.",
+        "naslov": "Losing My Religion"
+    },
+    {
+        "mesto": 169,
+        "avtor": "The Temptations",
+        "naslov": "Papa Was a Rollin' Stone"
+    },
+    {
+        "mesto": 168,
+        "avtor": "Marvin Gaye",
+        "naslov": "Let's Get It On"
+    },
+    {
+        "mesto": 167,
+        "avtor": "Tracy Chapman",
+        "naslov": "Fast Car"
+    },
+    {
+        "mesto": 166,
+        "avtor": "Queen",
+        "naslov": "Bohemian Rhapsody"
+    },
+    {
+        "mesto": 165,
+        "avtor": "Sinead O'Connor",
+        "naslov": "Nothing Compares 2 U"
+    },
+    {
+        "mesto": 164,
+        "avtor": "Ray Charles",
+        "naslov": "I Can't Stop Loving You"
+    },
+    {
+        "mesto": 163,
+        "avtor": "Johnny Cash",
+        "naslov": "Folsom Prison Blues"
+    },
+    {
+        "mesto": 162,
+        "avtor": "Public Enemy",
+        "naslov": "Bring the Noise"
+    },
+    {
+        "mesto": 161,
+        "avtor": "The Velvet Underground",
+        "naslov": "I'm Waiting for the Man"
+    },
+    {
+        "mesto": 160,
+        "avtor": "U2",
+        "naslov": "Moment of Surrender"
+    },
+    {
+        "mesto": 159,
+        "avtor": "Bill Haley and His Comets",
+        "naslov": "(We're Gonna) Rock Around the Clock"
+    },
+    {
+        "mesto": 158,
+        "avtor": "The Flamingos",
+        "naslov": "I Only Have Eyes for You"
+    },
+    {
+        "mesto": 157,
+        "avtor": "Simon and Garfunkel",
+        "naslov": "The Sounds of Silence"
+    },
+    {
+        "mesto": 156,
+        "avtor": "Creedence Clearwater Revival",
+        "naslov": "Proud Mary"
+    },
+    {
+        "mesto": 155,
+        "avtor": "Buddy Holly and the Crickets",
+        "naslov": "Rave On"
+    },
+    {
+        "mesto": 154,
+        "avtor": "The Beatles",
+        "naslov": "A Hard Day's Night"
+    },
+    {
+        "mesto": 153,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "Foxey Lady"
+    },
+    {
+        "mesto": 152,
+        "avtor": "The Penguins",
+        "naslov": "Earth Angel"
+    },
+    {
+        "mesto": 151,
+        "avtor": "The Byrds",
+        "naslov": "Eight Miles High"
+    },
+    {
+        "mesto": 150,
+        "avtor": "The Everly Brothers",
+        "naslov": "Cathy's Clown"
+    },
+    {
+        "mesto": 149,
+        "avtor": "Iggy Pop",
+        "naslov": "Lust for Life"
+    },
+    {
+        "mesto": 148,
+        "avtor": "Janis Joplin",
+        "naslov": "Me and Bobby McGee"
+    },
+    {
+        "mesto": 147,
+        "avtor": "The B-52's",
+        "naslov": "Rock Lobster"
+    },
+    {
+        "mesto": 146,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Everyday People"
+    },
+    {
+        "mesto": 145,
+        "avtor": "Ramones",
+        "naslov": "I Wanna Be Sedated"
+    },
+    {
+        "mesto": 144,
+        "avtor": "Prince and the Revolution",
+        "naslov": "Purple Rain"
+    },
+    {
+        "mesto": 143,
+        "avtor": "James Brown and His Famous Flames",
+        "naslov": "Please, Please, Please"
+    },
+    {
+        "mesto": 142,
+        "avtor": "The Everly Brothers",
+        "naslov": "All I Have to Do Is Dream"
+    },
+    {
+        "mesto": 141,
+        "avtor": "Led Zeppelin",
+        "naslov": "Kashmir"
+    },
+    {
+        "mesto": 140,
+        "avtor": "The Beatles",
+        "naslov": "I Saw Her Standing There"
+    },
+    {
+        "mesto": 139,
+        "avtor": "Sly and the Family Stone",
+        "naslov": "Family Affair"
+    },
+    {
+        "mesto": 138,
+        "avtor": "The Beatles",
+        "naslov": "Eleanor Rigby"
+    },
+    {
+        "mesto": 137,
+        "avtor": "Elton John",
+        "naslov": "Your Song"
+    },
+    {
+        "mesto": 136,
+        "avtor": "The Beatles",
+        "naslov": "While My Guitar Gently Weeps"
+    },
+    {
+        "mesto": 135,
+        "avtor": "Wilson Pickett",
+        "naslov": "In the Midnight Hour"
+    },
+    {
+        "mesto": 134,
+        "avtor": "The Who",
+        "naslov": "Won't Get Fooled Again"
+    },
+    {
+        "mesto": 133,
+        "avtor": "Bo Diddley",
+        "naslov": "Who Do You Love?"
+    },
+    {
+        "mesto": 132,
+        "avtor": "U2",
+        "naslov": "With or Without You"
+    },
+    {
+        "mesto": 131,
+        "avtor": "Rod Stewart",
+        "naslov": "Maggie May"
+    },
+    {
+        "mesto": 130,
+        "avtor": "Steppenwolf",
+        "naslov": "Born to Be Wild"
+    },
+    {
+        "mesto": 129,
+        "avtor": "Chuck Berry",
+        "naslov": "Rock &amp; Roll Music"
+    },
+    {
+        "mesto": 128,
+        "avtor": "David Bowie",
+        "naslov": "Changes"
+    },
+    {
+        "mesto": 127,
+        "avtor": "Big Joe Turner",
+        "naslov": "Shake, Rattle &amp; Roll"
+    },
+    {
+        "mesto": 126,
+        "avtor": "The Shirelles",
+        "naslov": "Will You Love Me Tomorrow"
+    },
+    {
+        "mesto": 125,
+        "avtor": "The Rolling Stones",
+        "naslov": "Jumpin' Jack Flash"
+    },
+    {
+        "mesto": 124,
+        "avtor": "James Brown",
+        "naslov": "It's A Man's Man's Man's World"
+    },
+    {
+        "mesto": 123,
+        "avtor": "The Animals",
+        "naslov": "The House of the Rising Sun"
+    },
+    {
+        "mesto": 122,
+        "avtor": "Ben E. King",
+        "naslov": "Stand By Me"
+    },
+    {
+        "mesto": 121,
+        "avtor": "The Jackson 5",
+        "naslov": "I Want You Back"
+    },
+    {
+        "mesto": 120,
+        "avtor": "Fleetwood Mac",
+        "naslov": "Go Your Own Way"
+    },
+    {
+        "mesto": 119,
+        "avtor": "The Isley Brothers",
+        "naslov": "Shout (Parts 1 and 2)"
+    },
+    {
+        "mesto": 118,
+        "avtor": "Beyonce feat. Jay-Z",
+        "naslov": "Crazy in Love"
+    },
+    {
+        "mesto": 117,
+        "avtor": "Al Green",
+        "naslov": "Take Me to the River"
+    },
+    {
+        "mesto": 116,
+        "avtor": "The Rolling Stones",
+        "naslov": "Honky Tonk Women"
+    },
+    {
+        "mesto": 115,
+        "avtor": "Sam Cooke",
+        "naslov": "You Send Me"
+    },
+    {
+        "mesto": 114,
+        "avtor": "The Drifters",
+        "naslov": "Up on the Roof"
+    },
+    {
+        "mesto": 113,
+        "avtor": "Elvis Presley",
+        "naslov": "That's All Right"
+    },
+    {
+        "mesto": 112,
+        "avtor": "Hank Williams",
+        "naslov": "I'm So Lonesome I Could Cry"
+    },
+    {
+        "mesto": 111,
+        "avtor": "Otis Redding",
+        "naslov": "I've Been Loving You too Long (to Stop Now)"
+    },
+    {
+        "mesto": 110,
+        "avtor": "Van Morrison",
+        "naslov": "Brown Eyed Girl"
+    },
+    {
+        "mesto": 109,
+        "avtor": "Prince",
+        "naslov": "Little Red Corvette"
+    },
+    {
+        "mesto": 108,
+        "avtor": "Buddy Holly and the Crickets",
+        "naslov": "Not Fade Away"
+    },
+    {
+        "mesto": 107,
+        "avtor": "Bob Dylan",
+        "naslov": "Mr. Tambourine Man"
+    },
+    {
+        "mesto": 106,
+        "avtor": "Simon and Garfunkel",
+        "naslov": "The Boxer"
+    },
+    {
+        "mesto": 105,
+        "avtor": "Stevie Wonder",
+        "naslov": "Living for the City"
+    },
+    {
+        "mesto": 104,
+        "avtor": "Donna Summer",
+        "naslov": "Hot Stuff"
+    },
+    {
+        "mesto": 103,
+        "avtor": "Gene Vincent and His Blue Caps",
+        "naslov": "Be-Bop-A-Lula"
+    },
+    {
+        "mesto": 102,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "Voodoo Child (Slight Return)"
+    },
+    {
+        "mesto": 101,
+        "avtor": "The Rolling Stones",
+        "naslov": "You Can't Always Get What You Want"
+    },
+    {
+        "mesto": 100,
+        "avtor": "Gnarls Barkley",
+        "naslov": "Crazy"
+    },
+    {
+        "mesto": 99,
+        "avtor": "Creedence Clearwater Revival",
+        "naslov": "Fortunate Son"
+    },
+    {
+        "mesto": 98,
+        "avtor": "Al Green",
+        "naslov": "Love and Happiness"
+    },
+    {
+        "mesto": 97,
+        "avtor": "Chuck Berry",
+        "naslov": "Roll Over Beethoven"
+    },
+    {
+        "mesto": 96,
+        "avtor": "Jerry Lee Lewis",
+        "naslov": "Great Balls of Fire"
+    },
+    {
+        "mesto": 95,
+        "avtor": "Carl Perkins",
+        "naslov": "Blue Suede Shoes"
+    },
+    {
+        "mesto": 94,
+        "avtor": "Little Richard",
+        "naslov": "Good Golly, Miss Molly"
+    },
+    {
+        "mesto": 93,
+        "avtor": "U2",
+        "naslov": "I Still Haven't Found What I'm Looking For"
+    },
+    {
+        "mesto": 92,
+        "avtor": "Ramones",
+        "naslov": "Blitzkrieg Bop"
+    },
+    {
+        "mesto": 91,
+        "avtor": "Elvis Presley",
+        "naslov": "Suspicious Minds"
+    },
+    {
+        "mesto": 90,
+        "avtor": "The Five Satins",
+        "naslov": "In the Still of the Night"
+    },
+    {
+        "mesto": 89,
+        "avtor": "The Mamas and the Papas",
+        "naslov": "California Dreamin'"
+    },
+    {
+        "mesto": 88,
+        "avtor": "The Temptations",
+        "naslov": "My Girl"
+    },
+    {
+        "mesto": 87,
+        "avtor": "Johnny Cash",
+        "naslov": "Ring of Fire"
+    },
+    {
+        "mesto": 86,
+        "avtor": "Bruce Springsteen",
+        "naslov": "Thunder Road"
+    },
+    {
+        "mesto": 85,
+        "avtor": "Patsy Cline",
+        "naslov": "Crazy"
+    },
+    {
+        "mesto": 84,
+        "avtor": "The Police",
+        "naslov": "Every Breath You Take"
+    },
+    {
+        "mesto": 83,
+        "avtor": "The Beatles",
+        "naslov": "Norwegian Wood (This Bird Has Flown)"
+    },
+    {
+        "mesto": 82,
+        "avtor": "Fats Domino",
+        "naslov": "Blueberry Hill"
+    },
+    {
+        "mesto": 81,
+        "avtor": "Marvin Gaye",
+        "naslov": "I Heard It Through the Grapevine"
+    },
+    {
+        "mesto": 80,
+        "avtor": "The Kinks",
+        "naslov": "You Really Got Me"
+    },
+    {
+        "mesto": 79,
+        "avtor": "The Byrds",
+        "naslov": "Mr. Tambourine Man"
+    },
+    {
+        "mesto": 78,
+        "avtor": "James Brown",
+        "naslov": "I Got You (I Feel Good)"
+    },
+    {
+        "mesto": 77,
+        "avtor": "Elvis Presley",
+        "naslov": "Mystery Train"
+    },
+    {
+        "mesto": 76,
+        "avtor": "The Beatles",
+        "naslov": "Strawberry Fields Forever"
+    },
+    {
+        "mesto": 75,
+        "avtor": "Led Zeppelin",
+        "naslov": "Whole Lotta Love"
+    },
+    {
+        "mesto": 74,
+        "avtor": "Eddie Cochran",
+        "naslov": "Summertime Blues"
+    },
+    {
+        "mesto": 73,
+        "avtor": "Stevie Wonder",
+        "naslov": "Superstition"
+    },
+    {
+        "mesto": 72,
+        "avtor": "The Beach Boys",
+        "naslov": "California Girls"
+    },
+    {
+        "mesto": 71,
+        "avtor": "James Brown",
+        "naslov": "Papa's Got A Brand New Bag"
+    },
+    {
+        "mesto": 70,
+        "avtor": "Dionne Warwick",
+        "naslov": "Walk On By"
+    },
+    {
+        "mesto": 69,
+        "avtor": "Roy Orbison",
+        "naslov": "Crying"
+    },
+    {
+        "mesto": 68,
+        "avtor": "Bob Dylan",
+        "naslov": "Tangled Up in Blue"
+    },
+    {
+        "mesto": 67,
+        "avtor": "Elvis Presley",
+        "naslov": "Jailhouse Rock"
+    },
+    {
+        "mesto": 66,
+        "avtor": "Bob Marley and the Wailers",
+        "naslov": "Redemption Song"
+    },
+    {
+        "mesto": 65,
+        "avtor": "Cream",
+        "naslov": "Sunshine of Your Love"
+    },
+    {
+        "mesto": 64,
+        "avtor": "The Beatles",
+        "naslov": "She Loves You"
+    },
+    {
+        "mesto": 63,
+        "avtor": "Buffalo Springfield",
+        "naslov": "For What It's Worth"
+    },
+    {
+        "mesto": 62,
+        "avtor": "Bo Diddley",
+        "naslov": "Bo Diddley"
+    },
+    {
+        "mesto": 61,
+        "avtor": "Jerry Lee Lewis",
+        "naslov": "Whole Lotta Shakin' Going On"
+    },
+    {
+        "mesto": 60,
+        "avtor": "Al Green",
+        "naslov": "Let's Stay Together"
+    },
+    {
+        "mesto": 59,
+        "avtor": "Bob Dylan",
+        "naslov": "The Times They Are A-Changin"
+    },
+    {
+        "mesto": 58,
+        "avtor": "Michael Jackson",
+        "naslov": "Billie Jean"
+    },
+    {
+        "mesto": 57,
+        "avtor": "Procol Harum",
+        "naslov": "Whiter Shade of Pale"
+    },
+    {
+        "mesto": 56,
+        "avtor": "The Sex Pistols",
+        "naslov": "Anarchy in the U.K."
+    },
+    {
+        "mesto": 55,
+        "avtor": "Little Richard",
+        "naslov": "Long Tall Sally"
+    },
+    {
+        "mesto": 54,
+        "avtor": "The Kingsmen",
+        "naslov": "Louie Louie"
+    },
+    {
+        "mesto": 53,
+        "avtor": "Percy Sledge",
+        "naslov": "When a Man Loves a Woman"
+    },
+    {
+        "mesto": 52,
+        "avtor": "Prince",
+        "naslov": "When Doves Cry"
+    },
+    {
+        "mesto": 51,
+        "avtor": "Grandmaster Flash and the Furious Five",
+        "naslov": "The Message"
+    },
+    {
+        "mesto": 50,
+        "avtor": "Smokey Robinson and the Miracles",
+        "naslov": "The Tracks of My Tears"
+    },
+    {
+        "mesto": 49,
+        "avtor": "The Eagles",
+        "naslov": "Hotel California"
+    },
+    {
+        "mesto": 48,
+        "avtor": "Simon and Garfunkel",
+        "naslov": "Bridge Over Troubled Water"
+    },
+    {
+        "mesto": 47,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "All Along the Watchtower"
+    },
+    {
+        "mesto": 46,
+        "avtor": "David Bowie",
+        "naslov": "Heroes"
+    },
+    {
+        "mesto": 45,
+        "avtor": "Elvis Presley",
+        "naslov": "Heartbreak Hotel"
+    },
+    {
+        "mesto": 44,
+        "avtor": "Ray Charles",
+        "naslov": "Georgia on My Mind"
+    },
+    {
+        "mesto": 43,
+        "avtor": "Little Richard",
+        "naslov": "Tutti-Frutti"
+    },
+    {
+        "mesto": 42,
+        "avtor": "The Kinks",
+        "naslov": "Waterloo Sunset"
+    },
+    {
+        "mesto": 41,
+        "avtor": "The Band",
+        "naslov": "The Weight"
+    },
+    {
+        "mesto": 40,
+        "avtor": "Martha Reeves and the Vandellas",
+        "naslov": "Dancing in the Street"
+    },
+    {
+        "mesto": 39,
+        "avtor": "Buddy Holly and the Crickets",
+        "naslov": "That'll Be the Day"
+    },
+    {
+        "mesto": 38,
+        "avtor": "The Rolling Stones",
+        "naslov": "Gimme Shelter"
+    },
+    {
+        "mesto": 37,
+        "avtor": "Bob Marley",
+        "naslov": "No Woman, No Cry"
+    },
+    {
+        "mesto": 36,
+        "avtor": "U2",
+        "naslov": "One"
+    },
+    {
+        "mesto": 35,
+        "avtor": "The Doors",
+        "naslov": "Light My Fire"
+    },
+    {
+        "mesto": 34,
+        "avtor": "The Righteous Brothers",
+        "naslov": "You've Lost That Lovin' Feelin'"
+    },
+    {
+        "mesto": 33,
+        "avtor": "Ike and Tina Turner",
+        "naslov": "River Deep - Mountain High"
+    },
+    {
+        "mesto": 32,
+        "avtor": "The Rolling Stones",
+        "naslov": "Sympathy for the Devil"
+    },
+    {
+        "mesto": 31,
+        "avtor": "Led Zeppelin",
+        "naslov": "Stairway to Heaven"
+    },
+    {
+        "mesto": 30,
+        "avtor": "Johnny Cash",
+        "naslov": "I Walk the Line"
+    },
+    {
+        "mesto": 29,
+        "avtor": "The Beatles",
+        "naslov": "Help!"
+    },
+    {
+        "mesto": 28,
+        "avtor": "The Beatles",
+        "naslov": "A Day in the Life"
+    },
+    {
+        "mesto": 27,
+        "avtor": "Derek and the Dominos",
+        "naslov": "Layla"
+    },
+    {
+        "mesto": 26,
+        "avtor": "Otis Redding",
+        "naslov": "(Sittin' on) the Dock of the Bay"
+    },
+    {
+        "mesto": 25,
+        "avtor": "The Beach Boys",
+        "naslov": "God Only Knows"
+    },
+    {
+        "mesto": 24,
+        "avtor": "The Impressions",
+        "naslov": "People Get Ready"
+    },
+    {
+        "mesto": 23,
+        "avtor": "The Beatles",
+        "naslov": "In My Life"
+    },
+    {
+        "mesto": 22,
+        "avtor": "The Ronettes",
+        "naslov": "Be My Baby"
+    },
+    {
+        "mesto": 21,
+        "avtor": "Bruce Springsteen",
+        "naslov": "Born to Run"
+    },
+    {
+        "mesto": 20,
+        "avtor": "The Beatles",
+        "naslov": "Let It Be"
+    },
+    {
+        "mesto": 19,
+        "avtor": "Elvis Presley",
+        "naslov": "Hound Dog"
+    },
+    {
+        "mesto": 18,
+        "avtor": "Chuck Berry",
+        "naslov": "Maybellene"
+    },
+    {
+        "mesto": 17,
+        "avtor": "The Jimi Hendrix Experience",
+        "naslov": "Purple Haze"
+    },
+    {
+        "mesto": 16,
+        "avtor": "The Beatles",
+        "naslov": "I Want to Hold Your Hand"
+    },
+    {
+        "mesto": 15,
+        "avtor": "The Clash",
+        "naslov": "London Calling"
+    },
+    {
+        "mesto": 14,
+        "avtor": "Bob Dylan",
+        "naslov": "Blowin' in the Wind"
+    },
+    {
+        "mesto": 13,
+        "avtor": "The Beatles",
+        "naslov": "Yesterday"
+    },
+    {
+        "mesto": 12,
+        "avtor": "Sam Cooke",
+        "naslov": "A Change Is Gonna Come"
+    },
+    {
+        "mesto": 11,
+        "avtor": "The Who",
+        "naslov": "My Generation"
+    },
+    {
+        "mesto": 10,
+        "avtor": "Ray Charles",
+        "naslov": "What'd I Say"
+    },
+    {
+        "mesto": 9,
+        "avtor": "Nirvana",
+        "naslov": "Smells Like Teen Spirit"
+    },
+    {
+        "mesto": 8,
+        "avtor": "The Beatles",
+        "naslov": "Hey Jude"
+    },
+    {
+        "mesto": 7,
+        "avtor": "Chuck Berry",
+        "naslov": "Johnny B. Goode"
+    },
+    {
+        "mesto": 6,
+        "avtor": "The Beach Boys",
+        "naslov": "Good Vibrations"
+    },
+    {
+        "mesto": 5,
+        "avtor": "Aretha Franklin",
+        "naslov": "Respect"
+    },
+    {
+        "mesto": 4,
+        "avtor": "Marvin Gaye",
+        "naslov": "What's Going On"
+    },
+    {
+        "mesto": 3,
+        "avtor": "John Lennon",
+        "naslov": "Imagine"
+    },
+    {
+        "mesto": 2,
+        "avtor": "The Rolling Stones",
+        "naslov": "(I Can't Get No) Satisfaction"
+    },
+    {
+        "mesto": 1,
+        "avtor": "Bob Dylan",
+        "naslov": "Like a Rolling Stone"
+    }
+]
