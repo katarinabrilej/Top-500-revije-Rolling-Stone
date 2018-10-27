@@ -2,2501 +2,3993 @@
     {
         "mesto": 500,
         "avtor": "Smokey Robinson and the Miracles",
-        "naslov": "Shop Around"
+        "naslov": "Shop Around",
+        "producent": "Gordy",
+        "leto": "60",
+        "zalozba": " Tamla <br />16 weeks; No. 2"
     },
     {
         "mesto": 499,
         "avtor": "Weezer",
-        "naslov": "Buddy Holly"
+        "naslov": "Buddy Holly",
+        "producent": "Ric Ocasek",
+        "leto": "94",
+        "zalozba": " DGC <br />21 weeks; No. 18"
     },
     {
         "mesto": 498,
         "avtor": "The Rolling Stones",
-        "naslov": "Miss You"
+        "naslov": "Miss You",
+        "producent": "The Glimmer Twins",
+        "leto": "78",
+        "zalozba": " Rolling Stones <br />20 weeks; No. 1"
     },
     {
         "mesto": 497,
         "avtor": "Bruce Springsteen",
-        "naslov": "The Rising"
+        "naslov": "The Rising",
+        "producent": "Brendan O'Brien",
+        "leto": "02",
+        "zalozba": " Columbia <br />11 weeks; No. 52"
     },
     {
         "mesto": 496,
         "avtor": "Jackson Browne",
-        "naslov": "Running on Empty"
+        "naslov": "Running on Empty",
+        "producent": "Browne",
+        "leto": "77",
+        "zalozba": " Asylum <br />17 weeks; No. 11"
     },
     {
         "mesto": 495,
         "avtor": "The Rolling Stones",
-        "naslov": "Brown Sugar"
+        "naslov": "Brown Sugar",
+        "producent": "Jimmy Miller",
+        "leto": "71",
+        "zalozba": " Rolling Stones <br />12 weeks; No. 1"
     },
     {
         "mesto": 494,
         "avtor": "R. Kelly",
-        "naslov": "Ignition (Remix)"
+        "naslov": "Ignition (Remix)",
+        "producent": "Kelly",
+        "leto": "02",
+        "zalozba": " Jive <br />42 weeks; No. 2"
     },
     {
         "mesto": 493,
         "avtor": "MGMT",
-        "naslov": "Time to Pretend"
+        "naslov": "Time to Pretend",
+        "producent": "Dave Fridmann",
+        "leto": "08",
+        "zalozba": " Columbia <br />Did Not Chart"
     },
     {
         "mesto": 492,
         "avtor": "Gloria Gaynor",
-        "naslov": "I Will Survive"
+        "naslov": "I Will Survive",
+        "producent": "Fekaris, Perren",
+        "leto": "78",
+        "zalozba": " Polydor <br />27 weeks; No. 1"
     },
     {
         "mesto": 491,
         "avtor": "Joan Jett and the Blackhearts",
-        "naslov": "I Love Rock 'N Roll"
+        "naslov": "I Love Rock 'N Roll",
+        "producent": "Ritchie Cordell, Kenny Laguna",
+        "leto": "82",
+        "zalozba": " Boardwalk <br />20 weeks; No. 1"
     },
     {
         "mesto": 490,
         "avtor": "Coldplay",
-        "naslov": "Clocks"
+        "naslov": "Clocks",
+        "producent": "Ken Nelson, Mark Phythian",
+        "leto": "02",
+        "zalozba": " Capitol <br />22 weeks; No. 29"
     },
     {
         "mesto": 489,
         "avtor": "The Drifters",
-        "naslov": "Under the Boardwalk"
+        "naslov": "Under the Boardwalk",
+        "producent": "Bert Berns",
+        "leto": "64",
+        "zalozba": " Atlantic <br />33 weeks; No. 4"
     },
     {
         "mesto": 488,
         "avtor": "The Cure",
-        "naslov": "Just Like Heaven"
+        "naslov": "Just Like Heaven",
+        "producent": "David Allen, Smith",
+        "leto": "87",
+        "zalozba": " Elektra   <br />19 weeks; No. 40"
     },
     {
         "mesto": 487,
         "avtor": "Alice Cooper",
-        "naslov": "I'm Eighteen"
+        "naslov": "I'm Eighteen",
+        "producent": "Bob Erzin, Jack Richardson",
+        "leto": "71",
+        "zalozba": " Warner Bros. <br />13 weeks; No. 21"
     },
     {
         "mesto": 486,
         "avtor": "David Bowie",
-        "naslov": "Young Americans"
+        "naslov": "Young Americans",
+        "producent": "Tony Visconti",
+        "leto": "75",
+        "zalozba": " RCA <br />11 weeks; No. 28"
     },
     {
         "mesto": 485,
         "avtor": "LaBelle",
-        "naslov": "Lady Marmalade"
+        "naslov": "Lady Marmalade",
+        "producent": "Allen Toussaint",
+        "leto": "75",
+        "zalozba": " Epic <br />18 weeks; No. 1"
     },
     {
         "mesto": 484,
         "avtor": "Justin Timberlake",
-        "naslov": "Cry Me a River"
+        "naslov": "Cry Me a River",
+        "producent": "Timbaland",
+        "leto": "02",
+        "zalozba": " Jive <br />20 weeks; No. 3"
     },
     {
         "mesto": 483,
         "avtor": "Jefferson Airplane",
-        "naslov": "White Rabbit"
+        "naslov": "White Rabbit",
+        "producent": "Rick Jarrard",
+        "leto": "67",
+        "zalozba": " RCA <br />10 weeks; No. 8"
     },
     {
         "mesto": 482,
         "avtor": "Kelly Clarkson",
-        "naslov": "Since U Been Gone"
+        "naslov": "Since U Been Gone",
+        "producent": "Dr. Luke, Martin",
+        "leto": "04",
+        "zalozba": " RCA <br />46 weeks; No. 2"
     },
     {
         "mesto": 481,
         "avtor": "Rick James",
-        "naslov": "Super Freak"
+        "naslov": "Super Freak",
+        "producent": "James",
+        "leto": "81",
+        "zalozba": " Gordy <br />24 weeks; No. 16"
     },
     {
         "mesto": 480,
         "avtor": "Beastie Boys",
-        "naslov": "Sabotage"
+        "naslov": "Sabotage",
+        "producent": "Beastie Boys, Mario Caldato Jr.",
+        "leto": "94",
+        "zalozba": " Grand Royal <br />Did Not Chart"
     },
     {
         "mesto": 479,
         "avtor": "Foreigner",
-        "naslov": "I Want to Know What Love Is"
+        "naslov": "I Want to Know What Love Is",
+        "producent": "Jones, Alex Sadkin",
+        "leto": "84",
+        "zalozba": " Atlantic <br />21 weeks; No. 1"
     },
     {
         "mesto": 478,
         "avtor": "The Strokes",
-        "naslov": "Last Nite"
+        "naslov": "Last Nite",
+        "producent": "Gordon Raphael",
+        "leto": "01",
+        "zalozba": " RCA <br />Did Not Chart"
     },
     {
         "mesto": 477,
         "avtor": "The Smiths",
-        "naslov": "How Soon Is Now?"
+        "naslov": "How Soon Is Now?",
+        "producent": "John Porter",
+        "leto": "85",
+        "zalozba": " Sire  <br />Did Not Chart"
     },
     {
         "mesto": 476,
         "avtor": "Aretha Franklin",
-        "naslov": "Do Right Woman — Do Right Man"
+        "naslov": "Do Right Woman — Do Right Man",
+        "producent": "Jerry Wexler",
+        "leto": "67",
+        "zalozba": " Atlantic <br />11 weeks; No. 9"
     },
     {
         "mesto": 475,
         "avtor": "The Supremes",
-        "naslov": "Where Did Our Love Go"
+        "naslov": "Where Did Our Love Go",
+        "producent": "Brian Holland, Dozier",
+        "leto": "64",
+        "zalozba": " Motown  <br />14 weeks; No. 1"
     },
     {
         "mesto": 474,
         "avtor": "Van Morrison",
-        "naslov": "Into the Mystic"
+        "naslov": "Into the Mystic",
+        "producent": "Morrison",
+        "leto": "70",
+        "zalozba": " Warner Bros. <br />Non-Single"
     },
     {
         "mesto": 473,
         "avtor": "Guns N' Roses",
-        "naslov": "Welcome to the Jungle"
+        "naslov": "Welcome to the Jungle",
+        "producent": "Mike Clink",
+        "leto": "87",
+        "zalozba": " Geffen  <br />17 weeks; No. 7"
     },
     {
         "mesto": 472,
         "avtor": "Del Shannon",
-        "naslov": "Runaway"
+        "naslov": "Runaway",
+        "producent": "Harry Balk, Irving Micahnik",
+        "leto": "61",
+        "zalozba": " Big Top  <br />17 weeks; No. 1"
     },
     {
         "mesto": 471,
         "avtor": "Cheap Trick",
-        "naslov": "Surrender"
+        "naslov": "Surrender",
+        "producent": "Tom Werman",
+        "leto": "78",
+        "zalozba": " Epic  <br />8 weeks; No. 62"
     },
     {
         "mesto": 470,
         "avtor": "The Four Tops",
-        "naslov": "Standing in the Shadows of Love"
+        "naslov": "Standing in the Shadows of Love",
+        "producent": "Brian Holland, Dozier",
+        "leto": "66",
+        "zalozba": " Motown <br />10 weeks; No. 6"
     },
     {
         "mesto": 469,
         "avtor": "The Beatles",
-        "naslov": "Rain"
+        "naslov": "Rain",
+        "producent": "George Martin",
+        "leto": "66",
+        "zalozba": " Capitol<br />\n7 weeks; No. 23"
     },
     {
         "mesto": 468,
         "avtor": "The Staple Singers",
-        "naslov": "Respect Yourself"
+        "naslov": "Respect Yourself",
+        "producent": "Al Bell",
+        "leto": "71",
+        "zalozba": " Stax <br />14 weeks; No. 12"
     },
     {
         "mesto": 467,
         "avtor": "Jay-Z Featuring UGK",
-        "naslov": "Big Pimpin'"
+        "naslov": "Big Pimpin'",
+        "producent": "Timbaland",
+        "leto": "99",
+        "zalozba": " Roc-A-Fella <br />20 weeks; No. 18"
     },
     {
         "mesto": 466,
         "avtor": "Missy Elliott",
-        "naslov": "Get Ur Freak On"
+        "naslov": "Get Ur Freak On",
+        "producent": "Timbaland",
+        "leto": "01",
+        "zalozba": " Gold Mind/Elektra <br />25 weeks; No. 7"
     },
     {
         "mesto": 465,
         "avtor": "Muddy Waters",
-        "naslov": "Rollin' Stone"
+        "naslov": "Rollin' Stone",
+        "producent": "Leonard and Phil Chess",
+        "leto": "1948",
+        "zalozba": " Chess <br />predates chart"
     },
     {
         "mesto": 464,
         "avtor": "Prince and the Revolution",
-        "naslov": "Kiss"
+        "naslov": "Kiss",
+        "producent": "Prince and the Revolution",
+        "leto": "86",
+        "zalozba": " Paisley Park  <br />18 weeks; No. 1"
     },
     {
         "mesto": 463,
         "avtor": "Sam and Dave",
-        "naslov": "Soul Man"
+        "naslov": "Soul Man",
+        "producent": "Hayes, Porter",
+        "leto": "67",
+        "zalozba": " Stax <br />15 weeks; No. 2"
     },
     {
         "mesto": 462,
         "avtor": "Nirvana",
-        "naslov": "All Apologies"
+        "naslov": "All Apologies",
+        "producent": "Steve Albini",
+        "leto": "93",
+        "zalozba": " Geffen  <br />22 weeks; No. 45"
     },
     {
         "mesto": 461,
         "avtor": "Ramones",
-        "naslov": "Sheena Is a Punk Rocker"
+        "naslov": "Sheena Is a Punk Rocker",
+        "producent": "Tony Bongiovi, T. Erdelyi",
+        "leto": "77",
+        "zalozba": " Sire  <br />13 weeks; No. 81"
     },
     {
         "mesto": 460,
         "avtor": "George Harrison",
-        "naslov": "My Sweet Lord"
+        "naslov": "My Sweet Lord",
+        "producent": "Harrison, Phil Spector",
+        "leto": "70",
+        "zalozba": " Apple  <br />14 weeks; No. 1"
     },
     {
         "mesto": 459,
         "avtor": "Guns N' Roses",
-        "naslov": "Paradise City"
+        "naslov": "Paradise City",
+        "producent": "Mike Clink",
+        "leto": "87",
+        "zalozba": " Geffen  <br />17 weeks; No. 5"
     },
     {
         "mesto": 458,
         "avtor": "Sam Cooke",
-        "naslov": "Cupid"
+        "naslov": "Cupid",
+        "producent": "Cooke, Hugo and Luigi",
+        "leto": "61",
+        "zalozba": " RCA <br />17 weeks; No. 12"
     },
     {
         "mesto": 457,
         "avtor": "Chubby Checker",
-        "naslov": "The Twist"
+        "naslov": "The Twist",
+        "producent": "Karl Mann",
+        "leto": "60",
+        "zalozba": " Parkway  <br />39 weeks; No. 1"
     },
     {
         "mesto": 456,
         "avtor": "The Beatles",
-        "naslov": "Penny Lane"
+        "naslov": "Penny Lane",
+        "producent": "George Martin",
+        "leto": "67",
+        "zalozba": " Capitol   <br />10 weeks; No. 1"
     },
     {
         "mesto": 455,
         "avtor": "The Velvet Underground",
-        "naslov": "Heroin"
+        "naslov": "Heroin",
+        "producent": "Andy Warhol, Tom Wilson",
+        "leto": "67",
+        "zalozba": " Verve <br />Non-Single"
     },
     {
         "mesto": 454,
         "avtor": "The Shangri-Las",
-        "naslov": "Leader of the Pack"
+        "naslov": "Leader of the Pack",
+        "producent": "Morton, Barry, Greenwich",
+        "leto": "64",
+        "zalozba": " Red Bird <br />12 weeks; No. 1"
     },
     {
         "mesto": 453,
         "avtor": "Toots and the Maytals",
-        "naslov": "Pressure Drop"
+        "naslov": "Pressure Drop",
+        "producent": "Leslie Kong",
+        "leto": "73",
+        "zalozba": " Mango <br />Did Not Chart"
     },
     {
         "mesto": 452,
         "avtor": "Nirvana",
-        "naslov": "Come As You Are"
+        "naslov": "Come As You Are",
+        "producent": "Butch Vig, Nirvana",
+        "leto": "91",
+        "zalozba": " Geffen <br />18 weeks; No. 32"
     },
     {
         "mesto": 451,
         "avtor": "Sonny and Cher",
-        "naslov": "I Got You Babe"
+        "naslov": "I Got You Babe",
+        "producent": "Bono",
+        "leto": "65",
+        "zalozba": " Atco <br />14 weeks; No. 1"
     },
     {
         "mesto": 450,
         "avtor": "Bob Marley and the Wailers",
-        "naslov": "I Shot the Sheriff"
+        "naslov": "I Shot the Sheriff",
+        "producent": "Chris Blackwell",
+        "leto": "73",
+        "zalozba": " Island <br />did not chart"
     },
     {
         "mesto": 449,
         "avtor": "The Dell-Vikings",
-        "naslov": "Come Go With Me"
+        "naslov": "Come Go With Me",
+        "producent": "Joe Averbach",
+        "leto": "57",
+        "zalozba": " Dot <br />31 weeks; No. 5"
     },
     {
         "mesto": 448,
         "avtor": "50 Cent",
-        "naslov": "In Da Club"
+        "naslov": "In Da Club",
+        "producent": "Dr. Dre, Elizondo",
+        "leto": "02",
+        "zalozba": " Interscope/Aftermath/Shady <br />30 weeks; No. 1"
     },
     {
         "mesto": 447,
         "avtor": "John Cougar Mellencamp",
-        "naslov": "Pink Houses"
+        "naslov": "Pink Houses",
+        "producent": "Little Bastard, Don Gehman",
+        "leto": "83",
+        "zalozba": " Riva <br />16 weeks; No. 8"
     },
     {
         "mesto": 446,
         "avtor": "Salt &#8216;n Pepa",
-        "naslov": "Push It"
+        "naslov": "Push It",
+        "producent": "Azor",
+        "leto": "87",
+        "zalozba": " Next Plateau <br />25 weeks; No. 19"
     },
     {
         "mesto": 445,
         "avtor": "The Stooges",
-        "naslov": "I Wanna Be Your Dog"
+        "naslov": "I Wanna Be Your Dog",
+        "producent": "John Cale",
+        "leto": "69",
+        "zalozba": " Elektra <br />Did Not Chart"
     },
     {
         "mesto": 444,
         "avtor": "Elvis Presley",
-        "naslov": "Love Me Tender"
+        "naslov": "Love Me Tender",
+        "producent": "Steve Sholes",
+        "leto": "56",
+        "zalozba": " RCA <br />23 weeks; No. 1"
     },
     {
         "mesto": 443,
         "avtor": "The Rolling Stones",
-        "naslov": "Beast of Burden"
+        "naslov": "Beast of Burden",
+        "producent": "The Glimmer Twins",
+        "leto": "78",
+        "zalozba": " Rolling Stones <br />13 weeks; No. 8"
     },
     {
         "mesto": 442,
         "avtor": "Love",
-        "naslov": "Alone Again Or"
+        "naslov": "Alone Again Or",
+        "producent": "Arthur Lee, Bruce Botnick",
+        "leto": "68",
+        "zalozba": " Elektra <br />3 weeks; No. 99"
     },
     {
         "mesto": 441,
         "avtor": "Wilson Pickett",
-        "naslov": "Mustang Sally"
+        "naslov": "Mustang Sally",
+        "producent": "Jerry Wexler",
+        "leto": "66",
+        "zalozba": " Atlantic <br />9 weeks; No. 23"
     },
     {
         "mesto": 440,
         "avtor": "Led Zeppelin",
-        "naslov": "Ramble On"
+        "naslov": "Ramble On",
+        "producent": "Page",
+        "leto": "69",
+        "zalozba": " Atlantic <br />Non-Single"
     },
     {
         "mesto": 439,
         "avtor": "Gladys Knight and the Pips",
-        "naslov": "Midnight Train to Georgia"
+        "naslov": "Midnight Train to Georgia",
+        "producent": "Tony Camillo",
+        "leto": "73",
+        "zalozba": " Buddah <br />19 weeks; No. 1"
     },
     {
         "mesto": 438,
         "avtor": "Fats Domino",
-        "naslov": "Ain't It a Shame"
+        "naslov": "Ain't It a Shame",
+        "producent": "Bartholomew",
+        "leto": "55",
+        "zalozba": " Imperial <br />13 weeks; No. 10"
     },
     {
         "mesto": 437,
         "avtor": "The Clash",
-        "naslov": "(White Man) In Hammersmith Palais"
+        "naslov": "(White Man) In Hammersmith Palais",
+        "producent": "The Clash",
+        "leto": "79",
+        "zalozba": " Epic  <br />Did Not Chart"
     },
     {
         "mesto": 436,
         "avtor": "Solomon Burke",
-        "naslov": "Everybody Needs Somebody to Love"
+        "naslov": "Everybody Needs Somebody to Love",
+        "producent": "Berns",
+        "leto": "64",
+        "zalozba": " Atlantic  <br />8 weeks; No. 58"
     },
     {
         "mesto": 435,
         "avtor": "U2",
-        "naslov": "New Year's Day"
+        "naslov": "New Year's Day",
+        "producent": "Steve Lillywhite",
+        "leto": "83",
+        "zalozba": " Island  <br />12 weeks; No. 53"
     },
     {
         "mesto": 434,
         "avtor": "Deep Purple",
-        "naslov": "Smoke on the Water"
+        "naslov": "Smoke on the Water",
+        "producent": "Deep Purple",
+        "leto": "73",
+        "zalozba": " Warner Bros. <br />16 weeks; No. 4"
     },
     {
         "mesto": 433,
         "avtor": "Rolling Stones",
-        "naslov": "Tumbling Dice"
+        "naslov": "Tumbling Dice",
+        "producent": "Jimmy Miller",
+        "leto": "72",
+        "zalozba": " Rolling Stones  <br />10 weeks; No. 7"
     },
     {
         "mesto": 432,
         "avtor": "Green Day",
-        "naslov": "American Idiot"
+        "naslov": "American Idiot",
+        "producent": "Rob Cavallo, Green Day",
+        "leto": "04",
+        "zalozba": " Reprise  <br />20 weeks; No. 61"
     },
     {
         "mesto": 431,
         "avtor": "The Smiths",
-        "naslov": "William, It Was Really Nothing"
+        "naslov": "William, It Was Really Nothing",
+        "producent": "John Porter",
+        "leto": "84",
+        "zalozba": " Sire <br />Did Not Chart"
     },
     {
         "mesto": 430,
         "avtor": "Elvis Presley",
-        "naslov": "Blue Suede Shoes"
+        "naslov": "Blue Suede Shoes",
+        "producent": "Steve Sholes",
+        "leto": "56",
+        "zalozba": " RCA <br />12 weeks; No. 20"
     },
     {
         "mesto": 429,
         "avtor": "Billy Joel",
-        "naslov": "Piano Man"
+        "naslov": "Piano Man",
+        "producent": "Michael Stewart",
+        "leto": "73",
+        "zalozba": " Columbia <br />14 weeks; No. 25"
     },
     {
         "mesto": 428,
         "avtor": "The Isley Brothers",
-        "naslov": "It's Your Thing"
+        "naslov": "It's Your Thing",
+        "producent": "R. Isley, R. Isley, O. Isley",
+        "leto": "69",
+        "zalozba": " T-Neck  <br />14 weeks; No. 2"
     },
     {
         "mesto": 427,
         "avtor": "Dr. Dre",
-        "naslov": "Nuthin' But a 'G' Thang"
+        "naslov": "Nuthin' But a 'G' Thang",
+        "producent": "Dr. Dre",
+        "leto": "93",
+        "zalozba": " Death Row <br />27 weeks; No. 2"
     },
     {
         "mesto": 426,
         "avtor": "Crosby, Stills and Nash",
-        "naslov": "Suite: Judy Blue Eyes"
+        "naslov": "Suite: Judy Blue Eyes",
+        "producent": "David Crosby, Stills, Graham Nash",
+        "leto": "69",
+        "zalozba": " Atlantic <br />12 weeks; No. 21"
     },
     {
         "mesto": 425,
         "avtor": "N.W.A",
-        "naslov": "Fuck tha Police"
+        "naslov": "Fuck tha Police",
+        "producent": "Dr. Dre, Yella",
+        "leto": "89",
+        "zalozba": " Priority <br />Non-Single"
     },
     {
         "mesto": 424,
         "avtor": "The Notorious B.I.G.",
-        "naslov": "Juicy"
+        "naslov": "Juicy",
+        "producent": "Sean \"Puffy\" Combs, Poke",
+        "leto": "94",
+        "zalozba": " Bad Boy  <br />20 weeks; No. 27"
     },
     {
         "mesto": 423,
         "avtor": "Don Henley",
-        "naslov": "The Boys of Summer"
+        "naslov": "The Boys of Summer",
+        "producent": "Henley, Campbell, Danny Kortchmar, Greg Ladanyi",
+        "leto": "84",
+        "zalozba": " Geffen  <br />22 weeks; No. 5"
     },
     {
         "mesto": 422,
         "avtor": "The Four Tops",
-        "naslov": "Can't Help Myself"
+        "naslov": "Can't Help Myself",
+        "producent": "Holland, Dozier, Holland",
+        "leto": "65",
+        "zalozba": " Motown <br />14 weeks; No. 1"
     },
     {
         "mesto": 421,
         "avtor": "The Coasters",
-        "naslov": "Young Blood"
+        "naslov": "Young Blood",
+        "producent": "Leiber, Stoller",
+        "leto": "57",
+        "zalozba": " Atco <br />11 weeks; No. 1"
     },
     {
         "mesto": 420,
         "avtor": "Little Richard",
-        "naslov": "The Girl Can't Help It"
+        "naslov": "The Girl Can't Help It",
+        "producent": "Robert \"Bumps\" Blackwell",
+        "leto": "57",
+        "zalozba": " Specialty  <br />8 weeks; No. 49"
     },
     {
         "mesto": 419,
         "avtor": "Bobbie Gentry",
-        "naslov": "Ode to Billie Joe"
+        "naslov": "Ode to Billie Joe",
+        "producent": "Kelly Gordon, Bobby Paris",
+        "leto": "67",
+        "zalozba": " Capitol <br />14 weeks; No. 1"
     },
     {
         "mesto": 418,
         "avtor": "Donna Summer",
-        "naslov": "I Feel Love"
+        "naslov": "I Feel Love",
+        "producent": "Moroder, Bellotte",
+        "leto": "77",
+        "zalozba": " Casablanca <br />23 weeks; No. 6"
     },
     {
         "mesto": 417,
         "avtor": "Pixies",
-        "naslov": "Monkey Gone to Heaven"
+        "naslov": "Monkey Gone to Heaven",
+        "producent": "Gil Norton",
+        "leto": "89",
+        "zalozba": " Elektra <br />Did Not Chart"
     },
     {
         "mesto": 416,
         "avtor": "Aerosmith",
-        "naslov": "Sweet Emotion"
+        "naslov": "Sweet Emotion",
+        "producent": "Jack Douglas",
+        "leto": "75",
+        "zalozba": " Columbia <br />8 weeks; No. 36"
     },
     {
         "mesto": 415,
         "avtor": "Nirvana",
-        "naslov": "In Bloom"
+        "naslov": "In Bloom",
+        "producent": "Butch Vig",
+        "leto": "91",
+        "zalozba": " DGC  <br />Non-Single"
     },
     {
         "mesto": 414,
         "avtor": "Carpenters",
-        "naslov": "We've Only Just Begun"
+        "naslov": "We've Only Just Begun",
+        "producent": "Jack Daugherty",
+        "leto": "70",
+        "zalozba": " A&M <br />17 weeks; No. 2"
     },
     {
         "mesto": 413,
         "avtor": "Bob Dylan",
-        "naslov": "Visions of Johanna"
+        "naslov": "Visions of Johanna",
+        "producent": "Bob Johnston",
+        "leto": "66",
+        "zalozba": " Columbia <br />Non-Single"
     },
     {
         "mesto": 412,
         "avtor": "Rihanna Featuring Jay-Z",
-        "naslov": "Umbrella"
+        "naslov": "Umbrella",
+        "producent": "Harrell, Stewart",
+        "leto": "07",
+        "zalozba": " Def Jam <br />27 weeks; No. 1"
     },
     {
         "mesto": 411,
         "avtor": "Eddie Cochran",
-        "naslov": "C'mon Everybody"
+        "naslov": "C'mon Everybody",
+        "producent": "Capehart",
+        "leto": "58",
+        "zalozba": " Liberty <br />12 weeks; No. 35"
     },
     {
         "mesto": 410,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Thank You (Falettinme Be Mice Elf Agin)"
+        "naslov": "Thank You (Falettinme Be Mice Elf Agin)",
+        "producent": "Stone",
+        "leto": "70",
+        "zalozba": " Epic <br />13 weeks; No. 1"
     },
     {
         "mesto": 409,
         "avtor": "The Shirelles",
-        "naslov": "Tonight's the Night"
+        "naslov": "Tonight's the Night",
+        "producent": "Dixon",
+        "leto": "60",
+        "zalozba": " Scepter <br />12 weeks; No. 39"
     },
     {
         "mesto": 408,
         "avtor": "Metallica",
-        "naslov": "Enter Sandman"
+        "naslov": "Enter Sandman",
+        "producent": "Bob Rock, Hetfield, Ulrich",
+        "leto": "91",
+        "zalozba": " Elektra  <br />20 weeks; No. 16"
     },
     {
         "mesto": 407,
         "avtor": "Lynyrd Skynyrd",
-        "naslov": "Sweet Home Alabama"
+        "naslov": "Sweet Home Alabama",
+        "producent": "Al Kooper",
+        "leto": "74",
+        "zalozba": " MCA <br />17 weeks; No. 8"
     },
     {
         "mesto": 406,
         "avtor": "Big Star",
-        "naslov": "Thirteen"
+        "naslov": "Thirteen",
+        "producent": "John Fry",
+        "leto": "72",
+        "zalozba": " Ardent <br />Non-Single"
     },
     {
         "mesto": 405,
         "avtor": "Blue Öyster Cult",
-        "naslov": "(Don't Fear) the Reaper"
+        "naslov": "(Don't Fear) the Reaper",
+        "producent": "Murray Krugman, Sandy Pearlman, David Lucas",
+        "leto": "76",
+        "zalozba": " Columbia <br />14 weeks; No. 12"
     },
     {
         "mesto": 404,
         "avtor": "The Shangri-Las",
-        "naslov": "Remember (Walkin' in the Sand)"
+        "naslov": "Remember (Walkin' in the Sand)",
+        "producent": "Morton",
+        "leto": "64",
+        "zalozba": " Red Bird <br />11 weeks; No. 5"
     },
     {
         "mesto": 403,
         "avtor": "Elvis Presley",
-        "naslov": "Can't Help Falling in Love"
+        "naslov": "Can't Help Falling in Love",
+        "producent": "Joseph Lilley",
+        "leto": "61",
+        "zalozba": " RCA <br />14 weeks; No. 1"
     },
     {
         "mesto": 402,
         "avtor": "The Five Stairsteps",
-        "naslov": "O-o-h Child"
+        "naslov": "O-o-h Child",
+        "producent": "Vincent",
+        "leto": "70",
+        "zalozba": " Buddha <br />16 weeks; No. 8"
     },
     {
         "mesto": 401,
         "avtor": "The Lovin' Spoonful",
-        "naslov": "Summer in the City"
+        "naslov": "Summer in the City",
+        "producent": "Erik Jacobsen",
+        "leto": "66",
+        "zalozba": " Kama Sutra <br />11 weeks; No. 1"
     },
     {
         "mesto": 400,
         "avtor": "The Four Tops",
-        "naslov": "Baby I Need Your Loving"
+        "naslov": "Baby I Need Your Loving",
+        "producent": "Holland, Dozier, Holland",
+        "leto": "64",
+        "zalozba": " Motown <br />12 weeks; No. 11"
     },
     {
         "mesto": 399,
         "avtor": "The Temptations",
-        "naslov": "Just My Imagination"
+        "naslov": "Just My Imagination",
+        "producent": "Whitfield",
+        "leto": "71",
+        "zalozba": " Gordy <br />15 weeks; No. 1"
     },
     {
         "mesto": 398,
         "avtor": "The Police",
-        "naslov": "Roxanne"
+        "naslov": "Roxanne",
+        "producent": "The Police",
+        "leto": "79",
+        "zalozba": " A&M <br />13 weeks; No. 32"
     },
     {
         "mesto": 397,
         "avtor": "Elton John",
-        "naslov": "Tiny Dancer"
+        "naslov": "Tiny Dancer",
+        "producent": "Gus Dudgeon",
+        "leto": "71",
+        "zalozba": " Uni <br />7 weeks; No. 41"
     },
     {
         "mesto": 396,
         "avtor": "Eric B. and Rakim",
-        "naslov": "Know You Got Soul"
+        "naslov": "Know You Got Soul",
+        "producent": "Eric B. and Rakim",
+        "leto": "87",
+        "zalozba": " 4th and Broadway <br />Did Not Chart"
     },
     {
         "mesto": 395,
         "avtor": "Crosby, Stills, Nash and Young",
-        "naslov": "Ohio"
+        "naslov": "Ohio",
+        "producent": "Crosby, Stills, Nash, Young",
+        "leto": "70",
+        "zalozba": " Atlantic <br />9 weeks; No. 14"
     },
     {
         "mesto": 394,
         "avtor": "The Beatles",
-        "naslov": "Ticket to Ride"
+        "naslov": "Ticket to Ride",
+        "producent": "George Martin",
+        "leto": "65",
+        "zalozba": " Capitol <br />11 weeks; No. 1"
     },
     {
         "mesto": 393,
         "avtor": "The Allman Brothers Band",
-        "naslov": "Whipping Post"
+        "naslov": "Whipping Post",
+        "producent": "Tom Dowd",
+        "leto": "69",
+        "zalozba": " Capricorn <br />Non-single"
     },
     {
         "mesto": 392,
         "avtor": "The Verve",
-        "naslov": "Bitter Sweet Symphony"
+        "naslov": "Bitter Sweet Symphony",
+        "producent": "The Verve, Christopher Marc Potter, Youth",
+        "leto": "97",
+        "zalozba": " Virgin <br />20 weeks; No. 12"
     },
     {
         "mesto": 391,
         "avtor": "Aaron Neville",
-        "naslov": "Tell It Like It Is"
+        "naslov": "Tell It Like It Is",
+        "producent": "Davis",
+        "leto": "66",
+        "zalozba": " Par Lo <br />14 weeks; No. 2"
     },
     {
         "mesto": 390,
         "avtor": "Elton John",
-        "naslov": "Goodbye Yellow Brick Road"
+        "naslov": "Goodbye Yellow Brick Road",
+        "producent": "Gus Dudgeon",
+        "leto": "73",
+        "zalozba": " MCA <br />17 weeks; No. 2"
     },
     {
         "mesto": 389,
         "avtor": "R.E.M.",
-        "naslov": "Radio Free Europe"
+        "naslov": "Radio Free Europe",
+        "producent": "Mitch Easter, Don Dixon",
+        "leto": "83",
+        "zalozba": " I.R.S. <br />5 weeks; No. 78"
     },
     {
         "mesto": 388,
         "avtor": "U2",
-        "naslov": "Pride (In the Name of Love)"
+        "naslov": "Pride (In the Name of Love)",
+        "producent": "Brian Eno, Daniel Lanois",
+        "leto": "84",
+        "zalozba": " Island <br />15 weeks; No. 33"
     },
     {
         "mesto": 387,
         "avtor": "Ray Charles",
-        "naslov": "Hit the Road Jack"
+        "naslov": "Hit the Road Jack",
+        "producent": "Sid Feller",
+        "leto": "61",
+        "zalozba": " ABC-Paramount <br />11 weeks; No. 1"
     },
     {
         "mesto": 386,
         "avtor": "Yeah Yeah Yeahs",
-        "naslov": "Maps"
+        "naslov": "Maps",
+        "producent": "David Andrew Sitek",
+        "leto": "04",
+        "zalozba": " Interscope <br />13 weeks; No. 87"
     },
     {
         "mesto": 385,
         "avtor": "Radiohead",
-        "naslov": "Fake Plastic Trees"
+        "naslov": "Fake Plastic Trees",
+        "producent": "John Leckie",
+        "leto": "95",
+        "zalozba": " Capitol <br />4 weeks; No. 65"
     },
     {
         "mesto": 384,
         "avtor": "Pink Floyd",
-        "naslov": "Another Brick in the Wall Part 2"
+        "naslov": "Another Brick in the Wall Part 2",
+        "producent": "Bob Ezrin, Waters, David Gilmour",
+        "leto": "79",
+        "zalozba": " Columbia <br />25 weeks; No. 1"
     },
     {
         "mesto": 383,
         "avtor": "Chuck Berry",
-        "naslov": "Brown Eyed Handsome Man"
+        "naslov": "Brown Eyed Handsome Man",
+        "producent": "Leonard Chess, Phil Chess",
+        "leto": "56",
+        "zalozba": " Chess <br />Did Not Chart"
     },
     {
         "mesto": 382,
         "avtor": "Sam Cooke",
-        "naslov": "Wonderful World"
+        "naslov": "Wonderful World",
+        "producent": "Cooke, Adler",
+        "leto": "60",
+        "zalozba": " RCA <br />15 weeks; No. 12"
     },
     {
         "mesto": 381,
         "avtor": "Television",
-        "naslov": "Marquee Moon"
+        "naslov": "Marquee Moon",
+        "producent": "Andy Johns",
+        "leto": "77",
+        "zalozba": " Elektra <br />Did Not Chart"
     },
     {
         "mesto": 380,
         "avtor": "The Who",
-        "naslov": "I Can't Explain"
+        "naslov": "I Can't Explain",
+        "producent": "Shel Talmy",
+        "leto": "65",
+        "zalozba": " Decca <br />2 weeks; No. 93"
     },
     {
         "mesto": 379,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "The Wind Cries Mary"
+        "naslov": "The Wind Cries Mary",
+        "producent": "Chas Chandler",
+        "leto": "67",
+        "zalozba": " Reprise  <br />8 weeks; No. 65"
     },
     {
         "mesto": 378,
         "avtor": "Bo Diddley",
-        "naslov": "I'm a Man"
+        "naslov": "I'm a Man",
+        "producent": "Leonard Chess",
+        "leto": "55",
+        "zalozba": " Checker <br />Did Not Chart"
     },
     {
         "mesto": 377,
         "avtor": "Depeche Mode",
-        "naslov": "Personal Jesus"
+        "naslov": "Personal Jesus",
+        "producent": "Depeche Mode, Flood",
+        "leto": "89",
+        "zalozba": " Sire <br />20 weeks; No. 28"
     },
     {
         "mesto": 376,
         "avtor": "Cream",
-        "naslov": "White Room"
+        "naslov": "White Room",
+        "producent": "Felix Pappalardi",
+        "leto": "68",
+        "zalozba": " Atco <br />11 weeks; No. 6"
     },
     {
         "mesto": 375,
         "avtor": "Bee Gees",
-        "naslov": "How Deep Is Your Love"
+        "naslov": "How Deep Is Your Love",
+        "producent": "Bee Gees, Karl Richardson, Albhy Galuten",
+        "leto": "77",
+        "zalozba": " RSO<br />33 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 374,
         "avtor": "The Righteous Brothers",
-        "naslov": "Unchained Melody"
+        "naslov": "Unchained Melody",
+        "producent": "Phil Spector",
+        "leto": "65",
+        "zalozba": " Philles<br />13 weeks; No. 4"
     },
     {
         "mesto": 373,
         "avtor": "Bob Dylan",
-        "naslov": "Highway 61 Revisited"
+        "naslov": "Highway 61 Revisited",
+        "producent": "Bob Johnston",
+        "leto": "65",
+        "zalozba": " Columbia<br />Did not chart"
     },
     {
         "mesto": 372,
         "avtor": "The Box Tops",
-        "naslov": "The Letter"
+        "naslov": "The Letter",
+        "producent": "Dan Penn",
+        "leto": "67",
+        "zalozba": " Mala<br />16 weeks; No. 1"
     },
     {
         "mesto": 371,
         "avtor": "The Clash",
-        "naslov": "Complete Control"
+        "naslov": "Complete Control",
+        "producent": "Lee \"Scratch\" Perry",
+        "leto": "79",
+        "zalozba": " Epic<br />Non-single&#xA0;"
     },
     {
         "mesto": 370,
         "avtor": "The Beatles",
-        "naslov": "All You Need is Love"
+        "naslov": "All You Need is Love",
+        "producent": "George Martin",
+        "leto": "67",
+        "zalozba": " Capitol<br />11 weeks; No. 1"
     },
     {
         "mesto": 369,
         "avtor": "Roberta Flack",
-        "naslov": "Killing Me Softly With His Song"
+        "naslov": "Killing Me Softly With His Song",
+        "producent": "Joel Dorn",
+        "leto": "73",
+        "zalozba": " Atlantic<br />16 weeks; No. 1"
     },
     {
         "mesto": 368,
         "avtor": "Muddy Waters",
-        "naslov": "Got My Mojo Working"
+        "naslov": "Got My Mojo Working",
+        "producent": "Phil Chess, Leonard Chess, Willie Dixon",
+        "leto": "1957",
+        "zalozba": " Chess<br />Did not chart"
     },
     {
         "mesto": 367,
         "avtor": "Martha and the Vandellas",
-        "naslov": "Nowhere to Run"
+        "naslov": "Nowhere to Run",
+        "producent": "Brian Holland, Dozier",
+        "leto": "65",
+        "zalozba": " Gordy<br />11 weeks; No. 8"
     },
     {
         "mesto": 366,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "Little Wing"
+        "naslov": "Little Wing",
+        "producent": "Chas Chandler",
+        "leto": "68",
+        "zalozba": " Reprise<br />Non-single"
     },
     {
         "mesto": 365,
         "avtor": "Eurythmics",
-        "naslov": "Sweet Dreams (Are Made of This)"
+        "naslov": "Sweet Dreams (Are Made of This)",
+        "producent": "Stewart",
+        "leto": "83",
+        "zalozba": " RCA<br />26 weeks; No. 1"
     },
     {
         "mesto": 364,
         "avtor": "Creedence Clearwater Revival",
-        "naslov": "Bad Moon Rising"
+        "naslov": "Bad Moon Rising",
+        "producent": "Fogerty",
+        "leto": "69",
+        "zalozba": " Fantasy<br />14 weeks; No. 2"
     },
     {
         "mesto": 363,
         "avtor": "Elvis Costello",
-        "naslov": "Watching the Detectives"
+        "naslov": "Watching the Detectives",
+        "producent": "Nick Lowe",
+        "leto": "77",
+        "zalozba": " Columbia<br />Did not chart"
     },
     {
         "mesto": 362,
         "avtor": "Eric Clapton",
-        "naslov": "Tears in Heaven"
+        "naslov": "Tears in Heaven",
+        "producent": "Russ Titelman",
+        "leto": "92",
+        "zalozba": " Duck/Reprise<br />26 weeks; No. 2"
     },
     {
         "mesto": 361,
         "avtor": "Elvis Presley",
-        "naslov": "All Shook Up"
-    },
-    {
-        "mesto": 360,
-        "avtor": "The Platters",
-        "naslov": "The Great Pretender"
+        "naslov": "All Shook Up",
+        "producent": "Steve Sholes",
+        "leto": "55",
+        "zalozba": " Mercury<br />24 weeks; No. 1"
     },
     {
         "mesto": 359,
         "avtor": "Little Eva",
-        "naslov": "The Loco-Motion"
+        "naslov": "The Loco-Motion",
+        "producent": "Goffin",
+        "leto": "62",
+        "zalozba": " Dimension<br />16 weeks; No. 1"
     },
     {
         "mesto": 358,
         "avtor": "Ben E. King",
-        "naslov": "Spanish Harlem"
+        "naslov": "Spanish Harlem",
+        "producent": "Mike Stoller, Leiber",
+        "leto": "60",
+        "zalozba": " Atco<br />16 weeks; No. 10"
     },
     {
         "mesto": 357,
         "avtor": "The Isley Brothers",
-        "naslov": "That Lady (Part 1 and 2)"
+        "naslov": "That Lady (Part 1 and 2)",
+        "producent": "The Isley Brothers",
+        "leto": "73",
+        "zalozba": " T-Neck<br />20 weeks; No. 6"
     },
     {
         "mesto": 356,
         "avtor": "Elton John",
-        "naslov": "Candle in the Wind"
+        "naslov": "Candle in the Wind",
+        "producent": "Gus Dudgeon",
+        "leto": "73",
+        "zalozba": " MCA"
     },
     {
         "mesto": 355,
         "avtor": "Dr. Dre and 2Pac",
-        "naslov": "California Love"
+        "naslov": "California Love",
+        "producent": "Dr. Dre",
+        "leto": "96",
+        "zalozba": " Death Row<br />24 weeks; No. 6"
     },
     {
         "mesto": 354,
         "avtor": "Ritchie Valens",
-        "naslov": "La Bamba"
+        "naslov": "La Bamba",
+        "producent": "Bob Keane",
+        "leto": "58",
+        "zalozba": " Del-Fi<br />15 weeks; No. 22"
     },
     {
         "mesto": 353,
         "avtor": "Big Brother and the Holding Company",
-        "naslov": "Piece of My Heart"
+        "naslov": "Piece of My Heart",
+        "producent": "John Simon",
+        "leto": "68",
+        "zalozba": " CBS<br />12 weeks; No. 12"
     },
     {
         "mesto": 352,
         "avtor": "Lavern Baker",
-        "naslov": "Jim Dandy"
+        "naslov": "Jim Dandy",
+        "producent": "Ahmet Ertegun,Jerry Wexler",
+        "leto": "56",
+        "zalozba": " Atlantic<br />19 weeks; No. 17"
     },
     {
         "mesto": 351,
         "avtor": "Dion",
-        "naslov": "Runaround Sue"
+        "naslov": "Runaround Sue",
+        "producent": "Gene Schwartz",
+        "leto": "61",
+        "zalozba": " Laurie<br />14 weeks; No. 1"
     },
     {
         "mesto": 350,
         "avtor": "Jimmy Cliff",
-        "naslov": "The Harder They Come"
+        "naslov": "The Harder They Come",
+        "producent": "Cliff",
+        "leto": "75",
+        "zalozba": " Mango<br />Did not chart"
     },
     {
         "mesto": 349,
         "avtor": "The Who",
-        "naslov": "Baba O'Riley"
+        "naslov": "Baba O'Riley",
+        "producent": "Glyn Johns, the Who",
+        "leto": "71",
+        "zalozba": " MCA<br />Non-single in U.S."
     },
     {
         "mesto": 348,
         "avtor": "The Supremes",
-        "naslov": "You Keep Me Hanging On"
+        "naslov": "You Keep Me Hanging On",
+        "producent": "Brian Holland, Dozier",
+        "leto": "66",
+        "zalozba": " Motown<br />12 weeks; No. 1"
     },
     {
         "mesto": 347,
         "avtor": "Paul McCartney",
-        "naslov": "Maybe I'm Amazed"
+        "naslov": "Maybe I'm Amazed",
+        "producent": "McCartney",
+        "leto": "70",
+        "zalozba": " Apple<br />13 weeks; No. 10"
     },
     {
         "mesto": 346,
         "avtor": "Aerosmith",
-        "naslov": "Walk This Way"
+        "naslov": "Walk This Way",
+        "producent": "Jack Douglas",
+        "leto": "76",
+        "zalozba": " Columbia<br />17 weeks; No. 10"
     },
     {
         "mesto": 345,
         "avtor": "U2",
-        "naslov": "Beautiful Day"
+        "naslov": "Beautiful Day",
+        "producent": "Daniel Lanois, Brian Eno",
+        "leto": "00",
+        "zalozba": " Island<br />25 weeks; No. 1"
     },
     {
         "mesto": 344,
         "avtor": "Michael Jackson",
-        "naslov": "Beat It"
+        "naslov": "Beat It",
+        "producent": "Quincy Jones",
+        "leto": "82",
+        "zalozba": " Epic<br />25 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 343,
         "avtor": "The Rolling Stones",
-        "naslov": "Wild Horses"
+        "naslov": "Wild Horses",
+        "producent": "Jimmy Miller",
+        "leto": "71",
+        "zalozba": " Rolling Stones<br />8 weeks; No. 28"
     },
     {
         "mesto": 342,
         "avtor": "The Velvet Underground",
-        "naslov": "Sweet Jane"
+        "naslov": "Sweet Jane",
+        "producent": "The Velvet Underground, Shel Kagan, Geoffrey Haslam",
+        "leto": "70",
+        "zalozba": " Cotillion<br />Non-single"
     },
     {
         "mesto": 341,
         "avtor": "Norman Greenbaum",
-        "naslov": "Spirit in the Sky"
+        "naslov": "Spirit in the Sky",
+        "producent": "Erik Jacobsen",
+        "leto": "70",
+        "zalozba": " Reprise<br />15 weeks; No. 3"
     },
     {
         "mesto": 340,
         "avtor": "Bob Dylan",
-        "naslov": "Subterranean Homesick Blues"
+        "naslov": "Subterranean Homesick Blues",
+        "producent": "Tom Wilson",
+        "leto": "65",
+        "zalozba": " Columbia<br />8 weeks; No. 39"
     },
     {
         "mesto": 339,
         "avtor": "Bonnie Raitt",
-        "naslov": "I Can't Make You Love Me"
+        "naslov": "I Can't Make You Love Me",
+        "producent": "Don Was, Raitt",
+        "leto": "91",
+        "zalozba": " Capitol<br />20 weeks; No. 18"
     },
     {
         "mesto": 338,
         "avtor": "Queen",
-        "naslov": "We Will Rock You"
+        "naslov": "We Will Rock You",
+        "producent": "Queen",
+        "leto": "77",
+        "zalozba": " Elektra<br />14 weeks; No. 52"
     },
     {
         "mesto": 337,
         "avtor": "Earth, Wind and Fire",
-        "naslov": "Way of the World"
+        "naslov": "Way of the World",
+        "producent": "Maurice White",
+        "leto": "75",
+        "zalozba": " Columbia<br />16 weeks; No. 12"
     },
     {
         "mesto": 336,
         "avtor": "The Doors",
-        "naslov": "The End"
+        "naslov": "The End",
+        "producent": "Paul Rothchild",
+        "leto": "67",
+        "zalozba": " Elektra<br />Non-single"
     },
     {
         "mesto": 335,
         "avtor": "Jerry Butler and The Impressions",
-        "naslov": "For Your Precious Love"
+        "naslov": "For Your Precious Love",
+        "producent": "Calvin Carter",
+        "leto": "58",
+        "zalozba": " Falcon<br />12 weeks; No. 11"
     },
     {
         "mesto": 334,
         "avtor": "James Brown",
-        "naslov": "Get Up (I Feel Like Being a) Sex Machine"
+        "naslov": "Get Up (I Feel Like Being a) Sex Machine",
+        "producent": "Brown",
+        "leto": "70",
+        "zalozba": " King<br />9 weeks; No. 15"
     },
     {
         "mesto": 333,
         "avtor": "The Young Rascals",
-        "naslov": "Good Lovin'"
+        "naslov": "Good Lovin'",
+        "producent": "Tom Dowd, Arif Mardin",
+        "leto": "66",
+        "zalozba": " Atlantic<br />14 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 332,
         "avtor": "The Supremes",
-        "naslov": "Baby Love"
+        "naslov": "Baby Love",
+        "producent": "Brian Holland, Dozier",
+        "leto": "64",
+        "zalozba": " Motown<br />13 weeks; No. 1"
     },
     {
         "mesto": 331,
         "avtor": "Patti Smith Group",
-        "naslov": "Dancing Barefoot"
+        "naslov": "Dancing Barefoot",
+        "producent": "Todd Rundgren",
+        "leto": "79",
+        "zalozba": " Arista<br />Did not chart"
     },
     {
         "mesto": 330,
         "avtor": "Public Enemy",
-        "naslov": "Fight the Power"
+        "naslov": "Fight the Power",
+        "producent": "Sadler, Hank Shocklee",
+        "leto": "89",
+        "zalozba": " Def Jam<br />Did not chart"
     },
     {
         "mesto": 329,
         "avtor": "Neil Young",
-        "naslov": "Cortez the Killer"
+        "naslov": "Cortez the Killer",
+        "producent": "Young, David Briggs",
+        "leto": "75",
+        "zalozba": " Reprise<br />Non-single"
     },
     {
         "mesto": 328,
         "avtor": "Led Zeppelin",
-        "naslov": "Heartbreaker"
+        "naslov": "Heartbreaker",
+        "producent": "Page",
+        "leto": "69",
+        "zalozba": " Atlantic<br />Non-single"
     },
     {
         "mesto": 327,
         "avtor": "Franz Ferdinand",
-        "naslov": "Take Me Out"
+        "naslov": "Take Me Out",
+        "producent": "Tore Johansson",
+        "leto": "04",
+        "zalozba": " Domino<br />19 weeks; No. 66"
     },
     {
         "mesto": 326,
         "avtor": "Alice Cooper",
-        "naslov": "School's Out"
+        "naslov": "School's Out",
+        "producent": "Bob Ezrin",
+        "leto": "72",
+        "zalozba": " Warner Bros.<br />13 weeks; No. 7"
     },
     {
         "mesto": 325,
         "avtor": "Jimmy Cliff",
-        "naslov": "Many Rivers to Cross"
+        "naslov": "Many Rivers to Cross",
+        "producent": "Cliff",
+        "leto": "69",
+        "zalozba": " A&M<br />Did not chart"
     },
     {
         "mesto": 324,
         "avtor": "Pink Floyd",
-        "naslov": "Wish You Were Here"
+        "naslov": "Wish You Were Here",
+        "producent": "Pink Floyd",
+        "leto": "75",
+        "zalozba": " Columbia<br />Non-single"
     },
     {
         "mesto": 323,
         "avtor": "Elvis Costello",
-        "naslov": "Alison"
+        "naslov": "Alison",
+        "producent": "Nick Lowe",
+        "leto": "77",
+        "zalozba": " Columbia<br />Did not chart"
     },
     {
         "mesto": 322,
         "avtor": "The Animals",
-        "naslov": "Don't Let Me Be Misunderstood"
+        "naslov": "Don't Let Me Be Misunderstood",
+        "producent": "Mickie Most",
+        "leto": "65",
+        "zalozba": " MGM<br />10 weeks; No. 15"
     },
     {
         "mesto": 321,
         "avtor": "Pink Floyd",
-        "naslov": "Comfortably Numb"
+        "naslov": "Comfortably Numb",
+        "producent": "Bob Ezrin",
+        "leto": "79",
+        "zalozba": " Columbia<br />Did not chart"
     },
     {
         "mesto": 320,
         "avtor": "Screamin' Jay Hawkins",
-        "naslov": "I Put a Spell on You"
+        "naslov": "I Put a Spell on You",
+        "producent": "Arnold Maxin",
+        "leto": "56",
+        "zalozba": " OKeh<br />Did not chart"
     },
     {
         "mesto": 319,
         "avtor": "Roy Orbison",
-        "naslov": "In Dreams"
+        "naslov": "In Dreams",
+        "producent": "Fred Foster",
+        "leto": "63",
+        "zalozba": " Monument<br />13 weeks; No. 7"
     },
     {
         "mesto": 318,
         "avtor": "The Everly Brothers",
-        "naslov": "Wake Up Little Susie"
+        "naslov": "Wake Up Little Susie",
+        "producent": "Archie Bleyer",
+        "leto": "57",
+        "zalozba": " Cadence<br />26 weeks; No. 1"
     },
     {
         "mesto": 317,
         "avtor": "Black Sabbath",
-        "naslov": "Iron Man"
+        "naslov": "Iron Man",
+        "producent": "Roger Bain",
+        "leto": "71",
+        "zalozba": " Warner<br />10 weeks; No. 52"
     },
     {
         "mesto": 316,
         "avtor": "Tina Turner",
-        "naslov": "What's Love Got to Do With It"
+        "naslov": "What's Love Got to Do With It",
+        "producent": "Britten",
+        "leto": "84",
+        "zalozba": " Capitol<br />28 weeks; No. 1"
     },
     {
         "mesto": 315,
         "avtor": "Jackie Wilson",
-        "naslov": "Lonely Teardrops"
+        "naslov": "Lonely Teardrops",
+        "producent": "Dick Jacobs",
+        "leto": "58",
+        "zalozba": " Brunswick<br />21 weeks; No. 7&#xA0;"
     },
     {
         "mesto": 314,
         "avtor": "Frankie Lymon and The Teenagers",
-        "naslov": "Why Do Fools Fall In Love"
+        "naslov": "Why Do Fools Fall In Love",
+        "producent": "George Goldner",
+        "leto": "56",
+        "zalozba": " Gee<br />21 weeks; No. 6"
     },
     {
         "mesto": 313,
         "avtor": "The Jam",
-        "naslov": "That's Entertainment"
+        "naslov": "That's Entertainment",
+        "producent": "Vic Coppersmith-Heaven, the Jam",
+        "leto": "80",
+        "zalozba": " Polydor<br />Non-single in the U.S."
     },
     {
         "mesto": 312,
         "avtor": "James Brown",
-        "naslov": "Say It Loud - I'm Black and I'm Proud"
+        "naslov": "Say It Loud - I'm Black and I'm Proud",
+        "producent": "Brown",
+        "leto": "68",
+        "zalozba": " King<br />11 weeks; No. 10"
     },
     {
         "mesto": 311,
         "avtor": "The Beatles",
-        "naslov": "With a Little Help From My Friends"
+        "naslov": "With a Little Help From My Friends",
+        "producent": "George Martin",
+        "leto": "67",
+        "zalozba": " Capitol<br />Non-single"
     },
     {
         "mesto": 310,
         "avtor": "The Rolling Stones",
-        "naslov": "Ruby Tuesday"
+        "naslov": "Ruby Tuesday",
+        "producent": "Andrew Loog Oldham",
+        "leto": "67",
+        "zalozba": " London<br />12 weeks; No. 1"
     },
     {
         "mesto": 309,
         "avtor": "Willie Nelson",
-        "naslov": "Blue Eyes Crying in the Rain"
+        "naslov": "Blue Eyes Crying in the Rain",
+        "producent": "Nelson",
+        "leto": "75",
+        "zalozba": " Columbia<br />18 weeks; No. 21"
     },
     {
         "mesto": 308,
         "avtor": "Rod Stewart",
-        "naslov": "Da Ya Think I'm Sexy?"
+        "naslov": "Da Ya Think I'm Sexy?",
+        "producent": "Tom Dowd",
+        "leto": "78",
+        "zalozba": " Warner Bros.<br />21 weeks; No. 1"
     },
     {
         "mesto": 307,
         "avtor": "Daft Punk",
-        "naslov": "One More Time"
+        "naslov": "One More Time",
+        "producent": "Daft Punk",
+        "leto": "00",
+        "zalozba": " Virgin<br />16 weeks; No. 61"
     },
     {
         "mesto": 306,
         "avtor": "Madonna",
-        "naslov": "Like A Prayer"
+        "naslov": "Like A Prayer",
+        "producent": "Madonna, Leonard",
+        "leto": "89",
+        "zalozba": " Sire<br />16 weeks; No. 1"
     },
     {
         "mesto": 305,
         "avtor": "Blondie",
-        "naslov": "One Way or Another"
+        "naslov": "One Way or Another",
+        "producent": "Mike Chapman",
+        "leto": "78",
+        "zalozba": " Chrysalis<br />14 weeks; No. 24"
     },
     {
         "mesto": 304,
         "avtor": "Prince",
-        "naslov": "Sign 'O' The Times"
+        "naslov": "Sign 'O' The Times",
+        "producent": "Prince",
+        "leto": "87",
+        "zalozba": " Paisley Park<br />14 weeks; No. 3"
     },
     {
         "mesto": 303,
         "avtor": "Neil Young",
-        "naslov": "Heart of Gold"
+        "naslov": "Heart of Gold",
+        "producent": "Elliot Mazer, Young",
+        "leto": "72",
+        "zalozba": " Reprise<br />14 weeks; No. 1"
     },
     {
         "mesto": 302,
         "avtor": "Bob Marley and the Wailers",
-        "naslov": "Get Up, Stand Up"
+        "naslov": "Get Up, Stand Up",
+        "producent": "Chris Blackwell",
+        "leto": "75",
+        "zalozba": " Island<br />Did not chart"
     },
     {
         "mesto": 301,
         "avtor": "The Rolling Stones",
-        "naslov": "Street Fighting Man"
+        "naslov": "Street Fighting Man",
+        "producent": "Jimmy Miller",
+        "leto": "68",
+        "zalozba": " London<br />6 weeks; No. 48"
     },
     {
         "mesto": 300,
         "avtor": "Led Zeppelin",
-        "naslov": "Black Dog"
+        "naslov": "Black Dog",
+        "producent": "Page",
+        "leto": "71",
+        "zalozba": " Atlantic<br />12 weeks; No. 15"
     },
     {
         "mesto": 299,
         "avtor": "Al Green",
-        "naslov": "Tired of Being Alone"
+        "naslov": "Tired of Being Alone",
+        "producent": "Willie Mitchell, Green",
+        "leto": "71",
+        "zalozba": " Hi<br />19 weeks; No. 11"
     },
     {
         "mesto": 298,
         "avtor": "The Clash",
-        "naslov": "Train in Vain"
+        "naslov": "Train in Vain",
+        "producent": "Guy Stevens",
+        "leto": "79",
+        "zalozba": " Epic<br />14 weeks; No. 23"
     },
     {
         "mesto": 297,
         "avtor": "The Zombies",
-        "naslov": "She's Not There"
+        "naslov": "She's Not There",
+        "producent": "Ken Jones",
+        "leto": "64",
+        "zalozba": " Parrot<br />15 weeks; No. 2&#xA0;"
     },
     {
         "mesto": 296,
         "avtor": "Eminem feat. Dido",
-        "naslov": "Stan"
+        "naslov": "Stan",
+        "producent": "Eminem, the 45 King",
+        "leto": "00",
+        "zalozba": " Aftermath<br />15 weeks; No. 51"
     },
     {
         "mesto": 295,
         "avtor": "The Beatles",
-        "naslov": "Can't Buy Me Love"
+        "naslov": "Can't Buy Me Love",
+        "producent": "George Martin",
+        "leto": "64",
+        "zalozba": " Capitol<br />10 weeks; No. 1"
     },
     {
         "mesto": 294,
         "avtor": "Barrett Strong",
-        "naslov": "Money (That's What I Want)"
+        "naslov": "Money (That's What I Want)",
+        "producent": "Gordy",
+        "leto": "60",
+        "zalozba": " Anna<br />17 weeks; No. 23"
     },
     {
         "mesto": 293,
         "avtor": "Run-DMC",
-        "naslov": "Walk This Way"
+        "naslov": "Walk This Way",
+        "producent": "Rick Rubin,Russell Simmons",
+        "leto": "86",
+        "zalozba": " Profile<br />16 weeks; No. 4"
     },
     {
         "mesto": 292,
         "avtor": "Pavement",
-        "naslov": "Summer Babe (Winter Version)"
+        "naslov": "Summer Babe (Winter Version)",
+        "producent": "Malkmus, Scott Kannberg",
+        "leto": "92",
+        "zalozba": " Drag City<br />Did not chart"
     },
     {
         "mesto": 291,
         "avtor": "Howlin' Wolf",
-        "naslov": "Smokestack Lightning"
+        "naslov": "Smokestack Lightning",
+        "producent": "Leonard and Phil Chess, Willie Dixon",
+        "leto": "56",
+        "zalozba": " Chess<br />Did not chart&#xA0;"
     },
     {
         "mesto": 290,
         "avtor": "Elvis Costello and the Attractions",
-        "naslov": "(What's So Funny About) Peace, Love and Understanding"
+        "naslov": "(What's So Funny About) Peace, Love and Understanding",
+        "producent": "Lowe",
+        "leto": "79",
+        "zalozba": " Columbia<br />Non-single"
     },
     {
         "mesto": 289,
         "avtor": "Blondie",
-        "naslov": "Call Me"
+        "naslov": "Call Me",
+        "producent": "Moroder",
+        "leto": "80",
+        "zalozba": " Chrysalis<br />25 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 288,
         "avtor": "Joni Mitchell",
-        "naslov": "Help Me"
+        "naslov": "Help Me",
+        "producent": "Mitchell",
+        "leto": "74",
+        "zalozba": " Asylum<br />19 weeks; No. 7"
     },
     {
         "mesto": 287,
         "avtor": "Stevie Wonder",
-        "naslov": "You Are the Sunshine of My Life"
+        "naslov": "You Are the Sunshine of My Life",
+        "producent": "Wonder",
+        "leto": "72",
+        "zalozba": " Tamla<br />17 weeks; No. 1"
     },
     {
         "mesto": 286,
         "avtor": "The White Stripes",
-        "naslov": "Seven Nation Army"
+        "naslov": "Seven Nation Army",
+        "producent": "White",
+        "leto": "03",
+        "zalozba": " V2/Third Man"
     },
     {
         "mesto": 285,
         "avtor": "Bill Withers",
-        "naslov": "Ain't No Sunshine"
+        "naslov": "Ain't No Sunshine",
+        "producent": "Booker T. Jones",
+        "leto": "71",
+        "zalozba": " Sussex<br />16 weeks; No. 3"
     },
     {
         "mesto": 284,
         "avtor": "The Dixie Cups",
-        "naslov": "Chapel of Love"
+        "naslov": "Chapel of Love",
+        "producent": "Jerry Leiber, Mike Stoller, Barry, Greenwich",
+        "leto": "64",
+        "zalozba": " Red Bird<br />13 weeks; No. 1"
     },
     {
         "mesto": 283,
         "avtor": "The Cure",
-        "naslov": "Pictures of You"
+        "naslov": "Pictures of You",
+        "producent": "Smith, David M. Allen",
+        "leto": "89",
+        "zalozba": " Elektra<br />8 weeks; No. 71"
     },
     {
         "mesto": 282,
         "avtor": "David Bowie",
-        "naslov": "Ziggy Stardust"
+        "naslov": "Ziggy Stardust",
+        "producent": "Ken Scott, Bowie",
+        "leto": "72",
+        "zalozba": " RCA<br />Non-single"
     },
     {
         "mesto": 281,
         "avtor": "The Staple Singers",
-        "naslov": "ll Take You There"
+        "naslov": "ll Take You There",
+        "producent": "Bell",
+        "leto": "72",
+        "zalozba": " Stax<br />15 weeks; No. 1"
     },
     {
         "mesto": 280,
         "avtor": "Bruce Springsteen",
-        "naslov": "Born in the U.S.A."
+        "naslov": "Born in the U.S.A.",
+        "producent": "Springsteen, Jon Landau, Chuck Plotkin, Steve Van Zandt",
+        "leto": "84",
+        "zalozba": " Columbia<br />17 weeks; No. 9"
     },
     {
         "mesto": 279,
         "avtor": "Jefferson Airplane",
-        "naslov": "Somebody to Love"
+        "naslov": "Somebody to Love",
+        "producent": "Rick Jarrard",
+        "leto": "67",
+        "zalozba": " RCA<br />15 weeks; No. 5"
     },
     {
         "mesto": 278,
         "avtor": "The Beatles",
-        "naslov": "Something"
+        "naslov": "Something",
+        "producent": "George Martin",
+        "leto": "69",
+        "zalozba": " Apple<br />16 weeks; No. 3"
     },
     {
         "mesto": 277,
         "avtor": "Chuck Berry",
-        "naslov": "Sweet Little Sixteen"
+        "naslov": "Sweet Little Sixteen",
+        "producent": "Leonard and Phil Chess",
+        "leto": "58",
+        "zalozba": " Chess<br />16 weeks; No. 2"
     },
     {
         "mesto": 276,
         "avtor": "The Beach Boys",
-        "naslov": "Sloop John B"
+        "naslov": "Sloop John B",
+        "producent": "Wilson",
+        "leto": "66",
+        "zalozba": " Capitol<br />11 weeks; No. 3"
     },
     {
         "mesto": 275,
         "avtor": "George Jones",
-        "naslov": "He Stopped Loving Her Today"
+        "naslov": "He Stopped Loving Her Today",
+        "producent": "Billy Sherrill",
+        "leto": "80",
+        "zalozba": " Epic<br />Did not chart&#xA0;"
     },
     {
         "mesto": 274,
         "avtor": "The Modern Lovers",
-        "naslov": "Roadrunner"
+        "naslov": "Roadrunner",
+        "producent": "John Cale",
+        "leto": "76",
+        "zalozba": " Beserkley<br />Did not chart&#xA0;"
     },
     {
         "mesto": 273,
         "avtor": "Kanye West",
-        "naslov": "Jesus Walks"
+        "naslov": "Jesus Walks",
+        "producent": "West",
+        "leto": "04",
+        "zalozba": " Roc-a-Fella<br />25 weeks; No. 11"
     },
     {
         "mesto": 272,
         "avtor": "U2",
-        "naslov": "Sunday Bloody Sunday"
+        "naslov": "Sunday Bloody Sunday",
+        "producent": "Steve Lillywhite",
+        "leto": "83",
+        "zalozba": " Island<br />Did not chart&#xA0;"
     },
     {
         "mesto": 271,
         "avtor": "New York Dolls",
-        "naslov": "Personality Crisis"
+        "naslov": "Personality Crisis",
+        "producent": "Todd Rundgren",
+        "leto": "73",
+        "zalozba": " Mercury<br />Did not chart"
     },
     {
         "mesto": 270,
         "avtor": "Archie Bell and The Drells",
-        "naslov": "Tighten Up"
+        "naslov": "Tighten Up",
+        "producent": "Skipper Lee Frazier",
+        "leto": "68",
+        "zalozba": " Atlantic<br />15 weeks; No. 1"
     },
     {
         "mesto": 269,
         "avtor": "The Ronettes",
-        "naslov": "Walking in the Rain"
+        "naslov": "Walking in the Rain",
+        "producent": "Spector",
+        "leto": "64",
+        "zalozba": " Philles<br />11 weeks; No. 23"
     },
     {
         "mesto": 268,
         "avtor": "Randy Newman",
-        "naslov": "Sail Away"
+        "naslov": "Sail Away",
+        "producent": "Lenny Waronker",
+        "leto": "72",
+        "zalozba": " Reprise<br />Did not chart"
     },
     {
         "mesto": 267,
         "avtor": "The Crystals",
-        "naslov": "He's A Rebel"
+        "naslov": "He's A Rebel",
+        "producent": "",
+        "leto": "62",
+        "zalozba": " Philles<br />18 weeks; No. 1"
     },
     {
         "mesto": 266,
         "avtor": "Smokey Robinson and The Miracles",
-        "naslov": "Ooo Baby Baby"
+        "naslov": "Ooo Baby Baby",
+        "producent": "Robinson",
+        "leto": "65",
+        "zalozba": " Tamla<br />11 weeks; No. 16"
     },
     {
         "mesto": 265,
         "avtor": "Stevie Wonder",
-        "naslov": "Higher Ground"
+        "naslov": "Higher Ground",
+        "producent": "Wonder",
+        "leto": "73",
+        "zalozba": " Tamla<br />14 weeks; No. 4"
     },
     {
         "mesto": 264,
         "avtor": "Jeff Buckley",
-        "naslov": "Hallelujah"
+        "naslov": "Hallelujah",
+        "producent": "Andy Wallace",
+        "leto": "94",
+        "zalozba": " Columbia<br />Non-Single"
     },
     {
         "mesto": 263,
         "avtor": "The Dells",
-        "naslov": "Oh, What A Night"
+        "naslov": "Oh, What A Night",
+        "producent": "Bobby Miller",
+        "leto": "69",
+        "zalozba": " Cadet<br />11 weeks; No. 10"
     },
     {
         "mesto": 262,
         "avtor": "The Who",
-        "naslov": "I Can See For Miles"
+        "naslov": "I Can See For Miles",
+        "producent": "Kit Lambert",
+        "leto": "67",
+        "zalozba": " Decca<br />11 weeks; No. 9"
     },
     {
         "mesto": 261,
         "avtor": "The Troggs",
-        "naslov": "Wild Thing"
+        "naslov": "Wild Thing",
+        "producent": "Larry Page",
+        "leto": "66",
+        "zalozba": " Atco/Fontana<br />11 weeks; No. 1"
     },
     {
         "mesto": 260,
         "avtor": "Bob Dylan",
-        "naslov": "Mississippi"
+        "naslov": "Mississippi",
+        "producent": "Jack Frost",
+        "leto": "01",
+        "zalozba": " Columbia<br />Non-Single"
     },
     {
         "mesto": 259,
         "avtor": "Blondie",
-        "naslov": "Heart of Glass"
+        "naslov": "Heart of Glass",
+        "producent": "Mike Chapman",
+        "leto": "78",
+        "zalozba": " Chrysalis<br />21 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 258,
         "avtor": "AC/DC",
-        "naslov": "Highway to Hell"
+        "naslov": "Highway to Hell",
+        "producent": "Robert John Lange",
+        "leto": "79",
+        "zalozba": " Atlantic<br />10 weeks; No. 47&#xA0;"
     },
     {
         "mesto": 257,
         "avtor": "Radiohead",
-        "naslov": "Paranoid Android"
+        "naslov": "Paranoid Android",
+        "producent": "Nigel Godrich,",
+        "leto": "97",
+        "zalozba": " Capitol<br />Did not chart&#xA0;"
     },
     {
         "mesto": 256,
         "avtor": "Mott the Hoople",
-        "naslov": "All the Young Dudes"
+        "naslov": "All the Young Dudes",
+        "producent": "Bowie",
+        "leto": "72",
+        "zalozba": " Columbia<br />11 weeks; No. 37&#xA0;"
     },
     {
         "mesto": 255,
         "avtor": "Bobby Darin",
-        "naslov": "Mack the Knife"
+        "naslov": "Mack the Knife",
+        "producent": "Ahmet Ertegun",
+        "leto": "59",
+        "zalozba": " Atco<br />26 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 254,
         "avtor": "The Drifters",
-        "naslov": "Money Honey"
+        "naslov": "Money Honey",
+        "producent": "Ahmet Ertegun, Jerry Wexler",
+        "leto": "53",
+        "zalozba": " Atlantic"
     },
     {
         "mesto": 253,
         "avtor": "Black Sabbath",
-        "naslov": "Paranoid"
+        "naslov": "Paranoid",
+        "producent": "Rodger Bain",
+        "leto": "70",
+        "zalozba": " Warner Bros.<br />8 weeks; No. 61&#xA0;"
     },
     {
         "mesto": 252,
         "avtor": "Aretha Franklin",
-        "naslov": "Chain of Fools"
+        "naslov": "Chain of Fools",
+        "producent": "Jerry Wexler",
+        "leto": "67",
+        "zalozba": " Atlantic<br />12 weeks; No. 2&#xA0;"
     },
     {
         "mesto": 251,
         "avtor": "Sugarhill Gang",
-        "naslov": "Rapper's Delight"
+        "naslov": "Rapper's Delight",
+        "producent": "Sylvia Robinson",
+        "leto": "79",
+        "zalozba": " Sugar Hill<br />12 weeks; No. 36&#xA0;"
     },
     {
         "mesto": 250,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Hot Fun in the Summertime"
+        "naslov": "Hot Fun in the Summertime",
+        "producent": "Stone",
+        "leto": "69",
+        "zalozba": " Epic<br />16 weeks; No. 2"
     },
     {
         "mesto": 249,
         "avtor": "The Band",
-        "naslov": "The Night They Drove Old Dixie Down"
+        "naslov": "The Night They Drove Old Dixie Down",
+        "producent": "John Simon, the Band",
+        "leto": "69",
+        "zalozba": " Capitol<br />Non-single"
     },
     {
         "mesto": 248,
         "avtor": "Jackie Wilson",
-        "naslov": "(Your Love Keeps Lifting Me) Higher and Higher"
+        "naslov": "(Your Love Keeps Lifting Me) Higher and Higher",
+        "producent": "Carl Davis",
+        "leto": "67",
+        "zalozba": " Brunswick<br />12 weeks; No. 6"
     },
     {
         "mesto": 247,
         "avtor": "The Spencer Davis Group",
-        "naslov": "Gimme Some Lovin'"
+        "naslov": "Gimme Some Lovin'",
+        "producent": "Jimmy Miller",
+        "leto": "66",
+        "zalozba": " United Artists<br />13 weeks; No. 7"
     },
     {
         "mesto": 246,
         "avtor": "The B-52's",
-        "naslov": "Love Shack"
+        "naslov": "Love Shack",
+        "producent": "Don Was, Nile Rodgers",
+        "leto": "89",
+        "zalozba": " Reprise<br />27 weeks; No. 3"
     },
     {
         "mesto": 245,
         "avtor": "Elton John",
-        "naslov": "Rocket Man"
+        "naslov": "Rocket Man",
+        "producent": "Gus Dudgeon",
+        "leto": "72",
+        "zalozba": " Uni<br />15 weeks; No. 6"
     },
     {
         "mesto": 244,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Stand!"
+        "naslov": "Stand!",
+        "producent": "Stone",
+        "leto": "69",
+        "zalozba": " Epic<br />8 weeks; No. 22"
     },
     {
         "mesto": 243,
         "avtor": "Dion",
-        "naslov": "The Wanderer"
+        "naslov": "The Wanderer",
+        "producent": "Gene Schwartz",
+        "leto": "61",
+        "zalozba": " Laurie<br />18 weeks; No. 2"
     },
     {
         "mesto": 242,
         "avtor": "Dusty Springfield",
-        "naslov": "Son of a Preacher Man"
+        "naslov": "Son of a Preacher Man",
+        "producent": "Jerry Wexler",
+        "leto": "68",
+        "zalozba": " Atlantic<br />12 weeks; No. 10"
     },
     {
         "mesto": 241,
         "avtor": "Patsy Cline",
-        "naslov": "I Fall to Pieces"
+        "naslov": "I Fall to Pieces",
+        "producent": "Owen Bradley",
+        "leto": "61",
+        "zalozba": " Decca<br />20 weeks; No. 12"
     },
     {
         "mesto": 240,
         "avtor": "Afrika Bambaataa and the Soul Sonic Force",
-        "naslov": "Planet Rock"
+        "naslov": "Planet Rock",
+        "producent": "Bambaataa, Arthur Baker",
+        "leto": "82",
+        "zalozba": " Tommy Boy<br />11 weeks; No. 48"
     },
     {
         "mesto": 239,
         "avtor": "Ray Charles",
-        "naslov": "I Got a Woman"
+        "naslov": "I Got a Woman",
+        "producent": "Jerry Wexler",
+        "leto": "54",
+        "zalozba": " ABC-Parliament<br />Predates chart"
     },
     {
         "mesto": 238,
         "avtor": "Buddy Holly and the Crickets",
-        "naslov": "Everyday"
+        "naslov": "Everyday",
+        "producent": "Petty",
+        "leto": "57",
+        "zalozba": " Coral a<br />Did not chart"
     },
     {
         "mesto": 237,
         "avtor": "The Byrds",
-        "naslov": "I'll Feel a Whole Lot Better"
+        "naslov": "I'll Feel a Whole Lot Better",
+        "producent": "Terry Melcher",
+        "leto": "65",
+        "zalozba": " Columbia<br />Did not chart"
     },
     {
         "mesto": 236,
         "avtor": "M.I.A.",
-        "naslov": "Paper Planes"
+        "naslov": "Paper Planes",
+        "producent": "Diplo, Switch",
+        "leto": "07",
+        "zalozba": " Interscope<br />21 weeks; No. 4"
     },
     {
         "mesto": 235,
         "avtor": "The Animals",
-        "naslov": "We Gotta Get Out of This Place"
+        "naslov": "We Gotta Get Out of This Place",
+        "producent": "Mickie Most",
+        "leto": "65",
+        "zalozba": " MGM<br />11 weeks; No. 13"
     },
     {
         "mesto": 234,
         "avtor": "Roy Orbison",
-        "naslov": "Only the Lonely"
+        "naslov": "Only the Lonely",
+        "producent": "Fred Foster",
+        "leto": "60",
+        "zalozba": " Monument<br />21 weeks; No. 2"
     },
     {
         "mesto": 233,
         "avtor": "Marvin Gaye",
-        "naslov": "Sexual Healing"
+        "naslov": "Sexual Healing",
+        "producent": "Gaye",
+        "leto": "82",
+        "zalozba": " Columbia<br />21 weeks; No. 3"
     },
     {
         "mesto": 232,
         "avtor": "Bob Dylan",
-        "naslov": "Just Like a Woman"
+        "naslov": "Just Like a Woman",
+        "producent": "Bob Johnston",
+        "leto": "66",
+        "zalozba": " Columbia<br />6 weeks; No. 33"
     },
     {
         "mesto": 231,
         "avtor": "Van Morrison",
-        "naslov": "Moondance"
+        "naslov": "Moondance",
+        "producent": "Morrison",
+        "leto": "70",
+        "zalozba": " Warner Bros.<br />4 weeks; No. 92"
     },
     {
         "mesto": 230,
         "avtor": "Muddy Waters",
-        "naslov": "Mannish Boy"
+        "naslov": "Mannish Boy",
+        "producent": "Leonard and Phil Chess, Willie Dixon",
+        "leto": "55",
+        "zalozba": " Chess<br />Did not chart"
     },
     {
         "mesto": 229,
         "avtor": "Chic",
-        "naslov": "Good Times"
+        "naslov": "Good Times",
+        "producent": "Rodgers, Edwards",
+        "leto": "79",
+        "zalozba": " Atlantic<br />19 weeks; No. 1"
     },
     {
         "mesto": 228,
         "avtor": "The Clash",
-        "naslov": "Should I Stay or Should I Go"
+        "naslov": "Should I Stay or Should I Go",
+        "producent": "Glyn Johns",
+        "leto": "82",
+        "zalozba": " Epic<br />13 weeks; No. 45"
     },
     {
         "mesto": 227,
         "avtor": "James Taylor",
-        "naslov": "Fire and Rain"
+        "naslov": "Fire and Rain",
+        "producent": "Peter Asher",
+        "leto": "70",
+        "zalozba": " Warner Bros.<br />16 weeks; No. 3"
     },
     {
         "mesto": 226,
         "avtor": "Muddy Waters",
-        "naslov": "Hoochie Coochie Man"
+        "naslov": "Hoochie Coochie Man",
+        "producent": "Leonard and Phil Chess, Dixon",
+        "leto": "54",
+        "zalozba": " Chess<br />Did not chart"
     },
     {
         "mesto": 225,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Dance to the Music"
+        "naslov": "Dance to the Music",
+        "producent": "Stone",
+        "leto": "68",
+        "zalozba": " Epic<br />15 weeks; No. 8"
     },
     {
         "mesto": 224,
         "avtor": "Roy Orbison",
-        "naslov": "Oh, Pretty Woman"
+        "naslov": "Oh, Pretty Woman",
+        "producent": "Wesley Rose",
+        "leto": "64",
+        "zalozba": " Monument<br />15 weeks; No. 1"
     },
     {
         "mesto": 223,
         "avtor": "Lou Reed",
-        "naslov": "Walk on the Wild Side"
+        "naslov": "Walk on the Wild Side",
+        "producent": "David Bowie, Mick Ronson, Reed",
+        "leto": "72",
+        "zalozba": " RCA<br />14 weeks; No. 16"
     },
     {
         "mesto": 222,
         "avtor": "The Left Banke",
-        "naslov": "Walk Away Renee"
+        "naslov": "Walk Away Renee",
+        "producent": "Harry Lookofsky",
+        "leto": "66",
+        "zalozba": " Smash<br />13 weeks; No. 5"
     },
     {
         "mesto": 221,
         "avtor": "Howlin' Wolf",
-        "naslov": "Spoonful"
+        "naslov": "Spoonful",
+        "producent": "Leonard and Phil Chess",
+        "leto": "60",
+        "zalozba": " Chess<br />Did not chart"
     },
     {
         "mesto": 220,
         "avtor": "John Lee Hooker",
-        "naslov": "Boom Boom"
+        "naslov": "Boom Boom",
+        "producent": "Calvin Carter",
+        "leto": "62",
+        "zalozba": " Vee-Jay<br />10 weeks; No. 60"
     },
     {
         "mesto": 219,
         "avtor": "Dolly Parton",
-        "naslov": "Jolene"
+        "naslov": "Jolene",
+        "producent": "Bob Ferguson",
+        "leto": "74",
+        "zalozba": " RCA<br />8 weeks; No. 60"
     },
     {
         "mesto": 218,
         "avtor": "The Lovin' Spoonful",
-        "naslov": "Do You Believe in Magic"
+        "naslov": "Do You Believe in Magic",
+        "producent": "Erik Jacobsen",
+        "leto": "65",
+        "zalozba": " Kama Sutra <br /> 13 weeks; No. 9"
     },
     {
         "mesto": 217,
         "avtor": "Hank Williams",
-        "naslov": "Your Cheatin' Heart"
+        "naslov": "Your Cheatin' Heart",
+        "producent": "Rose",
+        "leto": "53",
+        "zalozba": " MGM<br />Predates pop charts"
     },
     {
         "mesto": 216,
         "avtor": "Neil Young",
-        "naslov": "Rockin' in the Free World"
+        "naslov": "Rockin' in the Free World",
+        "producent": "Niko Bolas, Young",
+        "leto": "89",
+        "zalozba": " Reprise<br />Non-single"
     },
     {
         "mesto": 215,
         "avtor": "Prince",
-        "naslov": "1999"
+        "naslov": "1999",
+        "producent": "Prince",
+        "leto": "82",
+        "zalozba": " Warner Bros.<br />27 weeks; No. 12"
     },
     {
         "mesto": 214,
         "avtor": "The Beach Boys",
-        "naslov": "Caroline, No"
+        "naslov": "Caroline, No",
+        "producent": "Wilson",
+        "leto": "66",
+        "zalozba": " Capitol<br />7 weeks; No. 32"
     },
     {
         "mesto": 213,
         "avtor": "? and the Mysterians",
-        "naslov": "96 Tears"
+        "naslov": "96 Tears",
+        "producent": "Martinez",
+        "leto": "66",
+        "zalozba": " Pa-Go-Go<br />15 weeks; No. 1"
     },
     {
         "mesto": 212,
         "avtor": "The Beach Boys",
-        "naslov": "In My Room"
+        "naslov": "In My Room",
+        "producent": "Wilson",
+        "leto": "63",
+        "zalozba": " Capitol<br />11 weeks; No. 23"
     },
     {
         "mesto": 211,
         "avtor": "Them",
-        "naslov": "Gloria"
+        "naslov": "Gloria",
+        "producent": "Tommy Scott",
+        "leto": "65",
+        "zalozba": " Parrot"
     },
     {
         "mesto": 210,
         "avtor": "The Everly Brothers",
-        "naslov": "Bye Bye Love"
+        "naslov": "Bye Bye Love",
+        "producent": "Archie Bleyer",
+        "leto": "57",
+        "zalozba": " Cadence<br />27 weeks; No. 2"
     },
     {
         "mesto": 209,
         "avtor": "The Four Tops",
-        "naslov": "Reach Out, I'll Be There"
+        "naslov": "Reach Out, I'll Be There",
+        "producent": "Holland, Dozier, Holland",
+        "leto": "66",
+        "zalozba": " Motown<br />15 weeks; No. 1"
     },
     {
         "mesto": 208,
         "avtor": "Bill Withers",
-        "naslov": "Lean on Me"
+        "naslov": "Lean on Me",
+        "producent": "Withers",
+        "leto": "72",
+        "zalozba": " Sussex<br />19 weeks; No. 1"
     },
     {
         "mesto": 207,
         "avtor": "Otis Redding",
-        "naslov": "Try a Little Tenderness"
+        "naslov": "Try a Little Tenderness",
+        "producent": "Steve Cropper, Jim Stewart",
+        "leto": "66",
+        "zalozba": " Stax<br />10 weeks; No. 25"
     },
     {
         "mesto": 206,
         "avtor": "Bob Dylan",
-        "naslov": "Positively 4th Street"
+        "naslov": "Positively 4th Street",
+        "producent": "Bob Johnston",
+        "leto": "65",
+        "zalozba": " Columbia<br />9 weeks; No. 7"
     },
     {
         "mesto": 205,
         "avtor": "The Beatles",
-        "naslov": "Come Together"
+        "naslov": "Come Together",
+        "producent": "George Martin",
+        "leto": "69",
+        "zalozba": " Apple<br />16 weeks; No. 1"
     },
     {
         "mesto": 204,
         "avtor": "New Order",
-        "naslov": "Bizarre Love Triangle"
+        "naslov": "Bizarre Love Triangle",
+        "producent": "New Order",
+        "leto": "86",
+        "zalozba": " Qwest<br />2 weeks; No. 98"
     },
     {
         "mesto": 203,
         "avtor": "Beck",
-        "naslov": "Loser"
+        "naslov": "Loser",
+        "producent": "Karl Stephenson",
+        "leto": "1993",
+        "zalozba": " Bong Load&#xA0;&#xA0;&#xA0; <br />24 weeks; No. 10"
     },
     {
         "mesto": 202,
         "avtor": "Parliament",
-        "naslov": "Flash Light"
+        "naslov": "Flash Light",
+        "producent": "Clinton",
+        "leto": "77",
+        "zalozba": " Casablanca<br />16 weeks; No. 16"
     },
     {
         "mesto": 201,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "Hey Joe"
+        "naslov": "Hey Joe",
+        "producent": "Chas Chandler",
+        "leto": "66",
+        "zalozba": " Reprise<br />Did not chart"
     },
     {
         "mesto": 200,
         "avtor": "Elvis Presley",
-        "naslov": "Don't Be Cruel"
+        "naslov": "Don't Be Cruel",
+        "producent": "Steve Sholes",
+        "leto": "56",
+        "zalozba": " RCA<br />27 weeks; No. 1"
     },
     {
         "mesto": 199,
         "avtor": "The Chantels",
-        "naslov": "Maybe"
+        "naslov": "Maybe",
+        "producent": "Richard Barrett",
+        "leto": "57",
+        "zalozba": " End<br />18 weeks; No. 15"
     },
     {
         "mesto": 198,
         "avtor": "Guns n' Roses",
-        "naslov": "Sweet Child O'Mine"
+        "naslov": "Sweet Child O'Mine",
+        "producent": "Mike Clink",
+        "leto": "87",
+        "zalozba": " Geffen<br />24 weeks; No. 1"
     },
     {
         "mesto": 197,
         "avtor": "Buddy Holly",
-        "naslov": "Peggy Sue"
+        "naslov": "Peggy Sue",
+        "producent": "Petty",
+        "leto": "57",
+        "zalozba": " Coral<br />22 weeks; No. 3"
     },
     {
         "mesto": 196,
         "avtor": "The Drifters",
-        "naslov": "There Goes My Baby"
+        "naslov": "There Goes My Baby",
+        "producent": "Jerry Leiber, Mike Stoller",
+        "leto": "59",
+        "zalozba": " Atlantic<br />19 weeks; No. 2"
     },
     {
         "mesto": 195,
         "avtor": "Glen Campbell",
-        "naslov": "Wichita Lineman"
+        "naslov": "Wichita Lineman",
+        "producent": "Al De Lory",
+        "leto": "68",
+        "zalozba": " Capitol<br />15 weeks; No. 3"
     },
     {
         "mesto": 194,
         "avtor": "Amy Winehouse",
-        "naslov": "Rehab"
+        "naslov": "Rehab",
+        "producent": "Mark Ronson",
+        "leto": "07",
+        "zalozba": " Universal Republic<br />20 weeks; No. 9"
     },
     {
         "mesto": 193,
         "avtor": "Lynyrd Skynyrd",
-        "naslov": "Free Bird"
+        "naslov": "Free Bird",
+        "producent": "Al Kooper",
+        "leto": "73",
+        "zalozba": " MCA<br />12 weeks; No. 19"
     },
     {
         "mesto": 192,
         "avtor": "Bob Dylan",
-        "naslov": "Knockin' on Heaven's Door"
+        "naslov": "Knockin' on Heaven's Door",
+        "producent": "Gordon Carroll",
+        "leto": "73",
+        "zalozba": " Columbia<br />16 weeks; No. 12"
     },
     {
         "mesto": 191,
         "avtor": "Bee Gees",
-        "naslov": "Stayin' Alive"
+        "naslov": "Stayin' Alive",
+        "producent": "Barry Gibb, Robin Gibb, Maurice Gibb, Karl Richardson,Albhy Galuten",
+        "leto": "77",
+        "zalozba": " RSO<br />27 weeks; No. 1"
     },
     {
         "mesto": 190,
         "avtor": "AC/DC",
-        "naslov": "Back in Black"
+        "naslov": "Back in Black",
+        "producent": "Mutt Lange",
+        "leto": "80",
+        "zalozba": " Atlantic<br />15 weeks; No. 37"
     },
     {
         "mesto": 189,
         "avtor": "Aretha Franklin",
-        "naslov": "I Never Loved a Man (the Way I Love You)"
+        "naslov": "I Never Loved a Man (the Way I Love You)",
+        "producent": "Jerry Wexler",
+        "leto": "67",
+        "zalozba": " Atlantic<br />11 weeks; No. 9"
     },
     {
         "mesto": 188,
         "avtor": "Creedence Clearwater Revival",
-        "naslov": "Who'll Stop the Rain"
+        "naslov": "Who'll Stop the Rain",
+        "producent": "Fogerty",
+        "leto": "70",
+        "zalozba": " Fantasy<br />Did not chart"
     },
     {
         "mesto": 187,
         "avtor": "Bob Dylan",
-        "naslov": "Desolation Row"
+        "naslov": "Desolation Row",
+        "producent": "Bob Johnston",
+        "leto": "65",
+        "zalozba": " Columbia<br />Non-single"
     },
     {
         "mesto": 186,
         "avtor": "The Beatles",
-        "naslov": "Please Please Me"
+        "naslov": "Please Please Me",
+        "producent": "George Martin",
+        "leto": "64",
+        "zalozba": " Vee-Jay<br />13 weeks; No. 3"
     },
     {
         "mesto": 185,
         "avtor": "B.B. King",
-        "naslov": "The Thrill is Gone"
+        "naslov": "The Thrill is Gone",
+        "producent": "Bill Szymczyk",
+        "leto": "69",
+        "zalozba": " BluesWay<br />14 weeks; No. 15"
     },
     {
         "mesto": 184,
         "avtor": "The Drifters",
-        "naslov": "Save the Last Dance for Me"
+        "naslov": "Save the Last Dance for Me",
+        "producent": "Jerry Leiber, Mike Stoller",
+        "leto": "60",
+        "zalozba": " Atlantic<br />18 weeks; No. 1"
     },
     {
         "mesto": 183,
         "avtor": "Booker T. and the MG's",
-        "naslov": "Green Onions"
+        "naslov": "Green Onions",
+        "producent": "Jim Stewart",
+        "leto": "62",
+        "zalozba": " Stax<br />16 weeks; No. 3"
     },
     {
         "mesto": 182,
         "avtor": "OutKast",
-        "naslov": "Hey Ya!"
+        "naslov": "Hey Ya!",
+        "producent": "André 3000",
+        "leto": "03",
+        "zalozba": " LaFace<br />32 weeks; No. 1"
     },
     {
         "mesto": 181,
         "avtor": "Joy Division",
-        "naslov": "Love Will Tear Us Apart"
+        "naslov": "Love Will Tear Us Apart",
+        "producent": "Martin Hannett",
+        "leto": "80",
+        "zalozba": " Enigma<br />Did not chart"
     },
     {
         "mesto": 180,
         "avtor": "Big Star",
-        "naslov": "September Gurls"
+        "naslov": "September Gurls",
+        "producent": "Big Star",
+        "leto": "74",
+        "zalozba": " Ardent<br />Did not chart"
     },
     {
         "mesto": 179,
         "avtor": "Tom Petty",
-        "naslov": "Free Fallin'"
+        "naslov": "Free Fallin'",
+        "producent": "Lynne",
+        "leto": "89",
+        "zalozba": " MCA<br />21 weeks; No. 7"
     },
     {
         "mesto": 178,
         "avtor": "The Beach Boys",
-        "naslov": "Don't Worry Baby"
+        "naslov": "Don't Worry Baby",
+        "producent": "Wilson",
+        "leto": "64",
+        "zalozba": " Capitol<br />10 weeks; No. 24"
     },
     {
         "mesto": 177,
         "avtor": "The Bobby Fuller Four",
-        "naslov": "I Fought the Law"
+        "naslov": "I Fought the Law",
+        "producent": "Bob Keane",
+        "leto": "66",
+        "zalozba": " Mustang<br />11 weeks; No. 9"
     },
     {
         "mesto": 176,
         "avtor": "The Rolling Stones",
-        "naslov": "Paint it Black"
+        "naslov": "Paint it Black",
+        "producent": "Andrew Loog Oldham",
+        "leto": "66",
+        "zalozba": " London<br />11 weeks; No. 1"
     },
     {
         "mesto": 175,
         "avtor": "The Sex Pistols",
-        "naslov": "God Save the Queen"
+        "naslov": "God Save the Queen",
+        "producent": "Chris Thomas",
+        "leto": "77",
+        "zalozba": " Warner Bros.<br />Did not chart&#xA0;"
     },
     {
         "mesto": 174,
         "avtor": "Abba",
-        "naslov": "Dancing Queen"
+        "naslov": "Dancing Queen",
+        "producent": "Andersson, Ulvaeus",
+        "leto": "76",
+        "zalozba": " Atlantic<br />22 weeks; No. 1"
     },
     {
         "mesto": 173,
         "avtor": "Aerosmith",
-        "naslov": "Dream On"
+        "naslov": "Dream On",
+        "producent": "Arian Barber",
+        "leto": "73",
+        "zalozba": " Columbia<br />9 weeks; No. 59"
     },
     {
         "mesto": 172,
         "avtor": "Jay-Z",
-        "naslov": "99 Problems"
+        "naslov": "99 Problems",
+        "producent": "Rubin",
+        "leto": "03",
+        "zalozba": " Roc-a-Fella<br />12 weeks; No. 30"
     },
     {
         "mesto": 171,
         "avtor": "Joni Mitchell",
-        "naslov": "Both Sides Now"
+        "naslov": "Both Sides Now",
+        "producent": "Mitchell",
+        "leto": "69",
+        "zalozba": " Reprise<br />Did not chart"
     },
     {
         "mesto": 170,
         "avtor": "R.E.M.",
-        "naslov": "Losing My Religion"
+        "naslov": "Losing My Religion",
+        "producent": "Scott Lift, R.E.M.",
+        "leto": "91",
+        "zalozba": " Warner Bros.<br />21 weeks; No. 4"
     },
     {
         "mesto": 169,
         "avtor": "The Temptations",
-        "naslov": "Papa Was a Rollin' Stone"
+        "naslov": "Papa Was a Rollin' Stone",
+        "producent": "Whitfield",
+        "leto": "72",
+        "zalozba": " Gordy<br />16 weeks; No. 1"
     },
     {
         "mesto": 168,
         "avtor": "Marvin Gaye",
-        "naslov": "Let's Get It On"
+        "naslov": "Let's Get It On",
+        "producent": "Gaye, Townsend",
+        "leto": "73",
+        "zalozba": " Tamla<br />14 weeks; No. 1"
     },
     {
         "mesto": 167,
         "avtor": "Tracy Chapman",
-        "naslov": "Fast Car"
+        "naslov": "Fast Car",
+        "producent": "David Kershenbaum",
+        "leto": "88",
+        "zalozba": " Elektra<br />&#xA0;21 weeks; No. 6"
     },
     {
         "mesto": 166,
         "avtor": "Queen",
-        "naslov": "Bohemian Rhapsody"
+        "naslov": "Bohemian Rhapsody",
+        "producent": "Roy Thomas Baker",
+        "leto": "75",
+        "zalozba": " Elektra<br />24 weeks; No. 9"
     },
     {
         "mesto": 165,
         "avtor": "Sinead O'Connor",
-        "naslov": "Nothing Compares 2 U"
+        "naslov": "Nothing Compares 2 U",
+        "producent": "O'Connor, Nellee Hooper",
+        "leto": "90",
+        "zalozba": " Ensign<br />21 weeks; No. 1"
     },
     {
         "mesto": 164,
         "avtor": "Ray Charles",
-        "naslov": "I Can't Stop Loving You"
+        "naslov": "I Can't Stop Loving You",
+        "producent": "Sid Feller",
+        "leto": "62",
+        "zalozba": " ABC-Paramount<br />18 weeks; No. 1"
     },
     {
         "mesto": 163,
         "avtor": "Johnny Cash",
-        "naslov": "Folsom Prison Blues"
+        "naslov": "Folsom Prison Blues",
+        "producent": "Sam Phillips",
+        "leto": "56",
+        "zalozba": " Sun<br />18 weeks; No. 32"
     },
     {
         "mesto": 162,
         "avtor": "Public Enemy",
-        "naslov": "Bring the Noise"
+        "naslov": "Bring the Noise",
+        "producent": "Rick Rubin, Carl Ryder",
+        "leto": "88",
+        "zalozba": " Def Jam<br />Did not chart"
     },
     {
         "mesto": 161,
         "avtor": "The Velvet Underground",
-        "naslov": "I'm Waiting for the Man"
+        "naslov": "I'm Waiting for the Man",
+        "producent": "Andy Warhol, Tom Wilson",
+        "leto": "67",
+        "zalozba": " Verve<br />Non-single"
     },
     {
         "mesto": 160,
         "avtor": "U2",
-        "naslov": "Moment of Surrender"
+        "naslov": "Moment of Surrender",
+        "producent": "Brian Eno, Daniel Lanois",
+        "leto": "09",
+        "zalozba": " Interscope<br />Non-single"
     },
     {
         "mesto": 159,
         "avtor": "Bill Haley and His Comets",
-        "naslov": "(We're Gonna) Rock Around the Clock"
+        "naslov": "(We're Gonna) Rock Around the Clock",
+        "producent": "Milt Gabler",
+        "leto": "54",
+        "zalozba": " Decca<br />24 weeks; No. 1"
     },
     {
         "mesto": 158,
         "avtor": "The Flamingos",
-        "naslov": "I Only Have Eyes for You"
+        "naslov": "I Only Have Eyes for You",
+        "producent": "George Goldner",
+        "leto": "59",
+        "zalozba": " End<br />13 weeks; No. 11"
     },
     {
         "mesto": 157,
         "avtor": "Simon and Garfunkel",
-        "naslov": "The Sounds of Silence"
+        "naslov": "The Sounds of Silence",
+        "producent": "Tom Wilson",
+        "leto": "65",
+        "zalozba": " Columbia&#xA0;<br />14 weeks; No. 1"
     },
     {
         "mesto": 156,
         "avtor": "Creedence Clearwater Revival",
-        "naslov": "Proud Mary"
+        "naslov": "Proud Mary",
+        "producent": "Fogerty",
+        "leto": "69",
+        "zalozba": " Fantasy<br />14 weeks; No. 2"
     },
     {
         "mesto": 155,
         "avtor": "Buddy Holly and the Crickets",
-        "naslov": "Rave On"
+        "naslov": "Rave On",
+        "producent": "Petty",
+        "leto": "58",
+        "zalozba": " Coral<br /><strong>10 weeks;</strong> No. 37"
     },
     {
         "mesto": 154,
         "avtor": "The Beatles",
-        "naslov": "A Hard Day's Night"
+        "naslov": "A Hard Day's Night",
+        "producent": "George Martin",
+        "leto": "64",
+        "zalozba": " Capitol<br />13 weeks; No. 1"
     },
     {
         "mesto": 153,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "Foxey Lady"
+        "naslov": "Foxey Lady",
+        "producent": "Chas Chandler",
+        "leto": "65",
+        "zalozba": " Reprise<br />4 weeks; No. 67"
     },
     {
         "mesto": 152,
         "avtor": "The Penguins",
-        "naslov": "Earth Angel"
+        "naslov": "Earth Angel",
+        "producent": "Dootsie Williams",
+        "leto": "54",
+        "zalozba": " Dootone<br />15 weeks; No. 8"
     },
     {
         "mesto": 151,
         "avtor": "The Byrds",
-        "naslov": "Eight Miles High"
+        "naslov": "Eight Miles High",
+        "producent": "Allen Stanton",
+        "leto": "66",
+        "zalozba": " Columbia<br />9 weeks; No. 14"
     },
     {
         "mesto": 150,
         "avtor": "The Everly Brothers",
-        "naslov": "Cathy's Clown"
+        "naslov": "Cathy's Clown",
+        "producent": "Wesley Rose",
+        "leto": "60",
+        "zalozba": " Warner Bros.&#xA0;<br />17 weeks; No. 1"
     },
     {
         "mesto": 149,
         "avtor": "Iggy Pop",
-        "naslov": "Lust for Life"
+        "naslov": "Lust for Life",
+        "producent": "Bowie",
+        "leto": "77",
+        "zalozba": " RCA<br />Did not chart"
     },
     {
         "mesto": 148,
         "avtor": "Janis Joplin",
-        "naslov": "Me and Bobby McGee"
+        "naslov": "Me and Bobby McGee",
+        "producent": "Paul Rothchild",
+        "leto": "71",
+        "zalozba": " Columbia<br />15 weeks; No. 1"
     },
     {
         "mesto": 147,
         "avtor": "The B-52's",
-        "naslov": "Rock Lobster"
+        "naslov": "Rock Lobster",
+        "producent": "Chris Blackwell",
+        "leto": "79",
+        "zalozba": " Warner Bros.<br />8 weeks; No. 56"
     },
     {
         "mesto": 146,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Everyday People"
+        "naslov": "Everyday People",
+        "producent": "Stone",
+        "leto": "68",
+        "zalozba": " Epic<br />19 weeks; No. 1"
     },
     {
         "mesto": 145,
         "avtor": "Ramones",
-        "naslov": "I Wanna Be Sedated"
+        "naslov": "I Wanna Be Sedated",
+        "producent": "Tommy Erdelyi, Ed Stasium",
+        "leto": "78",
+        "zalozba": " Sire<br />Did not chart"
     },
     {
         "mesto": 144,
         "avtor": "Prince and the Revolution",
-        "naslov": "Purple Rain"
+        "naslov": "Purple Rain",
+        "producent": "Prince",
+        "leto": "84",
+        "zalozba": " Warner Bros.<br />16 weeks; No. 2"
     },
     {
         "mesto": 143,
         "avtor": "James Brown and His Famous Flames",
-        "naslov": "Please, Please, Please"
+        "naslov": "Please, Please, Please",
+        "producent": "Ralph Bass",
+        "leto": "56",
+        "zalozba": " Federal<br />2 weeks; No. 95"
     },
     {
         "mesto": 142,
         "avtor": "The Everly Brothers",
-        "naslov": "All I Have to Do Is Dream"
+        "naslov": "All I Have to Do Is Dream",
+        "producent": "Archie Bleyer",
+        "leto": "58",
+        "zalozba": " Cadence<br />11 weeks; No. 21"
     },
     {
         "mesto": 141,
         "avtor": "Led Zeppelin",
-        "naslov": "Kashmir"
+        "naslov": "Kashmir",
+        "producent": "Page",
+        "leto": "75",
+        "zalozba": " Swan Song<br />Non-single"
     },
     {
         "mesto": 140,
         "avtor": "The Beatles",
-        "naslov": "I Saw Her Standing There"
+        "naslov": "I Saw Her Standing There",
+        "producent": "George Martin",
+        "leto": "64",
+        "zalozba": " Capitol<br />11 weeks; No. 14"
     },
     {
         "mesto": 139,
         "avtor": "Sly and the Family Stone",
-        "naslov": "Family Affair"
+        "naslov": "Family Affair",
+        "producent": "Stone",
+        "leto": "71",
+        "zalozba": " Epic<br />14 weeks; No. 1"
     },
     {
         "mesto": 138,
         "avtor": "The Beatles",
-        "naslov": "Eleanor Rigby"
+        "naslov": "Eleanor Rigby",
+        "producent": "George Martin",
+        "leto": "66",
+        "zalozba": " Capitol<br />8 weeks; No. 11&#xA0;"
     },
     {
         "mesto": 137,
         "avtor": "Elton John",
-        "naslov": "Your Song"
+        "naslov": "Your Song",
+        "producent": "Gus Dudgeon",
+        "leto": "70",
+        "zalozba": " Uni<br />14 weeks; No. 8&#xA0;"
     },
     {
         "mesto": 136,
         "avtor": "The Beatles",
-        "naslov": "While My Guitar Gently Weeps"
+        "naslov": "While My Guitar Gently Weeps",
+        "producent": "George Martin",
+        "leto": "68",
+        "zalozba": " Apple<br />Non-single&#xA0;"
     },
     {
         "mesto": 135,
         "avtor": "Wilson Pickett",
-        "naslov": "In the Midnight Hour"
+        "naslov": "In the Midnight Hour",
+        "producent": "Jerry Wexler, Jim Stewart",
+        "leto": "65",
+        "zalozba": " Atlantic<br />12 weeks; No. 21"
     },
     {
         "mesto": 134,
         "avtor": "The Who",
-        "naslov": "Won't Get Fooled Again"
+        "naslov": "Won't Get Fooled Again",
+        "producent": "Glyn Johns, the Who",
+        "leto": "71",
+        "zalozba": " Decca<br />13 weeks; No. 15&#xA0;"
     },
     {
         "mesto": 133,
         "avtor": "Bo Diddley",
-        "naslov": "Who Do You Love?"
+        "naslov": "Who Do You Love?",
+        "producent": "Phil and Leonard Chess",
+        "leto": "57",
+        "zalozba": " Checker<br />Did not chart"
     },
     {
         "mesto": 132,
         "avtor": "U2",
-        "naslov": "With or Without You"
+        "naslov": "With or Without You",
+        "producent": "Brian Eno, Daniel Lanois",
+        "leto": "87",
+        "zalozba": " Island<br />18 weeks; No. 1"
     },
     {
         "mesto": 131,
         "avtor": "Rod Stewart",
-        "naslov": "Maggie May"
+        "naslov": "Maggie May",
+        "producent": "Stewart",
+        "leto": "71",
+        "zalozba": " Mercury<br />17 weeks; No. 1"
     },
     {
         "mesto": 130,
         "avtor": "Steppenwolf",
-        "naslov": "Born to Be Wild"
+        "naslov": "Born to Be Wild",
+        "producent": "Gabriel Mekler",
+        "leto": "68",
+        "zalozba": " Dunhill&#xA0;<br />13 Weeks; No. 2 &#xA0;"
     },
     {
         "mesto": 129,
         "avtor": "Chuck Berry",
-        "naslov": "Rock &amp; Roll Music"
+        "naslov": "Rock & Roll Music",
+        "producent": "Phil and Leonard Chess",
+        "leto": "57",
+        "zalozba": " Chess<br />19 Weeks; No. 8</span>"
     },
     {
         "mesto": 128,
         "avtor": "David Bowie",
-        "naslov": "Changes"
+        "naslov": "Changes",
+        "producent": "",
+        "leto": "71",
+        "zalozba": " RCA<strong><br />11 Weeks;</strong> No. 41"
     },
     {
         "mesto": 127,
         "avtor": "Big Joe Turner",
-        "naslov": "Shake, Rattle &amp; Roll"
+        "naslov": "Shake, Rattle & Roll",
+        "producent": "",
+        "leto": "54",
+        "zalozba": " Atlantic<strong><br /></strong>Predates chart"
     },
     {
         "mesto": 126,
         "avtor": "The Shirelles",
-        "naslov": "Will You Love Me Tomorrow"
+        "naslov": "Will You Love Me Tomorrow",
+        "producent": "Luther Dixon",
+        "leto": "60",
+        "zalozba": " Scepter<br />19 weeks; No. 1"
     },
     {
         "mesto": 125,
         "avtor": "The Rolling Stones",
-        "naslov": "Jumpin' Jack Flash"
+        "naslov": "Jumpin' Jack Flash",
+        "producent": "Jimmy Miller",
+        "leto": "68",
+        "zalozba": " London <br />12 weeks; No. 3"
     },
     {
         "mesto": 124,
         "avtor": "James Brown",
-        "naslov": "It's A Man's Man's Man's World"
+        "naslov": "It's A Man's Man's Man's World",
+        "producent": "Brown",
+        "leto": "66",
+        "zalozba": " King <br />9 weeks; No. 8"
     },
     {
         "mesto": 123,
         "avtor": "The Animals",
-        "naslov": "The House of the Rising Sun"
+        "naslov": "The House of the Rising Sun",
+        "producent": "Mickie Most",
+        "leto": "64",
+        "zalozba": " MGM<br />11 weeks; No. 1"
     },
     {
         "mesto": 122,
         "avtor": "Ben E. King",
-        "naslov": "Stand By Me"
+        "naslov": "Stand By Me",
+        "producent": "Leiber, Stoller",
+        "leto": "61",
+        "zalozba": " Atco<br />14 weeks; No. 4"
     },
     {
         "mesto": 121,
         "avtor": "The Jackson 5",
-        "naslov": "I Want You Back"
+        "naslov": "I Want You Back",
+        "producent": "Perren, Mizell, Richards, Gordy",
+        "leto": "69",
+        "zalozba": " Motown <br />19 weeks; No. 1"
     },
     {
         "mesto": 120,
         "avtor": "Fleetwood Mac",
-        "naslov": "Go Your Own Way"
+        "naslov": "Go Your Own Way",
+        "producent": "Fleetwood Mac, Richard Dashut, Ken Caillat",
+        "leto": "77",
+        "zalozba": " Warner Bros. <br />15 weeks; No. 10"
     },
     {
         "mesto": 119,
         "avtor": "The Isley Brothers",
-        "naslov": "Shout (Parts 1 and 2)"
+        "naslov": "Shout (Parts 1 and 2)",
+        "producent": "Hugo Peretti, Luigi Creatore",
+        "leto": "59",
+        "zalozba": " RCA<br />11 weeks; No. 47"
     },
     {
         "mesto": 118,
         "avtor": "Beyonce feat. Jay-Z",
-        "naslov": "Crazy in Love"
+        "naslov": "Crazy in Love",
+        "producent": "Harrison, Beyonce",
+        "leto": "03",
+        "zalozba": " Columbia<br />27 weeks; No. 1"
     },
     {
         "mesto": 117,
         "avtor": "Al Green",
-        "naslov": "Take Me to the River"
+        "naslov": "Take Me to the River",
+        "producent": "Willie Mitchell",
+        "leto": "74",
+        "zalozba": " Hi<br />Non-single"
     },
     {
         "mesto": 116,
         "avtor": "The Rolling Stones",
-        "naslov": "Honky Tonk Women"
+        "naslov": "Honky Tonk Women",
+        "producent": "Jimmy Miller",
+        "leto": "69",
+        "zalozba": " London <br />15 weeks; No. 1"
     },
     {
         "mesto": 115,
         "avtor": "Sam Cooke",
-        "naslov": "You Send Me"
+        "naslov": "You Send Me",
+        "producent": "Richard \"Bumps\" Blackwell",
+        "leto": "57",
+        "zalozba": " Keen<br />26 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 114,
         "avtor": "The Drifters",
-        "naslov": "Up on the Roof"
+        "naslov": "Up on the Roof",
+        "producent": "Jerry Leiber, Mike Stoller",
+        "leto": "62",
+        "zalozba": " Atlantic<br />20 weeks; No. 5"
     },
     {
         "mesto": 113,
         "avtor": "Elvis Presley",
-        "naslov": "That's All Right"
+        "naslov": "That's All Right",
+        "producent": "Sam Phillips",
+        "leto": "54",
+        "zalozba": " Sun <br />Did not chart"
     },
     {
         "mesto": 112,
         "avtor": "Hank Williams",
-        "naslov": "I'm So Lonesome I Could Cry"
+        "naslov": "I'm So Lonesome I Could Cry",
+        "producent": "Fred Rose",
+        "leto": "49",
+        "zalozba": " Sterling <br />Did not chart"
     },
     {
         "mesto": 111,
         "avtor": "Otis Redding",
-        "naslov": "I've Been Loving You too Long (to Stop Now)"
+        "naslov": "I've Been Loving You too Long (to Stop Now)",
+        "producent": "Jim Stewart, Steve Cropper",
+        "leto": "65",
+        "zalozba": " Volt <br />11 weeks; No. 21"
     },
     {
         "mesto": 110,
         "avtor": "Van Morrison",
-        "naslov": "Brown Eyed Girl"
+        "naslov": "Brown Eyed Girl",
+        "producent": "Bert Berns",
+        "leto": "67",
+        "zalozba": " Bang <br />16 weeks; No. 10"
     },
     {
         "mesto": 109,
         "avtor": "Prince",
-        "naslov": "Little Red Corvette"
+        "naslov": "Little Red Corvette",
+        "producent": "Prince",
+        "leto": "83",
+        "zalozba": " Warner <br />22 weeks; No. 6"
     },
     {
         "mesto": 108,
         "avtor": "Buddy Holly and the Crickets",
-        "naslov": "Not Fade Away"
+        "naslov": "Not Fade Away",
+        "producent": "Petty",
+        "leto": "57",
+        "zalozba": " Brunswick <br />20 weeks; No. 10"
     },
     {
         "mesto": 107,
         "avtor": "Bob Dylan",
-        "naslov": "Mr. Tambourine Man"
+        "naslov": "Mr. Tambourine Man",
+        "producent": "Tom Wilson",
+        "leto": "65",
+        "zalozba": " Columbia <br />Non-single"
     },
     {
         "mesto": 106,
         "avtor": "Simon and Garfunkel",
-        "naslov": "The Boxer"
+        "naslov": "The Boxer",
+        "producent": "Roy Halee, Simon, Art Garfunkel",
+        "leto": "69",
+        "zalozba": " Columbia <br />10 weeks; No. 7"
     },
     {
         "mesto": 105,
         "avtor": "Stevie Wonder",
-        "naslov": "Living for the City"
+        "naslov": "Living for the City",
+        "producent": "Wonder",
+        "leto": "73",
+        "zalozba": " Tamla <br />17 weeks; No. 8"
     },
     {
         "mesto": 104,
         "avtor": "Donna Summer",
-        "naslov": "Hot Stuff"
+        "naslov": "Hot Stuff",
+        "producent": "Giorgio Moroder, Bellotte",
+        "leto": "79",
+        "zalozba": " Casablanca<br />21 weeks; No. 1"
     },
     {
         "mesto": 103,
         "avtor": "Gene Vincent and His Blue Caps",
-        "naslov": "Be-Bop-A-Lula"
+        "naslov": "Be-Bop-A-Lula",
+        "producent": "Ken Nelson",
+        "leto": "56",
+        "zalozba": " Capitol <br />20 weeks; No. 7"
     },
     {
         "mesto": 102,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "Voodoo Child (Slight Return)"
+        "naslov": "Voodoo Child (Slight Return)",
+        "producent": "Chas Chandler",
+        "leto": "68",
+        "zalozba": " Reprise<br />Non-single"
     },
     {
         "mesto": 101,
         "avtor": "The Rolling Stones",
-        "naslov": "You Can't Always Get What You Want"
+        "naslov": "You Can't Always Get What You Want",
+        "producent": "Jimmy Miller",
+        "leto": "69",
+        "zalozba": " London<br />8 weeks; No. 42"
     },
     {
         "mesto": 100,
         "avtor": "Gnarls Barkley",
-        "naslov": "Crazy"
+        "naslov": "Crazy",
+        "producent": "Danger Mouse",
+        "leto": "06",
+        "zalozba": " Downtown <br />24 weeks; No. 2"
     },
     {
         "mesto": 99,
         "avtor": "Creedence Clearwater Revival",
-        "naslov": "Fortunate Son"
+        "naslov": "Fortunate Son",
+        "producent": "Fogerty",
+        "leto": "69",
+        "zalozba": " Fantasy<br />14 weeks; No. 14"
     },
     {
         "mesto": 98,
         "avtor": "Al Green",
-        "naslov": "Love and Happiness"
+        "naslov": "Love and Happiness",
+        "producent": "Willie Mitchell",
+        "leto": "72",
+        "zalozba": " Hi<br />12 weeks; No. 3"
     },
     {
         "mesto": 97,
         "avtor": "Chuck Berry",
-        "naslov": "Roll Over Beethoven"
+        "naslov": "Roll Over Beethoven",
+        "producent": "Leonard and Phil Chess",
+        "leto": "56",
+        "zalozba": " Chess<br />5 weeks; No. 29"
     },
     {
         "mesto": 96,
         "avtor": "Jerry Lee Lewis",
-        "naslov": "Great Balls of Fire"
+        "naslov": "Great Balls of Fire",
+        "producent": "Sam Phillips",
+        "leto": "57",
+        "zalozba": " Sun<br />21 weeks; No. 2"
     },
     {
         "mesto": 95,
         "avtor": "Carl Perkins",
-        "naslov": "Blue Suede Shoes"
+        "naslov": "Blue Suede Shoes",
+        "producent": "Sam Phillips",
+        "leto": "56",
+        "zalozba": " Sun <br />21 weeks; No. 2"
     },
     {
         "mesto": 94,
         "avtor": "Little Richard",
-        "naslov": "Good Golly, Miss Molly"
+        "naslov": "Good Golly, Miss Molly",
+        "producent": "Blackwell",
+        "leto": "58",
+        "zalozba": " Specialty <br />15 weeks; No. 10"
     },
     {
         "mesto": 93,
         "avtor": "U2",
-        "naslov": "I Still Haven't Found What I'm Looking For"
+        "naslov": "I Still Haven't Found What I'm Looking For",
+        "producent": "Daniel Lanois, Brian Eno",
+        "leto": "87",
+        "zalozba": " Island <br />17 weeks; No. 1"
     },
     {
         "mesto": 92,
         "avtor": "Ramones",
-        "naslov": "Blitzkrieg Bop"
+        "naslov": "Blitzkrieg Bop",
+        "producent": "Craig Leon",
+        "leto": "76",
+        "zalozba": " Sire<br />Did not chart"
     },
     {
         "mesto": 91,
         "avtor": "Elvis Presley",
-        "naslov": "Suspicious Minds"
+        "naslov": "Suspicious Minds",
+        "producent": "Chips Moman, Felton Jarvis, Presley",
+        "leto": "69",
+        "zalozba": " RCA<br />15 weeks; No. 1"
     },
     {
         "mesto": 90,
         "avtor": "The Five Satins",
-        "naslov": "In the Still of the Night"
+        "naslov": "In the Still of the Night",
+        "producent": "The Five Satins",
+        "leto": "56",
+        "zalozba": " Standord <br />19 weeks; No. 24"
     },
     {
         "mesto": 89,
         "avtor": "The Mamas and the Papas",
-        "naslov": "California Dreamin'"
+        "naslov": "California Dreamin'",
+        "producent": "Lou Adler",
+        "leto": "65",
+        "zalozba": " Dunhill <br />17 weeks; No. 4"
     },
     {
         "mesto": 88,
         "avtor": "The Temptations",
-        "naslov": "My Girl"
+        "naslov": "My Girl",
+        "producent": "Robinson, White",
+        "leto": "65",
+        "zalozba": " Gordy <br />13 weeks; No. 1"
     },
     {
         "mesto": 87,
         "avtor": "Johnny Cash",
-        "naslov": "Ring of Fire"
+        "naslov": "Ring of Fire",
+        "producent": "Don Law",
+        "leto": "63",
+        "zalozba": " Columbia <br />13 weeks; No. 17"
     },
     {
         "mesto": 86,
         "avtor": "Bruce Springsteen",
-        "naslov": "Thunder Road"
+        "naslov": "Thunder Road",
+        "producent": "Springsteen, Jon Landau, Mike Appel",
+        "leto": "75",
+        "zalozba": " Columbia <br />Non-single"
     },
     {
         "mesto": 85,
         "avtor": "Patsy Cline",
-        "naslov": "Crazy"
+        "naslov": "Crazy",
+        "producent": "Owen Bradley",
+        "leto": "61",
+        "zalozba": " Decca<br />11 weeks; No. 9"
     },
     {
         "mesto": 84,
         "avtor": "The Police",
-        "naslov": "Every Breath You Take"
+        "naslov": "Every Breath You Take",
+        "producent": "Hugh Padgham",
+        "leto": "83",
+        "zalozba": " A&M<br />22 weeks; No 1"
     },
     {
         "mesto": 83,
         "avtor": "The Beatles",
-        "naslov": "Norwegian Wood (This Bird Has Flown)"
+        "naslov": "Norwegian Wood (This Bird Has Flown)",
+        "producent": "George Martin",
+        "leto": "65",
+        "zalozba": " Capitol&#xA0;<br />Non-single"
     },
     {
         "mesto": 82,
         "avtor": "Fats Domino",
-        "naslov": "Blueberry Hill"
+        "naslov": "Blueberry Hill",
+        "producent": "Dave Bartholomew",
+        "leto": "56",
+        "zalozba": " Imperial&#xA0;<br />27 weeks; No. 2"
     },
     {
         "mesto": 81,
         "avtor": "Marvin Gaye",
-        "naslov": "I Heard It Through the Grapevine"
+        "naslov": "I Heard It Through the Grapevine",
+        "producent": "Whitfield",
+        "leto": "68",
+        "zalozba": " Tamla&#xA0;<br />15 weeks; No. 1"
     },
     {
         "mesto": 80,
         "avtor": "The Kinks",
-        "naslov": "You Really Got Me"
+        "naslov": "You Really Got Me",
+        "producent": "Shel Talmy",
+        "leto": "64",
+        "zalozba": " Reprise&#xA0;<br />15 weeks; No. 7"
     },
     {
         "mesto": 79,
         "avtor": "The Byrds",
-        "naslov": "Mr. Tambourine Man"
+        "naslov": "Mr. Tambourine Man",
+        "producent": "Terry Melcher",
+        "leto": "65",
+        "zalozba": " Columbia <br />13 weeks; No. 1"
     },
     {
         "mesto": 78,
         "avtor": "James Brown",
-        "naslov": "I Got You (I Feel Good)"
+        "naslov": "I Got You (I Feel Good)",
+        "producent": "Brown",
+        "leto": "65",
+        "zalozba": " King <br />12 weeks; No. 3"
     },
     {
         "mesto": 77,
         "avtor": "Elvis Presley",
-        "naslov": "Mystery Train"
+        "naslov": "Mystery Train",
+        "producent": "Phillips",
+        "leto": "55",
+        "zalozba": " Sun<br />Did not chart"
     },
     {
         "mesto": 76,
         "avtor": "The Beatles",
-        "naslov": "Strawberry Fields Forever"
+        "naslov": "Strawberry Fields Forever",
+        "producent": "George Martin",
+        "leto": "67",
+        "zalozba": " Capitol<br />9 weeks; No. 8"
     },
     {
         "mesto": 75,
         "avtor": "Led Zeppelin",
-        "naslov": "Whole Lotta Love"
+        "naslov": "Whole Lotta Love",
+        "producent": "Jimmy Page",
+        "leto": "69",
+        "zalozba": " Atlantic <br />15 weeks; No. 4"
     },
     {
         "mesto": 74,
         "avtor": "Eddie Cochran",
-        "naslov": "Summertime Blues"
+        "naslov": "Summertime Blues",
+        "producent": "Capehart",
+        "leto": "58",
+        "zalozba": " Liberty <br />16 weeks; No. 8"
     },
     {
         "mesto": 73,
         "avtor": "Stevie Wonder",
-        "naslov": "Superstition"
+        "naslov": "Superstition",
+        "producent": "Wonder, Malcolm Cecil, Robert Margouleff",
+        "leto": "72",
+        "zalozba": " Tamla<br />16 weeks; No. 1"
     },
     {
         "mesto": 72,
         "avtor": "The Beach Boys",
-        "naslov": "California Girls"
+        "naslov": "California Girls",
+        "producent": "Wilson",
+        "leto": "65",
+        "zalozba": " Capitol<br />11 weeks; No. 3"
     },
     {
         "mesto": 71,
         "avtor": "James Brown",
-        "naslov": "Papa's Got A Brand New Bag"
+        "naslov": "Papa's Got A Brand New Bag",
+        "producent": "Brown",
+        "leto": "66",
+        "zalozba": " King"
     },
     {
         "mesto": 70,
         "avtor": "Dionne Warwick",
-        "naslov": "Walk On By"
+        "naslov": "Walk On By",
+        "producent": "Bacharach, David",
+        "leto": "64",
+        "zalozba": " Scepter <br />13 weeks, No. 6"
     },
     {
         "mesto": 69,
         "avtor": "Roy Orbison",
-        "naslov": "Crying"
+        "naslov": "Crying",
+        "producent": "Fred Foster",
+        "leto": "61",
+        "zalozba": " Monument<br />16 weeks; No. 2"
     },
     {
         "mesto": 68,
         "avtor": "Bob Dylan",
-        "naslov": "Tangled Up in Blue"
+        "naslov": "Tangled Up in Blue",
+        "producent": "Dylan",
+        "leto": "75",
+        "zalozba": " Columbia <br />7 weeks, No. 31"
     },
     {
         "mesto": 67,
         "avtor": "Elvis Presley",
-        "naslov": "Jailhouse Rock"
+        "naslov": "Jailhouse Rock",
+        "producent": "Steve Sholes",
+        "leto": "57",
+        "zalozba": " RCA&#xA0;<br />27 weeks, No. 1"
     },
     {
         "mesto": 66,
         "avtor": "Bob Marley and the Wailers",
-        "naslov": "Redemption Song"
+        "naslov": "Redemption Song",
+        "producent": "Chris Blackwell",
+        "leto": "80",
+        "zalozba": " Island <br />Did not chart"
     },
     {
         "mesto": 65,
         "avtor": "Cream",
-        "naslov": "Sunshine of Your Love"
+        "naslov": "Sunshine of Your Love",
+        "producent": "Felix Pappalardi",
+        "leto": "68",
+        "zalozba": " Atco<br /> 26 weeks; No. 5&#xA0;"
     },
     {
         "mesto": 64,
         "avtor": "The Beatles",
-        "naslov": "She Loves You"
+        "naslov": "She Loves You",
+        "producent": "George Martin",
+        "leto": "63",
+        "zalozba": " Swan&#xA0;<br /> 15 weeks; No. 1"
     },
     {
         "mesto": 63,
         "avtor": "Buffalo Springfield",
-        "naslov": "For What It's Worth"
+        "naslov": "For What It's Worth",
+        "producent": "Charles Greene, Brian Stone",
+        "leto": "67",
+        "zalozba": " Atco <br />15 weeks, No. 7"
     },
     {
         "mesto": 62,
         "avtor": "Bo Diddley",
-        "naslov": "Bo Diddley"
+        "naslov": "Bo Diddley",
+        "producent": "Phil and Leonard Chess",
+        "leto": "55",
+        "zalozba": " Checker&#xA0;<br />Did not chart"
     },
     {
         "mesto": 61,
         "avtor": "Jerry Lee Lewis",
-        "naslov": "Whole Lotta Shakin' Going On"
+        "naslov": "Whole Lotta Shakin' Going On",
+        "producent": "Jack Clement",
+        "leto": "57",
+        "zalozba": " Sun<br />29 weeks; No. 3"
     },
     {
         "mesto": 60,
         "avtor": "Al Green",
-        "naslov": "Let's Stay Together"
+        "naslov": "Let's Stay Together",
+        "producent": "Mitchell",
+        "leto": "71",
+        "zalozba": " Hi <br />16 weeks; No. 1"
     },
     {
         "mesto": 59,
         "avtor": "Bob Dylan",
-        "naslov": "The Times They Are A-Changin"
+        "naslov": "The Times They Are A-Changin",
+        "producent": "Bob Johnston",
+        "leto": "64",
+        "zalozba": " Columbia<br /> Did not chart&#xA0;"
     },
     {
         "mesto": 58,
         "avtor": "Michael Jackson",
-        "naslov": "Billie Jean"
+        "naslov": "Billie Jean",
+        "producent": "Jackson, Quincy Jones",
+        "leto": "83",
+        "zalozba": " Epic <br /> 7 weeks; No. 1"
     },
     {
         "mesto": 57,
         "avtor": "Procol Harum",
-        "naslov": "Whiter Shade of Pale"
+        "naslov": "Whiter Shade of Pale",
+        "producent": "Denny Cordell",
+        "leto": "67",
+        "zalozba": " A&M<br /> 12 weeks; No. 5"
     },
     {
         "mesto": 56,
         "avtor": "The Sex Pistols",
-        "naslov": "Anarchy in the U.K."
+        "naslov": "Anarchy in the U.K.",
+        "producent": "Chris Thomas, Bill Price",
+        "leto": "77",
+        "zalozba": " Warner Bros.<br />Non-single"
     },
     {
         "mesto": 55,
         "avtor": "Little Richard",
-        "naslov": "Long Tall Sally"
+        "naslov": "Long Tall Sally",
+        "producent": "Blackwell",
+        "leto": "56",
+        "zalozba": " Specialty<br />19 weeks; No. 6&#xA0;"
     },
     {
         "mesto": 54,
         "avtor": "The Kingsmen",
-        "naslov": "Louie Louie"
+        "naslov": "Louie Louie",
+        "producent": "Ken Chase",
+        "leto": "63",
+        "zalozba": " Jerden <br />16 weeks; No. 2&#xA0;"
     },
     {
         "mesto": 53,
         "avtor": "Percy Sledge",
-        "naslov": "When a Man Loves a Woman"
+        "naslov": "When a Man Loves a Woman",
+        "producent": "Marlin Greene, Quin Ivy",
+        "leto": "66",
+        "zalozba": " Atlantic <br />13 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 52,
         "avtor": "Prince",
-        "naslov": "When Doves Cry"
+        "naslov": "When Doves Cry",
+        "producent": "Prince",
+        "leto": "84",
+        "zalozba": " Warner Bros. <br />21 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 51,
         "avtor": "Grandmaster Flash and the Furious Five",
-        "naslov": "The Message"
+        "naslov": "The Message",
+        "producent": "Sylvia Robinson",
+        "leto": "82",
+        "zalozba": " Sugar Hill<br />7 weeks; No. 62&#xA0;"
     },
     {
         "mesto": 50,
         "avtor": "Smokey Robinson and the Miracles",
-        "naslov": "The Tracks of My Tears"
+        "naslov": "The Tracks of My Tears",
+        "producent": "Robinson",
+        "leto": "65",
+        "zalozba": " Tamla<br />12 weeks; No. 16&#xA0;"
     },
     {
         "mesto": 49,
         "avtor": "The Eagles",
-        "naslov": "Hotel California"
+        "naslov": "Hotel California",
+        "producent": "Bill Szymczyk",
+        "leto": "76",
+        "zalozba": " Asylum<br />19 weeks; No. 1"
     },
     {
         "mesto": 48,
         "avtor": "Simon and Garfunkel",
-        "naslov": "Bridge Over Troubled Water"
+        "naslov": "Bridge Over Troubled Water",
+        "producent": "Art Garfunkel, Roy Halee, Simon",
+        "leto": "70",
+        "zalozba": " Columbia<br />14 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 47,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "All Along the Watchtower"
+        "naslov": "All Along the Watchtower",
+        "producent": "Hendrix",
+        "leto": "68",
+        "zalozba": " Reprise<br />9 weeks; No. 20&#xA0;"
     },
     {
         "mesto": 46,
         "avtor": "David Bowie",
-        "naslov": "Heroes"
+        "naslov": "Heroes",
+        "producent": "Tony Visconti",
+        "leto": "77",
+        "zalozba": " RCA<br />Did not chart"
     },
     {
         "mesto": 45,
         "avtor": "Elvis Presley",
-        "naslov": "Heartbreak Hotel"
+        "naslov": "Heartbreak Hotel",
+        "producent": "Steve Sholes",
+        "leto": "56",
+        "zalozba": " RCA<br />27 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 44,
         "avtor": "Ray Charles",
-        "naslov": "Georgia on My Mind"
+        "naslov": "Georgia on My Mind",
+        "producent": "Sid Feller",
+        "leto": "60",
+        "zalozba": " ABC-Paramount<br />13 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 43,
         "avtor": "Little Richard",
-        "naslov": "Tutti-Frutti"
+        "naslov": "Tutti-Frutti",
+        "producent": "Robert \"Bumps\" Blackwell",
+        "leto": "55",
+        "zalozba": " Specialty<br />12 weeks; No. 17"
     },
     {
         "mesto": 42,
         "avtor": "The Kinks",
-        "naslov": "Waterloo Sunset"
+        "naslov": "Waterloo Sunset",
+        "producent": "Ray Davies",
+        "leto": "68",
+        "zalozba": " Reprise<br />Did not chart"
     },
     {
         "mesto": 41,
         "avtor": "The Band",
-        "naslov": "The Weight"
+        "naslov": "The Weight",
+        "producent": "John Simon",
+        "leto": "68",
+        "zalozba": " Capitol<br />7 weeks; No. 63"
     },
     {
         "mesto": 40,
         "avtor": "Martha Reeves and the Vandellas",
-        "naslov": "Dancing in the Street"
+        "naslov": "Dancing in the Street",
+        "producent": "Stevenson",
+        "leto": "64",
+        "zalozba": "<br />14 weeks; No. 2"
     },
     {
         "mesto": 39,
         "avtor": "Buddy Holly and the Crickets",
-        "naslov": "That'll Be the Day"
+        "naslov": "That'll Be the Day",
+        "producent": "Petty",
+        "leto": "57",
+        "zalozba": " Brunswick<br />1 week; No. 1"
     },
     {
         "mesto": 38,
         "avtor": "The Rolling Stones",
-        "naslov": "Gimme Shelter"
+        "naslov": "Gimme Shelter",
+        "producent": "Jimmy Miller",
+        "leto": "69",
+        "zalozba": " London<br />11 weeks; No. 21&#xA0;"
     },
     {
         "mesto": 37,
         "avtor": "Bob Marley",
-        "naslov": "No Woman, No Cry"
+        "naslov": "No Woman, No Cry",
+        "producent": "Chris Blackwell, Marley and the Wailers",
+        "leto": "75",
+        "zalozba": " Island<br />Did not chart"
     },
     {
         "mesto": 36,
         "avtor": "U2",
-        "naslov": "One"
+        "naslov": "One",
+        "producent": "Brian Eno, Daniel Lanois",
+        "leto": "91",
+        "zalozba": " Island<br />20 weeks; No. 10&#xA0;"
     },
     {
         "mesto": 35,
         "avtor": "The Doors",
-        "naslov": "Light My Fire"
+        "naslov": "Light My Fire",
+        "producent": "Paul Rothchild",
+        "leto": "67",
+        "zalozba": " Elektra <br />17 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 34,
         "avtor": "The Righteous Brothers",
-        "naslov": "You've Lost That Lovin' Feelin'"
+        "naslov": "You've Lost That Lovin' Feelin'",
+        "producent": "Spector",
+        "leto": "64",
+        "zalozba": " Philles <br />16 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 33,
         "avtor": "Ike and Tina Turner",
-        "naslov": "River Deep - Mountain High"
+        "naslov": "River Deep - Mountain High",
+        "producent": "Spector",
+        "leto": "66",
+        "zalozba": " Philles<br />4 weeks; No. 88&#xA0;"
     },
     {
         "mesto": 32,
         "avtor": "The Rolling Stones",
-        "naslov": "Sympathy for the Devil"
+        "naslov": "Sympathy for the Devil",
+        "producent": "Jimmy Miller",
+        "leto": "68",
+        "zalozba": " London <br />Non-single"
     },
     {
         "mesto": 31,
         "avtor": "Led Zeppelin",
-        "naslov": "Stairway to Heaven"
+        "naslov": "Stairway to Heaven",
+        "producent": "Page",
+        "leto": "71",
+        "zalozba": " Atlantic<br />Non-single"
     },
     {
         "mesto": 30,
         "avtor": "Johnny Cash",
-        "naslov": "I Walk the Line"
+        "naslov": "I Walk the Line",
+        "producent": "Sam Phillips",
+        "leto": "56",
+        "zalozba": " Sun<br />22 weeks; No. 17&#xA0;"
     },
     {
         "mesto": 29,
         "avtor": "The Beatles",
-        "naslov": "Help!"
+        "naslov": "Help!",
+        "producent": "George Martin",
+        "leto": "65",
+        "zalozba": " Capitol<br />13 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 28,
         "avtor": "The Beatles",
-        "naslov": "A Day in the Life"
+        "naslov": "A Day in the Life",
+        "producent": "George Martin",
+        "leto": "67",
+        "zalozba": " Capitol<br />Non-single&#xA0;"
     },
     {
         "mesto": 27,
         "avtor": "Derek and the Dominos",
-        "naslov": "Layla"
+        "naslov": "Layla",
+        "producent": "Tom Dowd, the Dominos",
+        "leto": "70",
+        "zalozba": " Atco<br />15 weeks; No. 10&#xA0;"
     },
     {
         "mesto": 26,
         "avtor": "Otis Redding",
-        "naslov": "(Sittin' on) the Dock of the Bay"
+        "naslov": "(Sittin' on) the Dock of the Bay",
+        "producent": "Cropper",
+        "leto": "68",
+        "zalozba": " Volt<br />16 weeks; No. 1"
     },
     {
         "mesto": 25,
         "avtor": "The Beach Boys",
-        "naslov": "God Only Knows"
+        "naslov": "God Only Knows",
+        "producent": "Wilson",
+        "leto": "66",
+        "zalozba": " Capitol<br />8 weeks; No. 39&#xA0;"
     },
     {
         "mesto": 24,
         "avtor": "The Impressions",
-        "naslov": "People Get Ready"
+        "naslov": "People Get Ready",
+        "producent": "Johnny Pate",
+        "leto": "65",
+        "zalozba": " ABC-Paramount<br />8 weeks; No. 14&#xA0;"
     },
     {
         "mesto": 23,
         "avtor": "The Beatles",
-        "naslov": "In My Life"
+        "naslov": "In My Life",
+        "producent": "George Martin",
+        "leto": "65",
+        "zalozba": " Capitol<br />Non-single&#xA0;"
     },
     {
         "mesto": 22,
         "avtor": "The Ronettes",
-        "naslov": "Be My Baby"
+        "naslov": "Be My Baby",
+        "producent": "Spector",
+        "leto": "63",
+        "zalozba": "&#xA0;<br />13 weeks; No. 2&#xA0;"
     },
     {
         "mesto": 21,
         "avtor": "Bruce Springsteen",
-        "naslov": "Born to Run"
+        "naslov": "Born to Run",
+        "producent": "Springsteen, Mike Appel",
+        "leto": "75",
+        "zalozba": " Columbia <br />11 weeks; No. 23"
     },
     {
         "mesto": 20,
         "avtor": "The Beatles",
-        "naslov": "Let It Be"
+        "naslov": "Let It Be",
+        "producent": "George Martin",
+        "leto": "70",
+        "zalozba": " Apple <br />14 weeks; No. 1"
     },
     {
         "mesto": 19,
         "avtor": "Elvis Presley",
-        "naslov": "Hound Dog"
+        "naslov": "Hound Dog",
+        "producent": "Steve Sholes",
+        "leto": "56",
+        "zalozba": " RCA <br />28 weeks; No. 1"
     },
     {
         "mesto": 18,
         "avtor": "Chuck Berry",
-        "naslov": "Maybellene"
+        "naslov": "Maybellene",
+        "producent": "Leonard and Phil Chess",
+        "leto": "55",
+        "zalozba": " Chess <br />11 weeks; No. 5"
     },
     {
         "mesto": 17,
         "avtor": "The Jimi Hendrix Experience",
-        "naslov": "Purple Haze"
+        "naslov": "Purple Haze",
+        "producent": "Chas Chandler",
+        "leto": "67",
+        "zalozba": " Reprise <br />8 weeks; No. 65"
     },
     {
         "mesto": 16,
         "avtor": "The Beatles",
-        "naslov": "I Want to Hold Your Hand"
+        "naslov": "I Want to Hold Your Hand",
+        "producent": "George Martin",
+        "leto": "63",
+        "zalozba": " Capitol <br />15 weeks; no. 1"
     },
     {
         "mesto": 15,
         "avtor": "The Clash",
-        "naslov": "London Calling"
+        "naslov": "London Calling",
+        "producent": "Guy Stevens",
+        "leto": "80",
+        "zalozba": " Epic <br />Did not chart"
     },
     {
         "mesto": 14,
         "avtor": "Bob Dylan",
-        "naslov": "Blowin' in the Wind"
+        "naslov": "Blowin' in the Wind",
+        "producent": "John Hammond",
+        "leto": "63",
+        "zalozba": " Columbia <br />Did not chart"
     },
     {
         "mesto": 13,
         "avtor": "The Beatles",
-        "naslov": "Yesterday"
+        "naslov": "Yesterday",
+        "producent": "George Martin",
+        "leto": "65",
+        "zalozba": " Capitol <br />11 weeks; No. 1"
     },
     {
         "mesto": 12,
         "avtor": "Sam Cooke",
-        "naslov": "A Change Is Gonna Come"
+        "naslov": "A Change Is Gonna Come",
+        "producent": "Hugo Peretti, Luigi Creatore",
+        "leto": "64",
+        "zalozba": " RCA <br />7 weeks; No. 31"
     },
     {
         "mesto": 11,
         "avtor": "The Who",
-        "naslov": "My Generation"
+        "naslov": "My Generation",
+        "producent": "Shel Talmy",
+        "leto": "65",
+        "zalozba": " Decca<br />5 weeks; No. 74"
     },
     {
         "mesto": 10,
         "avtor": "Ray Charles",
-        "naslov": "What'd I Say"
+        "naslov": "What'd I Say",
+        "producent": "Ahmet Ertegun, Jerry Wexler",
+        "leto": "59",
+        "zalozba": " Atlantic <br />15 weeks; No. 6"
     },
     {
         "mesto": 9,
         "avtor": "Nirvana",
-        "naslov": "Smells Like Teen Spirit"
+        "naslov": "Smells Like Teen Spirit",
+        "producent": "Butch Vig",
+        "leto": "91",
+        "zalozba": " DGC <br />20 weeks; No. 6"
     },
     {
         "mesto": 8,
         "avtor": "The Beatles",
-        "naslov": "Hey Jude"
+        "naslov": "Hey Jude",
+        "producent": "George Martin",
+        "leto": "68",
+        "zalozba": " Apple <br />19 weeks; No. 1"
     },
     {
         "mesto": 7,
         "avtor": "Chuck Berry",
-        "naslov": "Johnny B. Goode"
+        "naslov": "Johnny B. Goode",
+        "producent": "Leonard and Phil Chess",
+        "leto": "58",
+        "zalozba": " Chess<br />15 weeks; No. 8"
     },
     {
         "mesto": 6,
         "avtor": "The Beach Boys",
-        "naslov": "Good Vibrations"
+        "naslov": "Good Vibrations",
+        "producent": "Wilson",
+        "leto": "66",
+        "zalozba": " Capitol <br />14 weeks; No. 1"
     },
     {
         "mesto": 5,
         "avtor": "Aretha Franklin",
-        "naslov": "Respect"
+        "naslov": "Respect",
+        "producent": "Jerry Wexler",
+        "leto": "67",
+        "zalozba": " Atlantic <br />12 weeks; No. 1"
     },
     {
         "mesto": 4,
         "avtor": "Marvin Gaye",
-        "naslov": "What's Going On"
+        "naslov": "What's Going On",
+        "producent": "Gaye",
+        "leto": "71",
+        "zalozba": " Tamla <br />13 weeks; No. 2"
     },
     {
         "mesto": 3,
         "avtor": "John Lennon",
-        "naslov": "Imagine"
+        "naslov": "Imagine",
+        "producent": "Lennon, Phil Spector, Yoko Ono",
+        "leto": "71",
+        "zalozba": " Apple <br />9 weeks; No. 3"
     },
     {
         "mesto": 2,
         "avtor": "The Rolling Stones",
-        "naslov": "(I Can't Get No) Satisfaction"
+        "naslov": "(I Can't Get No) Satisfaction",
+        "producent": "Andrew Loog Oldham",
+        "leto": "65",
+        "zalozba": " London<br />14 weeks; No. 1&#xA0;"
     },
     {
         "mesto": 1,
         "avtor": "Bob Dylan",
-        "naslov": "Like a Rolling Stone"
+        "naslov": "Like a Rolling Stone",
+        "producent": "Tom Wilson",
+        "leto": "65",
+        "zalozba": " Columbia<br />12 weeks; No. 2"
     }
 ]

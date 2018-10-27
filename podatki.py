@@ -57,8 +57,9 @@ def zapisi_json(objekt, ime_datoteke):
 
 vzorec = re.compile(
     r'data-list-item="(?P<mesto>\d+)".*?'
-    r'data-list-title="(?P<avtor>.*?), (I)?&(#8216;)?(#8217;)?(?P<naslov>.*?)(&#8217;)?".*?data-list-permalink="https://www.rollingstone..*?',
-    #r'<p><strong>Writer(s)?: </strong>(?P<album>\w+?)<br /> <strong>Produ.*?',
+    r'data-list-title="(?P<avtor>.*?), (I)?&(#8216;)?(#8217;)?(?P<naslov>.*?)(&#8217;)?".*?data-list-permalink="https://www.rollingstone..*?'
+    r'Producer(s)?(:)?(&#xA0;)?(</strong>)?( </strong>)?(:)?(?P<producent>.*?)(<.*?)?( )?Released:.*?'
+    r'(&apos;)?(&#8217;)?(&#x2019;)?(?P<leto>\d{2,4})(,)?(?P<zalozba>.*?)</p>.*?',
     
 
     
@@ -83,6 +84,14 @@ def izloci_podatke_skladbe(ujemanje_skladbe):
     podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8216;',"'")
     podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8221;',"'")
     podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8211;',"-")
+    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&amp;',"&")
+    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&#xA0;',"").strip()
+    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&quot;','"')
+    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&#xE9;','é')
+    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&apos;',"'")
+    podatki_skladbe['zalozba'] = podatki_skladbe['zalozba'].replace('&amp;',"&")
+
+
     #podatki_skladbe['leto'] = int(podatki_skladbe['leto'])
     #podatki_skladbe['opis'] = podatki_skladbe['opis'].strip()
     #podatki_skladbe['dolzina'] = int(podatki_skladbe['dolzina'])
@@ -104,9 +113,10 @@ for i in range(1, 11):
     vsebina = vsebina_datoteke(
         'zajeti-podatki/top-skladbe-{}.html'.format(i))
     for ujemanje_skladbe in vzorec.finditer(vsebina):
+        #print(podatki_skladb)
         podatki_skladb.append(izloci_podatke_skladbe(ujemanje_skladbe))
 zapisi_json(podatki_skladb, 'obdelani-podatki/vse-skladbe.json')
-zapisi_csv(podatki_skladb, ["mesto","avtor","naslov"], 'obdelani-podatki/vse-skladbe.csv')
+zapisi_csv(podatki_skladb, ["mesto","avtor","naslov","producent","leto","zalozba"], 'obdelani-podatki/vse-skladbe.csv')
 
 print(len(podatki_skladb))
 
