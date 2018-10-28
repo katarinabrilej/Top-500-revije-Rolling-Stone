@@ -59,8 +59,9 @@ vzorec = re.compile(
     r'data-list-item="(?P<mesto>\d+)".*?'
     r'data-list-title="(?P<avtor>.*?), (I)?&(#8216;)?(#8217;)?(?P<naslov>.*?)(&#8217;)?".*?data-list-permalink="https://www.rollingstone..*?'
     r'Producer(s)?(:)?(&#xA0;)?(</strong>)?( </strong>)?(:)?(?P<producent>.*?)(<.*?)?( )?Released:.*?'
-    r'(&apos;)?(&#8217;)?(&#x2019;)?(?P<leto>\d{2,4})(,)?(?P<zalozba>.*?)</p>.*?',
-    
+    r'(&apos;)?(&#8217;)?(&#x2019;)?(?P<leto>\d{2,4})(,)?(?P<zalozba>.*?)</p>.*?'
+    #<br />.*?(?P<tedni>\d{1,2}).*?
+    r'Appears on:.*?<em>(<a  href=)?.*?>(?P<album>.*?)(</a>)?</em>.*?',
 
     
 
@@ -90,6 +91,7 @@ def izloci_podatke_skladbe(ujemanje_skladbe):
     podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&#xE9;','é')
     podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&apos;',"'")
     podatki_skladbe['zalozba'] = podatki_skladbe['zalozba'].replace('&amp;',"&")
+    podatki_skladbe['zalozba'] = podatki_skladbe['zalozba'].replace('&#xA0;',"").strip()
 
 
     #podatki_skladbe['leto'] = int(podatki_skladbe['leto'])
@@ -116,7 +118,7 @@ for i in range(1, 11):
         #print(podatki_skladb)
         podatki_skladb.append(izloci_podatke_skladbe(ujemanje_skladbe))
 zapisi_json(podatki_skladb, 'obdelani-podatki/vse-skladbe.json')
-zapisi_csv(podatki_skladb, ["mesto","avtor","naslov","producent","leto","zalozba"], 'obdelani-podatki/vse-skladbe.csv')
+zapisi_csv(podatki_skladb, ["mesto","avtor","naslov","producent","leto","zalozba","album"], 'obdelani-podatki/vse-skladbe.csv')
 
 print(len(podatki_skladb))
 
