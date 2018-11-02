@@ -2,7 +2,7 @@
 
 Podatke o 500 najboljših pesmih vseh časov  sem uvozila in jih shranila v tri csv datoteke. 
 
-skladbe.csv je glavna datoteka v kateri so vsi podatki:
+skladbe.csv je glavna datoteka v kateri so vsi podatki, vsebuje naslednje stolpce:
 * id  ~  mesto skladbe na strani
 * izvajalec ~ izvajalec skladbe
 * naslov ~  naslov skladbe
