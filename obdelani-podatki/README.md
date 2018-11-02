@@ -1,6 +1,6 @@
 # Obdelava podatkov
 
-Podatke o 500 najboljših pesmih vseh časov  sem uvozila in jih shranile v tri csv datoteke. 
+Podatke o 500 najboljših pesmih vseh časov  sem uvozila in jih shranila v tri csv datoteke. 
 
 skladbe.csv je glavna datoteka v kateri so vsi podatki:
 * id  ~  mesto skladbe na strani
