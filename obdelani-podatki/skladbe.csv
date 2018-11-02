@@ -1,0 +1,501 @@
+id,izvajalec,naslov,avtor,producent,leto,zalozba,tedni,mesto,album
+500,Smokey Robinson and the Miracles,Shop Around,"['Berry Gordy', 'Robinson']",['Gordy'],1960,Tamla ,16,2,The Ultimate Collection
+499,Weezer,Buddy Holly,['Rivers Cuomo'],['Ric Ocasek'],1994,DGC ,21,18,Weezer
+498,The Rolling Stones,Miss You,"['Mick Jagger', 'Keith Richards']",['The Glimmer Twins'],1978,Rolling Stones ,20,1,Some Girls
+497,Bruce Springsteen,The Rising,['Springsteen'],"[""Brendan O'Brien""]",2002,Columbia ,11,52,The Rising
+496,Jackson Browne,Running on Empty,['Browne'],['Browne'],1977,Asylum ,17,11,Running on Empty
+495,The Rolling Stones,Brown Sugar,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1971,Rolling Stones ,12,1,Sticky Fingers
+494,R. Kelly,Ignition (Remix),['Kelly'],['Kelly'],2002,Jive ,42,2,Chocolate Factory
+493,MGMT,Time to Pretend,"['Ben Goldwasser', 'Andrew VanWyngarden']",['Dave Fridmann'],2008,Columbia ,Did Not Chart,Did Not Chart,Oracular Spectacular
+492,Gloria Gaynor,I Will Survive,"['Dino Fekaris', 'Freddie Perren']","['Fekaris', 'Perren']",1978,Polydor ,27,1,I Will Survive: The Anthology
+491,Joan Jett and the Blackhearts,I Love Rock 'N Roll,"['Jake Hooker', 'Alan Merrill']","['Ritchie Cordell', 'Kenny Laguna']",1982,Boardwalk ,20,1,I Love Rock 'N Roll
+490,Coldplay,Clocks,['Coldplay'],"['Ken Nelson', 'Mark Phythian']",2002,Capitol ,22,29,A Rush of Blood to the Head
+489,The Drifters,Under the Boardwalk,"['Arthur Resnick', 'Kenny Young']",['Bert Berns'],1964,Atlantic ,33,4,The Very Best of the Drifters
+488,The Cure,Just Like Heaven,"['Robert Smith', 'Simon Gallup', 'Porl Thompson', 'Lol Tolhurst', 'Boris Williams']","['David Allen', 'Smith']",1987,Elektra   ,19,40,"Kiss Me, Kiss Me, Kiss Me"
+487,Alice Cooper,I'm Eighteen,"['Michael Bruce', 'Glen Buxton', 'Cooper', 'Dennis Dunway', 'Neal Smith']","['Bob Erzin', 'Jack Richardson']",1971,Warner Bros. ,13,21,Love It to Death
+486,David Bowie,Young Americans,['Bowie'],['Tony Visconti'],1975,RCA ,11,28,Young Americans
+485,LaBelle,Lady Marmalade,"['Bob Crewe', 'Kenny Nolan']",['Allen Toussaint'],1975,Epic ,18,1,Nightbirds
+484,Justin Timberlake,Cry Me a River,"['Timbaland', 'Scott Storch', 'Timberlake']",['Timbaland'],2002,Jive ,20,3,Justified
+483,Jefferson Airplane,White Rabbit,['Grace Slick'],['Rick Jarrard'],1967,RCA ,10,8,Surrealistic Pillow
+482,Kelly Clarkson,Since U Been Gone,"['Dr. Luke', 'Max Martin']","['Dr. Luke', 'Martin']",2004,RCA ,46,2,Breakaway
+481,Rick James,Super Freak,"['James', 'Alonzo Miller']",['James'],1981,Gordy ,24,16,Street Songs
+480,Beastie Boys,Sabotage,['Beastie Boys'],"['Beastie Boys', 'Mario Caldato Jr.']",1994,Grand Royal ,Did Not Chart,Did Not Chart,Ill Communication
+479,Foreigner,I Want to Know What Love Is,['Mick Jones'],"['Jones', 'Alex Sadkin']",1984,Atlantic ,21,1,Agent Provocateur
+478,The Strokes,Last Nite,['Julian Casablancas'],['Gordon Raphael'],2001,RCA ,Did Not Chart,Did Not Chart,Is This It
+477,The Smiths,How Soon Is Now?,"['Johnny Marr', 'Morrissey']",['John Porter'],1985,Sire  ,Did Not Chart,Did Not Chart,Meat Is Murder
+476,Aretha Franklin,Do Right Woman — Do Right Man,"['Chips Moman', 'Dan Penn']",['Jerry Wexler'],1967,Atlantic ,11,9,I Never Loved a Man the Way I Love You
+475,The Supremes,Where Did Our Love Go,"['Brian Holland', 'Lamont Dozier', 'Eddie Holland']","['Brian Holland', 'Dozier']",1964,Motown  ,14,1,The Ultimate Collection
+474,Van Morrison,Into the Mystic,['Morrison'],['Morrison'],1970,Warner Bros. ,Non-Single,Non-Single,Moondance
+473,Guns N' Roses,Welcome to the Jungle,"[""Guns n' Roses""]",['Mike Clink'],1987,Geffen  ,17,7,Appetite for Destruction
+472,Del Shannon,Runaway,"['Shannon', 'Max Crook']","['Harry Balk', 'Irving Micahnik']",1961,Big Top  ,17,1,Greatest Hits
+471,Cheap Trick,Surrender,['Rick Nielsen'],['Tom Werman'],1978,Epic  ,8,62,Heaven Tonight
+470,The Four Tops,Standing in the Shadows of Love,"['Brian Holland', 'Lamont Dozier', 'Eddie Holland']","['Brian Holland', 'Dozier']",1966,Motown ,10,6,The Ultimate Collection
+469,The Beatles,Rain,"['John Lennon', 'Paul McCartney']",['George Martin'],1966,Capitol,7,23,Past Masters
+468,The Staple Singers,Respect Yourself,"['Luther Ingram', 'Mack Rice']",['Al Bell'],1971,Stax ,14,12,Bealtitude: Respect Yourself
+467,Jay-Z Featuring UGK,Big Pimpin',"['Jay-Z', 'Bun B', 'Pimp C', 'Timbaland', 'Kyambo Joshua']",['Timbaland'],1999,Roc-A-Fella ,20,18,Vol. 3: Life  and Times of S. Carter
+466,Missy Elliott,Get Ur Freak On,"['Elliott', 'Timbaland']",['Timbaland'],2001,Gold Mind/Elektra ,25,7,Miss E … So Addictive
+465,Muddy Waters,Rollin' Stone,['McKinley Morganfield'],['Leonard and Phil Chess'],1948,Chess ,predates chart,predates chart,The Anthology: 1947-1972
+464,Prince and the Revolution,Kiss,['Prince and the Revolution'],['Prince and the Revolution'],1986,Paisley Park  ,18,1,Parade
+463,Sam and Dave,Soul Man,"['Isaac Hayes', 'David Porter']","['Hayes', 'Porter']",1967,Stax ,15,2,Soul Men
+462,Nirvana,All Apologies,['Kurt Cobain'],['Steve Albini'],1993,Geffen  ,22,45,In Utero
+461,Ramones,Sheena Is a Punk Rocker,['Ramones'],"['Tony Bongiovi', 'T. Erdelyi']",1977,Sire  ,13,81,Rocket to Russia
+460,George Harrison,My Sweet Lord,['Harrison'],"['Harrison', 'Phil Spector']",1970,Apple  ,14,1,All Things Must Pass
+459,Guns N' Roses,Paradise City,"[""Guns n' Roses""]",['Mike Clink'],1987,Geffen  ,17,5,Appetite for Destruction
+458,Sam Cooke,Cupid,['Cooke'],"['Cooke', 'Hugo and Luigi']",1961,RCA ,17,12,Greatest Hits
+457,Chubby Checker,The Twist,['Hank Ballard'],['Karl Mann'],1960,Parkway  ,39,1,Greatest Hits
+456,The Beatles,Penny Lane,"['John Lennon', 'Paul McCartney']",['George Martin'],1967,Capitol   ,10,1,Magical Mystery Tour
+455,The Velvet Underground,Heroin,['Lou Reed'],"['Andy Warhol', 'Tom Wilson']",1967,Verve ,Non-Single,Non-Single,The Velvet Underground and Nico
+454,The Shangri-Las,Leader of the Pack,"['George ""Shadow"" Morton', 'Jeff Barry', 'Ellie Greenwich']","['Morton', 'Barry', 'Greenwich']",1964,Red Bird ,12,1,Myrmidons of Melodrama: Definitive Collection
+453,Toots and the Maytals,Pressure Drop,['Toots Hibbert'],['Leslie Kong'],1973,Mango ,Did Not Chart,Did Not Chart,The Harder They Come
+452,Nirvana,Come As You Are,"['Kurt Cobain', 'Nirvana']","['Butch Vig', 'Nirvana']",1991,Geffen ,18,32,Nevermind
+451,Sonny and Cher,I Got You Babe,['Sonny Bono'],['Bono'],1965,Atco ,14,1,The Beat Goes On: The Best of Sonny and Cher
+450,Bob Marley and the Wailers,I Shot the Sheriff,['Marley'],['Chris Blackwell'],1973,Island ,did not chart,did not chart,Burnin'
+449,The Dell-Vikings,Come Go With Me,['Clarence E. Quick'],['Joe Averbach'],1957,Dot ,31,5,Golden Classics
+448,50 Cent,In Da Club,"['50 Cent', 'Dr. Dre', 'Mike Elizondo']","['Dr. Dre', 'Elizondo']",2002,Interscope/Aftermath/Shady ,30,1,Get Rich or Die Tryin'
+447,John Cougar Mellencamp,Pink Houses,['Mellencamp'],"['Little Bastard', 'Don Gehman']",1983,Riva ,16,8,Uh-Huh
+446,Salt 'n Pepa,Push It,"['Hurby ""Luv Bug"" Azor']",['Azor'],1987,Next Plateau ,25,19,"Hot, Cool and Vicious"
+445,The Stooges,I Wanna Be Your Dog,"['Dave Alexander', 'Ron Asheton', 'Scott Asheton', 'Iggy Pop']",['John Cale'],1969,Elektra ,Did Not Chart,Did Not Chart,The Stooges
+444,Elvis Presley,Love Me Tender,"['Presley', 'Vera Watson']",['Steve Sholes'],1956,RCA ,23,1,Elvis: 30 #1 Hits
+443,The Rolling Stones,Beast of Burden,"['Mick Jagger', 'Keith Richards']",['The Glimmer Twins'],1978,Rolling Stones ,13,8,Some Girls
+442,Love,Alone Again Or,['Bryan MacLean'],"['Arthur Lee', 'Bruce Botnick']",1968,Elektra ,3,99,Forever Changes
+441,Wilson Pickett,Mustang Sally,['Sir Mack Rice'],['Jerry Wexler'],1966,Atlantic ,9,23,The Very Best of Wilson Pickett
+440,Led Zeppelin,Ramble On,"['Jimmy Page', 'Robert Plant']",['Page'],1969,Atlantic ,Non-Single,Non-Single,Led Zeppelin II
+439,Gladys Knight and the Pips,Midnight Train to Georgia,['Jim Weatherly'],['Tony Camillo'],1973,Buddah ,19,1,Essential Collection
+438,Fats Domino,Ain't It a Shame,"['Dave Bartholomew', 'Domino']",['Bartholomew'],1955,Imperial ,13,10,The Fats Domino Jukebox:  20 Greatest Hits
+437,The Clash,(White Man) In Hammersmith Palais,"['Mick Jones', 'Joe Strummer']",['The Clash'],1979,Epic  ,Did Not Chart,Did Not Chart,The Clash
+436,Solomon Burke,Everybody Needs Somebody to Love,"['Burke', 'Bert Berns', ' Jerry Wexler']",['Berns'],1964,Atlantic  ,8,58,The Very Best of Solomon Burke
+435,U2,New Year's Day,"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']",['Steve Lillywhite'],1983,Island  ,12,53,War
+434,Deep Purple,Smoke on the Water,"['Ritchie Blackmore', 'Ian Gillian', 'Roger Glover', 'Jon Lord', 'Ian Paice']",['Deep Purple'],1973,Warner Bros. ,16,4,Machine Head
+433,Rolling Stones,Tumbling Dice,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1972,Rolling Stones  ,10,7,Exile on Main Street
+432,Green Day,American Idiot,['Green Day'],"['Rob Cavallo', 'Green Day']",2004,Reprise  ,20,61,American Idiot
+431,The Smiths,"William, It Was Really Nothing","['Johnny Marr', 'Morrissey']",['John Porter'],1984,Sire ,Did Not Chart,Did Not Chart,Louder Than Bombs
+430,Elvis Presley,Blue Suede Shoes,['Carl Perkins'],['Steve Sholes'],1956,RCA ,12,20,2nd to None
+429,Billy Joel,Piano Man,['Joel'],['Michael Stewart'],1973,Columbia ,14,25,Piano Man
+428,The Isley Brothers,It's Your Thing,"['Rudolph Isley', 'Ronald lsley', ""O'Kelly Isley""]","['R. Isley', 'R. Isley', 'O. Isley']",1969,T-Neck  ,14,2,The Ultimate Isley Brothers
+427,Dr. Dre,Nuthin' But a 'G' Thang,['Snoop Dogg'],['Dr. Dre'],1993,Death Row ,27,2,The Chronic
+426,"Crosby, Stills and Nash",Suite: Judy Blue Eyes,['Stephen Stills'],"['David Crosby', 'Stills', 'Graham Nash']",1969,Atlantic ,12,21,"Crosby, Stills and Nash"
+425,N.W.A,Fuck tha Police,"['Ice Cube', 'MC Ren']","['Dr. Dre', 'Yella']",1989,Priority ,Non-Single,Non-Single,Straight Outta Compton
+424,The Notorious B.I.G.,Juicy,['The Notorious B.I.G.'],"['Sean ""Puffy"" Combs', 'Poke']",1994,Bad Boy  ,20,27,Ready to Die
+423,Don Henley,The Boys of Summer,"['Henley', 'Mike Campbell']","['Henley', 'Campbell', 'Danny Kortchmar', 'Greg Ladanyi']",1984,Geffen  ,22,5,Building the Perfect Beast
+422,The Four Tops,Can't Help Myself,"['Eddie Holland', 'Lamont Dozier', 'Brian Holland']","['Holland', 'Dozier', 'Holland']",1965,Motown ,14,1,The Ultimate Collection
+421,The Coasters,Young Blood,"['Jerry Leiber', 'Mike Stoller', 'Doc Pomus']","['Leiber', 'Stoller']",1957,Atco ,11,1,The Very Best of the Coasters
+420,Little Richard,The Girl Can't Help It,['Bobby Troup'],"['Robert ""Bumps"" Blackwell']",1957,Specialty  ,8,49,The Georgia Peach
+419,Bobbie Gentry,Ode to Billie Joe,['Gentry'],"['Kelly Gordon', 'Bobby Paris']",1967,Capitol ,14,1,Greatest Hits
+418,Donna Summer,I Feel Love,"['Summer', 'Giorgio Moroder', 'Pete Bellotte']","['Moroder', 'Bellotte']",1977,Casablanca ,23,6,The Donna Summer Anthology
+417,Pixies,Monkey Gone to Heaven,['Black Francis'],['Gil Norton'],1989,Elektra ,Did Not Chart,Did Not Chart,Doolittle
+416,Aerosmith,Sweet Emotion,"['Steven Tyler', 'Tom Hamilton']",['Jack Douglas'],1975,Columbia ,8,36,Toys in the Attic
+415,Nirvana,In Bloom,['Kurt Cobain'],['Butch Vig'],1991,DGC  ,Non-Single,Non-Single,Nevermind
+414,Carpenters,We've Only Just Begun,"['Paul Williams', 'Roger Nichols']",['Jack Daugherty'],1970,A&M ,17,2,Singles 1969-1981
+413,Bob Dylan,Visions of Johanna,['Dylan'],['Bob Johnston'],1966,Columbia ,Non-Single,Non-Single,Blonde on Blonde
+412,Rihanna Featuring Jay-Z,Umbrella,"['The-Dream', 'Kuk Harrell', 'Jay-Z', 'Christopher ""Tricky"" Stewart']","['Harrell', 'Stewart']",2007,Def Jam ,27,1,Good Girl Gone Bad
+411,Eddie Cochran,C'mon Everybody,"['Cochran', 'Jerry Capehart']",['Capehart'],1958,Liberty ,12,35,Something' Else
+410,Sly and the Family Stone,Thank You (Falettinme Be Mice Elf Agin),['Sly Stone'],['Stone'],1970,Epic ,13,1,Anthology
+409,The Shirelles,Tonight's the Night,"['Luther Dixon', 'Shirley Owens']",['Dixon'],1960,Scepter ,12,39,25 All-Time Greatest Hits
+408,Metallica,Enter Sandman,"['James Hetfield', 'Lars Ulrich', 'Kirk Hammett']","['Bob Rock', 'Hetfield', 'Ulrich']",1991,Elektra  ,20,16,Metallica
+407,Lynyrd Skynyrd,Sweet Home Alabama,"['Ed King', 'Gary Rossington', 'Ronnie Van Zant']",['Al Kooper'],1974,MCA ,17,8,Second Helping
+406,Big Star,Thirteen,"['Alex Chilton', 'Chris Bell']",['John Fry'],1972,Ardent ,Non-Single,Non-Single,#1 Record/Radio City
+405,Blue Öyster Cult,(Don't Fear) the Reaper,['Donald Roeser'],"['Murray Krugman', 'Sandy Pearlman', 'David Lucas']",1976,Columbia ,14,12,Agents of Fortune
+404,The Shangri-Las,Remember (Walkin' in the Sand),"['George ""Shadow"" Morton']",['Morton'],1964,Red Bird ,11,5,The Best of the Shangri-Las
+403,Elvis Presley,Can't Help Falling in Love,"['George Weiss', 'Hugo Peretti', 'Luigi Creatore']",['Joseph Lilley'],1961,RCA ,14,1,Elvis 30 #1 Hits
+402,The Five Stairsteps,O-o-h Child,['Stan Vincent'],['Vincent'],1970,Buddha ,16,8,Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2
+401,The Lovin' Spoonful,Summer in the City,"['John Sebastian', 'Steve Boone', 'Mark Sebastian']",['Erik Jacobsen'],1966,Kama Sutra ,11,1,The Lovin' Spoonful Greatest Hits
+400,The Four Tops,Baby I Need Your Loving,"['Brian Holland', 'Lamont Dozier', 'Eddie Holland']","['Holland', 'Dozier', 'Holland']",1964,Motown ,12,11,The Ultimate Collection
+399,The Temptations,Just My Imagination,"['Norman Whitfield', 'Barrett Strong']",['Whitfield'],1971,Gordy ,15,1,Anthology
+398,The Police,Roxanne,['Sting'],['The Police'],1979,A&M ,13,32,Outlandos d'Amour
+397,Elton John,Tiny Dancer,"['John', 'Bernie Taupin']",['Gus Dudgeon'],1971,Uni ,7,41,Madman Across the Water
+396,Eric B. and Rakim,Know You Got Soul,['Eric B. and Rakim'],['Eric B. and Rakim'],1987,4th and Broadway ,Did Not Chart,Did Not Chart,Paid in Full
+395,"Crosby, Stills, Nash and Young",Ohio,['Neil Young'],"['Crosby', 'Stills', 'Nash', 'Young']",1970,Atlantic ,9,14,Decade
+394,The Beatles,Ticket to Ride,"['John Lennon', 'Paul McCartney']",['George Martin'],1965,Capitol ,11,1,Help!
+393,The Allman Brothers Band,Whipping Post,['Gregg Allman'],['Tom Dowd'],1969,Capricorn ,Non-single,Non-single,At Fillmore East
+392,The Verve,Bitter Sweet Symphony,"['Mick Jagger', 'Keith Richards', 'Richard Ashcroft']","['The Verve', 'Christopher Marc Potter', 'Youth']",1997,Virgin ,20,12,Urban Hymns
+391,Aaron Neville,Tell It Like It Is,"['George Davis', 'Lee Diamond']",['Davis'],1966,Par Lo ,14,2,Tell It Like It Is: Golden Classics
+390,Elton John,Goodbye Yellow Brick Road,"['John', 'Bernie Taupin']",['Gus Dudgeon'],1973,MCA ,17,2,Goodbye Yellow Brick Road
+389,R.E.M.,Radio Free Europe,['R.E.M.'],"['Mitch Easter', 'Don Dixon']",1983,I.R.S. ,5,78,Murmur
+388,U2,Pride (In the Name of Love),"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']","['Brian Eno', 'Daniel Lanois']",1984,Island ,15,33,The Unforgettable Fire
+387,Ray Charles,Hit the Road Jack,['Percy Mayfield'],['Sid Feller'],1961,ABC-Paramount ,11,1,Ultimate Hits Collection
+386,Yeah Yeah Yeahs,Maps,['Yeah Yeah Yeahs'],['David Andrew Sitek'],2004,Interscope ,13,87,Fever to Tell
+385,Radiohead,Fake Plastic Trees,['Radiohead'],['John Leckie'],1995,Capitol ,4,65,The Bends
+384,Pink Floyd,Another Brick in the Wall Part 2,['Roger Waters'],"['Bob Ezrin', 'Waters', 'David Gilmour']",1979,Columbia ,25,1,The Wall
+383,Chuck Berry,Brown Eyed Handsome Man,['Berry'],"['Leonard Chess', 'Phil Chess']",1956,Chess ,Did Not Chart,Did Not Chart,The Anthology
+382,Sam Cooke,Wonderful World,"['Cooke', 'Herb Alpert', 'Lou Adler']","['Cooke', 'Adler']",1960,RCA ,15,12,Portrait of a Legend 1951-1964
+381,Television,Marquee Moon,['Tom Verlaine'],['Andy Johns'],1977,Elektra ,Did Not Chart,Did Not Chart,Marquee Moon
+380,The Who,I Can't Explain,['Pete Townshend'],['Shel Talmy'],1965,Decca ,2,93,The Ultimate Collection
+379,The Jimi Hendrix Experience,The Wind Cries Mary,['Hendrix'],['Chas Chandler'],1967,Reprise  ,8,65,Are You Experienced?
+378,Bo Diddley,I'm a Man,['Diddley'],['Leonard Chess'],1955,Checker ,Did Not Chart,Did Not Chart,His Best: The Chess 50th Anniversary Collection
+377,Depeche Mode,Personal Jesus,['Martin Gore'],"['Depeche Mode', 'Flood']",1989,Sire ,20,28,Violator
+376,Cream,White Room,"['Pete Brown', 'Jack Bruce']",['Felix Pappalardi'],1968,Atco ,11,6,Wheels of Fire
+375,Bee Gees,How Deep Is Your Love,['Bee Gees'],"['Bee Gees', 'Karl Richardson', 'Albhy Galuten']",1977,RSO,33,1,Saturday Night Fever
+374,The Righteous Brothers,Unchained Melody,"['Alex North', 'Hy Zaret']",['Phil Spector'],1965,Philles,13,4,Anthology 1962-1974
+373,Bob Dylan,Highway 61 Revisited,['Dylan'],['Bob Johnston'],1965,Columbia,Did not chart,Did not chart,Highway 61 Revisited
+372,The Box Tops,The Letter,['Wayne Carson Thompson'],['Dan Penn'],1967,Mala,16,1,The Letter
+371,The Clash,Complete Control,"['Mick Jones', 'Joe Strummer']","['Lee ""Scratch"" Perry']",1979,Epic,Non-single ,Non-single ,The Clash
+370,The Beatles,All You Need is Love,"['John Lennon', 'Paul McCartney']",['George Martin'],1967,Capitol,11,1,Magical Mystery Tour
+369,Roberta Flack,Killing Me Softly With His Song,"['Norman Gimbel', 'Charles Fox']",['Joel Dorn'],1973,Atlantic,16,1,Killing Me Softly
+368,Muddy Waters,Got My Mojo Working,['Preston Foster'],"['Phil Chess', 'Leonard Chess', 'Willie Dixon']",1957,Chess,Did not chart,Did not chart,The Anthology
+367,Martha and the Vandellas,Nowhere to Run,"['Brian Holland', 'Lamont Dozier', 'Eddie Holland']","['Brian Holland', 'Dozier']",1965,Gordy,11,8,The Ultimate Collection 
+366,The Jimi Hendrix Experience,Little Wing,['Hendrix'],['Chas Chandler'],1968,Reprise,Non-single,Non-single,Axis: Bold as Love
+365,Eurythmics,Sweet Dreams (Are Made of This),"['Annie Lennox', 'Dave Stewart']",['Stewart'],1983,RCA,26,1,Sweet Dreams
+364,Creedence Clearwater Revival,Bad Moon Rising,['John Fogerty'],['Fogerty'],1969,Fantasy,14,2,Green River
+363,Elvis Costello,Watching the Detectives,['Costello'],['Nick Lowe'],1977,Columbia,Did not chart,Did not chart,My Aim Is True
+362,Eric Clapton,Tears in Heaven,"['Clapton', 'Will Jennings']",['Russ Titelman'],1992,Duck/Reprise,26,2,"""Rush"" Soundtrack"
+361,Elvis Presley,All Shook Up,"['Otis Blackwell', 'Presley']",['Steve Sholes'],1957,RCA,30,1,Elvis 30 #1 Hits
+360,The Platters,The Great Pretender,['Buck Ram'],['Ram'],1955,Mercury,24,1,The Magic Touch: An Anthology
+359,Little Eva,The Loco-Motion,"['Gerry Goffin', 'Carole King']",['Goffin'],1962,Dimension,16,1,The Loco-Motion
+358,Ben E. King,Spanish Harlem,"['Phil Spector', 'Jerry Leiber']","['Mike Stoller', 'Leiber']",1960,Atco,16,10,The Very Best of Ben E. King 
+357,The Isley Brothers,That Lady (Part 1 and 2),['The Isley Brothers'],['The Isley Brothers'],1973,T-Neck,20,6,The Essential Isley Brothers
+356,Elton John,Candle in the Wind,"['John', 'Bernie Taupin']",['Gus Dudgeon'],1973,MCA,,,Goodbye Yellow Brick Road
+355,Dr. Dre and 2Pac,California Love,"['Dr. Dre', 'Chris Stainton', 'Roger Troutman', 'Larry Troutman', '2Pac']",['Dr. Dre'],1996,Death Row,24,6,Greatest Hits
+354,Ritchie Valens,La Bamba,['William Clauson'],['Bob Keane'],1958,Del-Fi,15,22,The Ritchie Valens Story
+353,Big Brother and the Holding Company,Piece of My Heart,"['Bert Berns', 'Jerry Ragovoy']",['John Simon'],1968,CBS,12,12,Cheap Thrills
+352,Lavern Baker,Jim Dandy,['Lincoln Chase'],"['Ahmet Ertegun,Jerry Wexler']",1956,Atlantic,19,17,Soul on Fire: The Best of LaVern Baker
+351,Dion,Runaround Sue,"['Dion DiMucci', 'Ernie Maresca']",['Gene Schwartz'],1961,Laurie,14,1,Runaround Sue
+350,Jimmy Cliff,The Harder They Come,['Cliff'],['Cliff'],1975,Mango,Did not chart,Did not chart,The Harder They Come
+349,The Who,Baba O'Riley,['Pete Townshend'],"['Glyn Johns', 'the Who']",1971,MCA,Non-single in U.S.,Non-single in U.S.,Who's Next
+348,The Supremes,You Keep Me Hanging On,"['Brian Holland,Lamont Dozier', 'Eddie Holland']","['Brian Holland', 'Dozier']",1966,Motown,12,1,The Ultimate Collection
+347,Paul McCartney,Maybe I'm Amazed,['McCartney'],['McCartney'],1970,Apple,13,10,McCartney
+346,Aerosmith,Walk This Way,"['Steven Tyler', 'Joe Perry']",['Jack Douglas'],1976,Columbia,17,10,Toys in the Attic
+345,U2,Beautiful Day,['U2'],"['Daniel Lanois', 'Brian Eno']",2000,Island,25,1,All That You Can't Leave Behind
+344,Michael Jackson,Beat It,['Jackson'],['Quincy Jones'],1982,Epic,25,1,Thriller
+343,The Rolling Stones,Wild Horses,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1971,Rolling Stones,8,28,Sticky Fingers
+342,The Velvet Underground,Sweet Jane,['Lou Reed'],"['The Velvet Underground', 'Shel Kagan', 'Geoffrey Haslam']",1970,Cotillion,Non-single,Non-single,Loaded (Fully Loaded Edition)
+341,Norman Greenbaum,Spirit in the Sky,['Greenbaum'],['Erik Jacobsen'],1970,Reprise,15,3,Spirit in the Sky
+340,Bob Dylan,Subterranean Homesick Blues,['Dylan'],['Tom Wilson'],1965,Columbia,8,39,Bringing It All Back Home
+339,Bonnie Raitt,I Can't Make You Love Me,"['Mike Reid', 'Allen Shamblin']","['Don Was', 'Raitt']",1991,Capitol,20,18,Luck of the Draw
+338,Queen,We Will Rock You,"['Brian May', 'Mike Stone']",['Queen'],1977,Elektra,14,52,News of the World
+337,"Earth, Wind and Fire",Way of the World,"['Maurice White', 'Verdine White', 'Charles Stepney']",['Maurice White'],1975,Columbia,16,12,That's the Way of the World
+336,The Doors,The End,"['John Densmore', 'Robbie Krieger', 'Ray Manzarek', 'Jim Morrison']",['Paul Rothchild'],1967,Elektra,Non-single,Non-single,The Doors
+335,Jerry Butler and The Impressions,For Your Precious Love,"['Arthur Brooks', 'Butler']",['Calvin Carter'],1958,Falcon,12,11,Greatest Hits
+334,James Brown,Get Up (I Feel Like Being a) Sex Machine,"['Brown', 'Bobby Byrd,Ron Lenhoff']",['Brown'],1970,King,9,15,50th Anniversary Collection 
+333,The Young Rascals,Good Lovin',"['Rudy Clark', 'Arthur Resnick']","['Tom Dowd', 'Arif Mardin']",1966,Atlantic,14,1,The Very Best of the Rascals
+332,The Supremes,Baby Love,"['Brian Holland,Lamont Dozier', 'Eddie Holland']","['Brian Holland', 'Dozier']",1964,Motown,13,1,The Ultimate Collection
+331,Patti Smith Group,Dancing Barefoot,"['Smith', 'Ivan Kral']",['Todd Rundgren'],1979,Arista,Did not chart,Did not chart,Wave
+330,Public Enemy,Fight the Power,"['Chuck D', 'Eric Sadler', 'Hank Shocklee', 'Keith Shocklee']","['Sadler', 'Hank Shocklee']",1989,Def Jam,Did not chart,Did not chart,Fear of a Black Planet
+329,Neil Young,Cortez the Killer,['Young'],"['Young', 'David Briggs']",1975,Reprise,Non-single,Non-single,Zuma
+328,Led Zeppelin,Heartbreaker,"['Jimmy Page', 'Robert Plant', 'John Bonham', 'John Paul Jones']",['Page'],1969,Atlantic,Non-single,Non-single,Led Zeppelin II
+327,Franz Ferdinand,Take Me Out,"['Alex Kapranos', 'Nick McCarthy']",['Tore Johansson'],2004,Domino,19,66,Franz Ferdinand
+326,Alice Cooper,School's Out,"['Michael Bruce', 'Glen Buxton', 'Cooper', 'Dennis Dunway', 'Neal Smith']",['Bob Ezrin'],1972,Warner Bros.,13,7,School's Out
+325,Jimmy Cliff,Many Rivers to Cross,['Cliff'],['Cliff'],1969,A&M,Did not chart,Did not chart,"Wonderful World, Beautiful People"
+324,Pink Floyd,Wish You Were Here,"['David Gilmour', 'Roger Waters']",['Pink Floyd'],1975,Columbia,Non-single,Non-single,Wish You Were Here
+323,Elvis Costello,Alison,['Costello'],['Nick Lowe'],1977,Columbia,Did not chart,Did not chart,My Aim Is True
+322,The Animals,Don't Let Me Be Misunderstood,"['Bennie Benjamin', 'Sol Marcus,Gloria Caldwell']",['Mickie Most'],1965,MGM,10,15,Retrospective
+321,Pink Floyd,Comfortably Numb,"['David Gilmour', 'Roger Waters']",['Bob Ezrin'],1979,Columbia,Did not chart,Did not chart,The Wall
+320,Screamin' Jay Hawkins,I Put a Spell on You,"[""Screamin' Jay Hawkins"", 'Herb Slotkin']",['Arnold Maxin'],1956,OKeh,Did not chart,Did not chart,Voodoo Jive
+319,Roy Orbison,In Dreams,"['Joe Melson', 'Orbison']",['Fred Foster'],1963,Monument,13,7,For the Lonely: 18 Greatest Hits
+318,The Everly Brothers,Wake Up Little Susie,"['Felice Bryant', 'Boudleaux Bryant']",['Archie Bleyer'],1957,Cadence,26,1,The Best of the Everly Brothers
+317,Black Sabbath,Iron Man,['Black Sabbath'],['Roger Bain'],1971,Warner,10,52,Paranoid
+316,Tina Turner,What's Love Got to Do With It,"['Terry Britten', 'Graham Lyle']",['Britten'],1984,Capitol,28,1,Private Dancer
+315,Jackie Wilson,Lonely Teardrops,"['Berry Gordy', 'Gwen Gordy', 'Tyran Carlo']",['Dick Jacobs'],1958,Brunswick,21,7,The Greatest Hits of Jackie Wilson
+314,Frankie Lymon and The Teenagers,Why Do Fools Fall In Love,"['Lymon', 'Morris Levy']",['George Goldner'],1956,Gee,21,6,The Best of Frankie Lymon and the Teenagers
+313,The Jam,That's Entertainment,['Paul Weller'],"['Vic Coppersmith-Heaven', 'the Jam']",1980,Polydor,Non-single in the U.S.,Non-single in the U.S.,Sound Affects
+312,James Brown,Say It Loud - I'm Black and I'm Proud,"['Brown', 'Pee Wee Ellis']",['Brown'],1968,King,11,10,50th Anniversary Collection
+311,The Beatles,With a Little Help From My Friends,"['John Lennon', 'Paul McCartney']",['George Martin'],1967,Capitol,Non-single,Non-single,Sgt. Pepper's Lonely Hearts Club Band
+310,The Rolling Stones,Ruby Tuesday,"['Mick Jagger', 'Keith Richards']",['Andrew Loog Oldham'],1967,London,12,1,Between the Buttons
+309,Willie Nelson,Blue Eyes Crying in the Rain,['Fred Rose'],['Nelson'],1975,Columbia,18,21,Red Headed Stranger
+308,Rod Stewart,Da Ya Think I'm Sexy?,"['Stewart', 'Carmine Appice']",['Tom Dowd'],1978,Warner Bros.,21,1,Blondes Have More Fun
+307,Daft Punk,One More Time,"['Thomas Bangalter', 'Guy-Manuel de Homem-Christo', 'Anthony Moore']",['Daft Punk'],2000,Virgin,16,61,Discovery
+306,Madonna,Like A Prayer,"['Madonna', 'Patrick Leonard']","['Madonna', 'Leonard']",1989,Sire,16,1,Like a Prayer
+305,Blondie,One Way or Another,"['Deborah Harry', 'Nigel Harrison']",['Mike Chapman'],1978,Chrysalis,14,24,Parallel Lines
+304,Prince,Sign 'O' The Times,['Prince'],['Prince'],1987,Paisley Park,14,3,Sign 'O' the Times
+303,Neil Young,Heart of Gold,['Young'],"['Elliot Mazer', 'Young']",1972,Reprise,14,1,Harvest
+302,Bob Marley and the Wailers,"Get Up, Stand Up","['Bob Marley', 'Peter Tosh']",['Chris Blackwell'],1975,Island,Did not chart,Did not chart,Legend
+301,The Rolling Stones,Street Fighting Man,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1968,London,6,48,Beggars Banquet
+300,Led Zeppelin,Black Dog,"['Jimmy Page', 'Robert Plant', 'John Paul Jones']",['Page'],1971,Atlantic,12,15,Led Zeppelin IV
+299,Al Green,Tired of Being Alone,['Green'],"['Willie Mitchell', 'Green']",1971,Hi,19,11,Greatest Hits
+298,The Clash,Train in Vain,"['Mick Jones', 'Joe Strummer']",['Guy Stevens'],1979,Epic,14,23,London Calling
+297,The Zombies,She's Not There,['Rod Argent'],['Ken Jones'],1964,Parrot,15,2,British Invasion: 1963-1967 
+296,Eminem feat. Dido,Stan,"['Marshall Mathers,D. Armstrong', 'P. Herman']","['Eminem', 'the 45 King']",2000,Aftermath,15,51,The Marshall Mathers LP
+295,The Beatles,Can't Buy Me Love,"['John Lennon', 'Paul McCartney']",['George Martin'],1964,Capitol,10,1,A Hard Day's Night
+294,Barrett Strong,Money (That's What I Want),"['Berry Gordy', 'Janie Bradford']",['Gordy'],1960,Anna,17,23,Motown: The Classic Years
+293,Run-DMC,Walk This Way,"['Steven Tyler', 'Joe Perry']","['Rick Rubin,Russell Simmons']",1986,Profile,16,4,Raising Hell
+292,Pavement,Summer Babe (Winter Version),['Stephen Malkmus'],"['Malkmus', 'Scott Kannberg']",1992,Drag City,Did not chart,Did not chart,Slanted and Enchanted
+291,Howlin' Wolf,Smokestack Lightning,['Chester Burnett'],"['Leonard and Phil Chess', 'Willie Dixon']",1956,Chess,Did not chart ,Did not chart ,His Best
+290,Elvis Costello and the Attractions,"(What's So Funny About) Peace, Love and Understanding",['Nick Lowe'],['Lowe'],1979,Columbia,Non-single,Non-single,Armed Forces
+289,Blondie,Call Me,"['Giorgio Moroder', 'Deborah Harry']",['Moroder'],1980,Chrysalis,25,1,Best of Blondie
+288,Joni Mitchell,Help Me,['Mitchell'],['Mitchell'],1974,Asylum,19,7,Court and Spark
+287,Stevie Wonder,You Are the Sunshine of My Life,['Wonder'],['Wonder'],1972,Tamla,17,1,Talking Book
+286,The White Stripes,Seven Nation Army,['Jack White'],['White'],2003,V2/Third Man,,,Elephant
+285,Bill Withers,Ain't No Sunshine,['Withers'],['Booker T. Jones'],1971,Sussex,16,3,Lean on Me: The Best of Bill Withers
+284,The Dixie Cups,Chapel of Love,"['Jeff Barry', 'Ellie Greenwich', 'Phil Spector']","['Jerry Leiber', 'Mike Stoller', 'Barry', 'Greenwich']",1964,Red Bird,13,1,"The Best of the Girl Groups, Vol. 1"
+283,The Cure,Pictures of You,"['Robert Smith', 'Simon Gallup', 'Boris Williams', 'Porl Thompson', ""Roger O'Donnell"", 'Lol Tolhurst']","['Smith', 'David M. Allen']",1989,Elektra,8,71,Disintegration
+282,David Bowie,Ziggy Stardust,['Bowie'],"['Ken Scott', 'Bowie']",1972,RCA,Non-single,Non-single,The Rise and Fall of Ziggy Stardust and the Spiders From Mars
+281,The Staple Singers,ll Take You There,['Alvertis Isbell (Al Bell)'],['Bell'],1972,Stax,15,1,Bealtitude: Respect Yourself
+280,Bruce Springsteen,Born in the U.S.A.,['Springsteen'],"['Springsteen', 'Jon Landau', 'Chuck Plotkin', 'Steve Van Zandt']",1984,Columbia,17,9,Born in the U.S.A.
+279,Jefferson Airplane,Somebody to Love,['Darby Slick'],['Rick Jarrard'],1967,RCA,15,5,Surrealistic Pillow
+278,The Beatles,Something,['George Harrison'],['George Martin'],1969,Apple,16,3,Abbey Road
+277,Chuck Berry,Sweet Little Sixteen,['Berry'],['Leonard and Phil Chess'],1958,Chess,16,2,The Anthology
+276,The Beach Boys,Sloop John B,"['Traditional', 'Brian Wilson']",['Wilson'],1966,Capitol,11,3,Pet Sounds
+275,George Jones,He Stopped Loving Her Today,"['Bobby Braddock,Curly Putnam']",['Billy Sherrill'],1980,Epic,Did not chart ,Did not chart ,I Am What I Am
+274,The Modern Lovers,Roadrunner,['Jonathan Richman'],['John Cale'],1976,Beserkley,Did not chart ,Did not chart ,The Modern Lovers
+273,Kanye West,Jesus Walks,['Kanye West'],['West'],2004,Roc-a-Fella,25,11,The College Dropout
+272,U2,Sunday Bloody Sunday,"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']",['Steve Lillywhite'],1983,Island,Did not chart ,Did not chart ,War
+271,New York Dolls,Personality Crisis,"['David Johansen', 'Johnny Thunders']",['Todd Rundgren'],1973,Mercury,Did not chart,Did not chart,New York Dolls
+270,Archie Bell and The Drells,Tighten Up,"['Bell', 'Billy Butler']",['Skipper Lee Frazier'],1968,Atlantic,15,1,Tightening It Up: The Best of Archie Bell and the Drells
+269,The Ronettes,Walking in the Rain,['Phil Spector'],['Spector'],1964,Philles,11,23,The Best of the Ronettes
+268,Randy Newman,Sail Away,['Newman'],['Lenny Waronker'],1972,Reprise,Did not chart,Did not chart,Sail Away
+267,The Crystals,He's A Rebel,['Gene Pitney'],['Phil Spector'],1962,Philles,18,1,Best of the Crystals
+266,Smokey Robinson and The Miracles,Ooo Baby Baby,['Robinson'],['Robinson'],1965,Tamla,11,16,Ooo Baby Baby: The Anthology 
+265,Stevie Wonder,Higher Ground,['Wonder'],['Wonder'],1973,Tamla,14,4,Innervisions
+264,Jeff Buckley,Hallelujah,['Leonard Cohen'],['Andy Wallace'],1994,Columbia,Non-Single,Non-Single,Grace
+263,The Dells,"Oh, What A Night","['Marvin Junior', 'John Funches']",['Bobby Miller'],1969,Cadet,11,10,Ultimate Collection
+262,The Who,I Can See For Miles,['Pete Townshend'],['Kit Lambert'],1967,Decca,11,9,The Who Sell Out
+261,The Troggs,Wild Thing,['Chip Taylor'],['Larry Page'],1966,Atco/Fontana,11,1,Greatest Hits
+260,Bob Dylan,Mississippi,['Dylan'],['Jack Frost'],2001,Columbia,Non-Single,Non-Single,Love and Theft
+259,Blondie,Heart of Glass,"['Deborah Harry', 'Chris Stein']",['Mike Chapman'],1978,Chrysalis,21,1,Parallel Lines
+258,AC/DC,Highway to Hell,"['Angus Young', 'Malcolm Young', 'Bon Scott']",['Robert John Lange'],1979,Atlantic,10,47,Highway to Hell
+257,Radiohead,Paranoid Android,['Thom Yorke'],['Radiohead'],1997,Capitol,Did not chart ,Did not chart ,OK Computer
+256,Mott the Hoople,All the Young Dudes,['David Bowie'],['Bowie'],1972,Columbia,11,37,All the Young Dudes
+255,Bobby Darin,Mack the Knife,"['Marc Blitzstein', 'Bertolt Brecht', 'Kurt Weill']",['Ahmet Ertegun'],1959,Atco,26,1,That's All
+254,The Drifters,Money Honey,['Jesse Stone'],"['Ahmet Ertegun', 'Jerry Wexler']",1953,Atlantic,,,Greatest Hits
+253,Black Sabbath,Paranoid,"['Geezer Butler', 'Tony Iommi', 'Ozzy Osbourne', 'William Ward']",['Rodger Bain'],1970,Warner Bros.,8,61,Paranoid
+252,Aretha Franklin,Chain of Fools,['Don Covay'],['Jerry Wexler'],1967,Atlantic,12,2,Lady Soul
+251,Sugarhill Gang,Rapper's Delight,"['S. Robinson', 'H. Jackson', 'M. Wright', ""G. O'Brien""]",['Sylvia Robinson'],1979,Sugar Hill,12,36,Rappers Delight: The Best of Sugarhill Gang
+250,Sly and the Family Stone,Hot Fun in the Summertime,['Sly Stone'],['Stone'],1969,Epic,16,2,Greatest Hits
+249,The Band,The Night They Drove Old Dixie Down,['Robbie Robertson'],"['John Simon', 'the Band']",1969,Capitol,Non-single,Non-single,The Band
+248,Jackie Wilson,(Your Love Keeps Lifting Me) Higher and Higher,"['Gary Jackson', 'Raynard Miner', 'Carl Smith']",['Carl Davis'],1967,Brunswick,12,6,The Very Best of Jackie Wilson
+247,The Spencer Davis Group,Gimme Some Lovin',"['Davis', 'Steve Winwood', 'Muff Winwood']",['Jimmy Miller'],1966,United Artists,13,7,Gimme Some Lovin'
+246,The B-52's,Love Shack,"['Kate Pierson', 'Fred Schneider', 'Keith Strickland', 'Cindy Wilson']","['Don Was', 'Nile Rodgers']",1989,Reprise,27,3,Cosmic Thing
+245,Elton John,Rocket Man,"['John', 'Bernie Taupin']",['Gus Dudgeon'],1972,Uni,15,6,Honky Chateau
+244,Sly and the Family Stone,Stand!,['Sly Stone'],['Stone'],1969,Epic,8,22,Stand!
+243,Dion,The Wanderer,['Ernie Maresca'],['Gene Schwartz'],1961,Laurie,18,2,Runaround Sue
+242,Dusty Springfield,Son of a Preacher Man,"['John Hurley', 'Ronnie Wilkins']",['Jerry Wexler'],1968,Atlantic,12,10,Dusty in Memphis
+241,Patsy Cline,I Fall to Pieces,['Hank Cochran'],['Owen Bradley'],1961,Decca,20,12,12 Greatest Hits
+240,Afrika Bambaataa and the Soul Sonic Force,Planet Rock,"['Bambaataa', 'John Robie', 'the Soul Sonic Force']","['Bambaataa', 'Arthur Baker']",1982,Tommy Boy,11,48,Looking for the Perfect Beat 1980-1985
+239,Ray Charles,I Got a Woman,"['Charles', 'Renald Richard']",['Jerry Wexler'],1954,ABC-Parliament,Predates chart,Predates chart,Atlantic Singles
+238,Buddy Holly and the Crickets,Everyday,"['Charles Hardin', 'Norman Petty']",['Petty'],1957,Coral a,Did not chart,Did not chart,Best of Buddy Holly
+237,The Byrds,I'll Feel a Whole Lot Better,['Gene Clark'],['Terry Melcher'],1965,Columbia,Did not chart,Did not chart,Mr. Tambourine Man
+236,M.I.A.,Paper Planes,"['M.I.A.', 'Diplo']","['Diplo', 'Switch']",2007,Interscope,21,4,Kala
+235,The Animals,We Gotta Get Out of This Place,"['Barry Mann', 'Cynthia Weil']",['Mickie Most'],1965,MGM,11,13,Retrospective
+234,Roy Orbison,Only the Lonely,"['Joe Melson', 'Orbison']",['Fred Foster'],1960,Monument,21,2,For the Lonely: 18 Greatest Hits
+233,Marvin Gaye,Sexual Healing,"['Gaye', 'Odell Brown', 'David Ritz']",['Gaye'],1982,Columbia,21,3,Midnight Love
+232,Bob Dylan,Just Like a Woman,['Dylan'],['Bob Johnston'],1966,Columbia,6,33,Blonde on Blonde
+231,Van Morrison,Moondance,['Morrison'],['Morrison'],1970,Warner Bros.,4,92,Moondance
+230,Muddy Waters,Mannish Boy,"['McKinley Morganfield', 'Mel London', 'Ellas McDaniel']","['Leonard and Phil Chess', 'Willie Dixon']",1955,Chess,Did not chart,Did not chart,The Anthology
+229,Chic,Good Times,"['Nile Rodgers', 'Bernard Edwards']","['Rodgers', 'Edwards']",1979,Atlantic,19,1,Risqué
+228,The Clash,Should I Stay or Should I Go,['The Clash'],['Glyn Johns'],1982,Epic,13,45,Combat Rock
+227,James Taylor,Fire and Rain,['Taylor'],['Peter Asher'],1970,Warner Bros.,16,3,Sweet Baby James
+226,Muddy Waters,Hoochie Coochie Man,['Willie Dixon'],"['Leonard and Phil Chess', 'Dixon']",1954,Chess,Did not chart,Did not chart,The Anthology
+225,Sly and the Family Stone,Dance to the Music,['Sylvester Stewart (Sly Stone)'],['Stone'],1968,Epic,15,8,Dance to the Music
+224,Roy Orbison,"Oh, Pretty Woman","['Orbison', 'Billy Dees']",['Wesley Rose'],1964,Monument,15,1,For the Lonely: 18 Greatest Hits
+223,Lou Reed,Walk on the Wild Side,['Reed'],"['David Bowie', 'Mick Ronson', 'Reed']",1972,RCA,14,16,Transformer
+222,The Left Banke,Walk Away Renee,"['Michael Brown', 'Bob Calilli', 'Tony Sansone']",['Harry Lookofsky'],1966,Smash,13,5,There's Gonna Be a Storm
+221,Howlin' Wolf,Spoonful,['Willie Dixon'],['Leonard and Phil Chess'],1960,Chess,Did not chart,Did not chart,Anniversary Collection
+220,John Lee Hooker,Boom Boom,['Hooker'],['Calvin Carter'],1962,Vee-Jay,10,60,The Very Best of John Lee Hooker
+219,Dolly Parton,Jolene,['Parton'],['Bob Ferguson'],1974,RCA,8,60,Jolene
+218,The Lovin' Spoonful,Do You Believe in Magic,['John Sebastian'],['Erik Jacobsen'],1965,Kama Sutra ,13,9,Do You Believe in Magic
+217,Hank Williams,Your Cheatin' Heart,"['Williams', 'Fred Rose']",['Rose'],1953,MGM,Predates pop charts,Predates pop charts,The Ultimate Collection
+216,Neil Young,Rockin' in the Free World,['Young'],"['Niko Bolas', 'Young']",1989,Reprise,Non-single,Non-single,Freedom
+215,Prince,1999,['Prince'],['Prince'],1982,Warner Bros.,27,12,1999
+214,The Beach Boys,"Caroline, No","['Brian Wilson', 'Tony Asher']",['Wilson'],1966,Capitol,7,32,Pet Sounds
+213,? and the Mysterians,96 Tears,['Rudy Martinez'],['Martinez'],1966,Pa-Go-Go,15,1,More Action
+212,The Beach Boys,In My Room,"['Brian Wilson', 'Gary Usher']",['Wilson'],1963,Capitol,11,23,"Surfer Girl/Shut Down, Volume 2"
+211,Them,Gloria,['Van Morrison'],['Tommy Scott'],1965,Parrot,1,95,The Story of Them
+210,The Everly Brothers,Bye Bye Love,['Boudleaux and Felice Bryant'],['Archie Bleyer'],1957,Cadence,27,2,All-Time Original Hits
+209,The Four Tops,"Reach Out, I'll Be There","['Eddie Holland', 'Lamont Dozier', 'Brian Holland']","['Holland', 'Dozier', 'Holland']",1966,Motown,15,1,The Ultimate Collection
+208,Bill Withers,Lean on Me,['Withers'],['Withers'],1972,Sussex,19,1,Lean on Me
+207,Otis Redding,Try a Little Tenderness,"['Jimmy Campbell', 'Reginald Connelly', 'Harry Woods']","['Steve Cropper', 'Jim Stewart']",1966,Stax,10,25,Very Best of Otis Redding
+206,Bob Dylan,Positively 4th Street,['Dylan'],['Bob Johnston'],1965,Columbia,9,7,The Essential Bob Dylan
+205,The Beatles,Come Together,"['John Lennon', 'Paul McCartney']",['George Martin'],1969,Apple,16,1,Abbey Road
+204,New Order,Bizarre Love Triangle,"['Bernard Albrecht', 'Gillian Gilbert', 'Peter Hook', 'Stephen Morris']",['New Order'],1986,Qwest,2,98,Substance
+203,Beck,Loser,['Beck Hansen'],['Karl Stephenson'],1993,Bong Load    ,24,10,Mellow Gold
+202,Parliament,Flash Light,"['George Clinton', 'Bernie Worrell', 'Bootsy Collins']",['Clinton'],1977,Casablanca,16,16,Funkentelechy vs. the Placebo Syndrome
+201,The Jimi Hendrix Experience,Hey Joe,['William Roberts'],['Chas Chandler'],1966,Reprise,Did not chart,Did not chart,Are You Experienced?
+200,Elvis Presley,Don't Be Cruel,"['Otis Blackwell', 'Presley']",['Steve Sholes'],1956,RCA,27,1,Elvis: 30 #1 Hits
+199,The Chantels,Maybe,['Arlene Smith'],['Richard Barrett'],1957,End,18,15,The Best of the Chantels
+198,Guns n' Roses,Sweet Child O'Mine,"[""Guns n' Roses""]",['Mike Clink'],1987,Geffen,24,1,Appetite for Destruction
+197,Buddy Holly,Peggy Sue,"['Jerry Allison', 'Holly', ' Norman Petty']",['Petty'],1957,Coral,22,3,Greatest Hits
+196,The Drifters,There Goes My Baby,"['Benjamin Nelson', 'Lover Patterson', 'George Treadwell']","['Jerry Leiber', 'Mike Stoller']",1959,Atlantic,19,2,The Very Best of the Drifters
+195,Glen Campbell,Wichita Lineman,['Jimmy Webb'],['Al De Lory'],1968,Capitol,15,3,Wichita Lineman
+194,Amy Winehouse,Rehab,['Winehouse'],['Mark Ronson'],2007,Universal Republic,20,9,Back to Black
+193,Lynyrd Skynyrd,Free Bird,"['Allen Collins', 'Ronnie Van Zant']",['Al Kooper'],1973,MCA,12,19,One More From the Road
+192,Bob Dylan,Knockin' on Heaven's Door,['Dylan'],['Gordon Carroll'],1973,Columbia,16,12,The Essential Bob Dylan
+191,Bee Gees,Stayin' Alive,"['Robin Gibb', 'Barry Gibb', 'Maurice Gibb']","['Barry Gibb', 'Robin Gibb', 'Maurice Gibb', 'Karl Richardson', 'Albhy Galuten']",1977,RSO,27,1,Saturday Night Fever
+190,AC/DC,Back in Black,"['Angus Young', 'Malcolm Young', 'Brian Johnson']",['Mutt Lange'],1980,Atlantic,15,37,Back in Black
+189,Aretha Franklin,I Never Loved a Man (the Way I Love You),['Ronny Shannon'],['Jerry Wexler'],1967,Atlantic,11,9,I Never Loved a Man (the Way I Love You)
+188,Creedence Clearwater Revival,Who'll Stop the Rain,['John Fogerty'],['Fogerty'],1970,Fantasy,Did not chart,Did not chart,Cosmo's Factory
+187,Bob Dylan,Desolation Row,['Dylan'],['Bob Johnston'],1965,Columbia,Non-single,Non-single,Highway 61 Revisited
+186,The Beatles,Please Please Me,"['John Lennon', 'Paul McCartney']",['George Martin'],1964,Vee-Jay,13,3,Please Please Me
+185,B.B. King,The Thrill is Gone,"['Roy Hawkins', 'Rick Darnell']",['Bill Szymczyk'],1969,BluesWay,14,15,Greatest Hits
+184,The Drifters,Save the Last Dance for Me,"['Doc Pomus', 'Mort Shuman']","['Jerry Leiber', 'Mike Stoller']",1960,Atlantic,18,1,The Drifters' Golden Hits
+183,Booker T. and the MG's,Green Onions,"['Booker T. Jones', 'Steve Cropper', 'Lewis Steinberg', 'Al Jackson']",['Jim Stewart'],1962,Stax,16,3,Green Onions
+182,OutKast,Hey Ya!,['André 3000'],['André 3000'],2003,LaFace,32,1,Speakerboxxx/The Love Below
+181,Joy Division,Love Will Tear Us Apart,"['Ian Curtis', 'Peter Hook', 'Stephen Morris', 'Bernard Sumner']",['Martin Hannett'],1980,Enigma,Did not chart,Did not chart,Substance 1977-1980
+180,Big Star,September Gurls,['Alex Chilton'],['Big Star'],1974,Ardent,Did not chart,Did not chart,Radio City
+179,Tom Petty,Free Fallin',"['Petty', 'Jeff Lynne']",['Lynne'],1989,MCA,21,7,Full Moon Fever
+178,The Beach Boys,Don't Worry Baby,"['Brian Wilson', 'Roger Christian']",['Wilson'],1964,Capitol,10,24,Sounds of Summer
+177,The Bobby Fuller Four,I Fought the Law,"['Sonny Curtis', 'Fuller']",['Bob Keane'],1966,Mustang,11,9,I Fought the Law: The Best of the Bobby Fuller Four
+176,The Rolling Stones,Paint it Black,"['Mick Jagger', 'Keith Richards']",['Andrew Loog Oldham'],1966,London,11,1,Aftermath
+175,The Sex Pistols,God Save the Queen,"['Johnny Rotten', 'Steve Jones', 'Glen Matlock', 'Paul Cook']",['Chris Thomas'],1977,Warner Bros.,Did not chart ,Did not chart ,"Never Mind the Bollocks, Here's the Sex Pistols"
+174,Abba,Dancing Queen,"['Benny Andersson', 'Björn Ulvaeus', 'Stig Anderson']","['Andersson', 'Ulvaeus']",1976,Atlantic,22,1,Arrival
+173,Aerosmith,Dream On,['Steven Tyler'],['Arian Barber'],1973,Columbia,9,59,Aerosmith
+172,Jay-Z,99 Problems,"['Jay-Z', 'Rick Rubin']",['Rubin'],2003,Roc-a-Fella,12,30,The Black Album
+171,Joni Mitchell,Both Sides Now,['Mitchell'],['Mitchell'],1969,Reprise,Did not chart,Did not chart,Clouds
+170,R.E.M.,Losing My Religion,"['Berry', 'Buck', 'Mills', 'Stipe']","['Scott Lift', 'R.E.M.']",1991,Warner Bros.,21,4,Out of Time
+169,The Temptations,Papa Was a Rollin' Stone,"['Norman Whitfield', 'Barrett Strong']",['Whitfield'],1972,Gordy,16,1,Anthology
+168,Marvin Gaye,Let's Get It On,"['Gaye', 'Ed Townsend']","['Gaye', 'Townsend']",1973,Tamla,14,1,Let's Get It On
+167,Tracy Chapman,Fast Car,['Chapman'],['David Kershenbaum'],1988,Elektra,21,6,Tracy Chapman
+166,Queen,Bohemian Rhapsody,['Freddie Mercury'],['Roy Thomas Baker'],1975,Elektra,24,9,A Night at the Opera
+165,Sinead O'Connor,Nothing Compares 2 U,['Prince'],"[""O'Connor"", 'Nellee Hooper']",1990,Ensign,21,1,I Do Not Want What I Haven't Got
+164,Ray Charles,I Can't Stop Loving You,['Don Gibson'],['Sid Feller'],1962,ABC-Paramount,18,1,Modern Sounds in Country and Western Music
+163,Johnny Cash,Folsom Prison Blues,['Cash'],['Sam Phillips'],1956,Sun,18,32,The Essential Johnny Cash
+162,Public Enemy,Bring the Noise,"['Carlton Ridenhour', 'Eric Sadler', 'Hank Shocklee']","['Rick Rubin', 'Carl Ryder']",1988,Def Jam,Did not chart,Did not chart,It Takes a Nation of Millions to Hold Us Back
+161,The Velvet Underground,I'm Waiting for the Man,['Lou Reed'],"['Andy Warhol', 'Tom Wilson']",1967,Verve,Non-single,Non-single,The Velvet Underground and Nico
+160,U2,Moment of Surrender,"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']","['Brian Eno', 'Daniel Lanois']",2009,Interscope,Non-single,Non-single,No Line on the Horizon
+159,Bill Haley and His Comets,(We're Gonna) Rock Around the Clock,"['Jimmy DeKnight', 'Max Freedman']",['Milt Gabler'],1954,Decca,24,1,The Best of Bill Haley and His Comets
+158,The Flamingos,I Only Have Eyes for You,['Harry Warren'],['George Goldner'],1959,End,13,11,The Best of the Flamingos
+157,Simon and Garfunkel,The Sounds of Silence,['Paul Simon'],['Tom Wilson'],1965,Columbia ,14,1,Sounds of Silence
+156,Creedence Clearwater Revival,Proud Mary,['John Fogerty'],['Fogerty'],1969,Fantasy,14,2,Bayou Country
+155,Buddy Holly and the Crickets,Rave On,"['Sonny West', 'Bill Tilghman', 'Norman Petty']",['Petty'],1958,Coral,10,37,Buddy Holly: Greatest Hits
+154,The Beatles,A Hard Day's Night,"['John Lennon', 'Paul McCartney']",['George Martin'],1964,Capitol,13,1,A Hard Day's Night
+153,The Jimi Hendrix Experience,Foxey Lady,['Hendrix'],['Chas Chandler'],1965,Reprise,4,67,Are You Experienced?
+152,The Penguins,Earth Angel,"['Jesse Belvin', 'Curtis Williams']",['Dootsie Williams'],1954,Dootone,15,8,Earth Angel
+151,The Byrds,Eight Miles High,"['Gene Clark', 'Roger McGuinn', 'David Crosby']",['Allen Stanton'],1966,Columbia,9,14,Fifth Dimension
+150,The Everly Brothers,Cathy's Clown,['Phil and Don Everly'],['Wesley Rose'],1960,Warner Bros. ,17,1,All-Time Original Hits
+149,Iggy Pop,Lust for Life,"['David Bowie', 'Pop']",['Bowie'],1977,RCA,Did not chart,Did not chart,Lust for Life
+148,Janis Joplin,Me and Bobby McGee,"['Kris Kristofferson', 'Fred Foster']",['Paul Rothchild'],1971,Columbia,15,1,Pearl
+147,The B-52's,Rock Lobster,"['Fred Schneider', 'Ricky Wilson']",['Chris Blackwell'],1979,Warner Bros.,8,56,The B-52'
+146,Sly and the Family Stone,Everyday People,['Sly Stone'],['Stone'],1968,Epic,19,1,Stand!
+145,Ramones,I Wanna Be Sedated,['Ramones'],"['Tommy Erdelyi', 'Ed Stasium']",1978,Sire,Did not chart,Did not chart,Road to Ruin
+144,Prince and the Revolution,Purple Rain,['Prince'],['Prince'],1984,Warner Bros.,16,2,Purple Rain
+143,James Brown and His Famous Flames,"Please, Please, Please","['Brown', 'Johnny Terry']",['Ralph Bass'],1956,Federal,2,95,50th Anniversary Collection
+142,The Everly Brothers,All I Have to Do Is Dream,['Boudleaux and Felice Bryant'],['Archie Bleyer'],1958,Cadence,11,21,All-Time Original Hits
+141,Led Zeppelin,Kashmir,"['John Bonham', 'Jimmy Page', 'Robert Plant']",['Page'],1975,Swan Song,Non-single,Non-single,Physical Graffiti
+140,The Beatles,I Saw Her Standing There,"['John Lennon', 'Paul McCartney']",['George Martin'],1964,Capitol,11,14,Please Please Me
+139,Sly and the Family Stone,Family Affair,['Sly Stone'],['Stone'],1971,Epic,14,1,There's a Riot Goin' On
+138,The Beatles,Eleanor Rigby,"['John Lennon', 'Paul McCartney']",['George Martin'],1966,Capitol,8,11,Revolver
+137,Elton John,Your Song,"['Bernie Taupin', 'John']",['Gus Dudgeon'],1970,Uni,14,8,Greatest Hits
+136,The Beatles,While My Guitar Gently Weeps,['George Harrison'],['George Martin'],1968,Apple,Non-single ,Non-single ,The Beatles
+135,Wilson Pickett,In the Midnight Hour,"['Pickett', 'Steve Cropper']","['Jerry Wexler', 'Jim Stewart']",1965,Atlantic,12,21,The Very Best of Wilson Pickett
+134,The Who,Won't Get Fooled Again,['Pete Townshend'],"['Glyn Johns', 'the Who']",1971,Decca,13,15,Who's Next
+133,Bo Diddley,Who Do You Love?,['Ellas McDaniel'],['Phil and Leonard Chess'],1957,Checker,Did not chart,Did not chart,His Best: The Chess 50th Anniversary Collection
+132,U2,With or Without You,"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']","['Brian Eno', 'Daniel Lanois ']",1987,Island,18,1,The Joshua Tree
+131,Rod Stewart,Maggie May,"['Stewart', 'Martin Quittenton']",['Stewart'],1971,Mercury,17,1,Every Picture Tells a Story
+130,Steppenwolf,Born to Be Wild,['Mars Bonfire'],['Gabriel Mekler'],1968,Dunhill ,13,2,Steppenwolf
+129,Chuck Berry,Rock & Roll Music,['Berry'],['Phil and Leonard Chess'],1957,Chess,19,8,Johnny B. Goode: His Complete '50s Chess Recordings
+128,David Bowie,Changes,['Bowie'],['Ken Scott'],1971,RCA,11,41,Hunky Dory
+127,Big Joe Turner,"Shake, Rattle & Roll",['Charles Calhoun'],"['Ahmet Ertegun', 'Jerry Wexler']",1954,Atlantic,Predates chart,Predates chart,The Very Best of Big Joe Turner
+126,The Shirelles,Will You Love Me Tomorrow,"['Gerry Goffin', 'Carole King']",['Luther Dixon'],1960,Scepter,19,1,Girl Group Greats
+125,The Rolling Stones,Jumpin' Jack Flash,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1968,London ,12,3,Forty Licks
+124,James Brown,It's A Man's Man's Man's World,"['Brown', 'Betty Jean Newsome']",['Brown'],1966,King ,9,8,50th Anniversary Collection
+123,The Animals,The House of the Rising Sun,['Alan Price'],['Mickie Most'],1964,MGM,11,1,The Best of the Animals
+122,Ben E. King,Stand By Me,"['King', 'Elmo Glick', 'Jerry Leiber', 'Mike Stoller']","['Leiber', 'Stoller']",1961,Atco,14,4,The Very Best of Ben E. King
+121,The Jackson 5,I Want You Back,"['Freddie Perren', 'Fonce Mizell', 'Deke Richards', 'Berry Gordy Jr.']","['Perren', 'Mizell', 'Richards', 'Gordy']",1969,Motown ,19,1,The Ultimate Collection
+120,Fleetwood Mac,Go Your Own Way,['Lindsey Buckingham'],"['Fleetwood Mac', 'Richard Dashut', 'Ken Caillat']",1977,Warner Bros. ,15,10,Rumours
+119,The Isley Brothers,Shout (Parts 1 and 2),"['Rudolph Isley', 'Ronald Isley', ""O'Kelly Isley""]","['Hugo Peretti', 'Luigi Creatore']",1959,RCA,11,47,"The Isley Brothers Story, Vol. 1: Rockin' Soul"
+118,Beyonce feat. Jay-Z,Crazy in Love,"['Rich Harrison', 'Beyonce', 'Jay-Z']","['Harrison', 'Beyonce']",2003,Columbia,27,1,Dangerously in Love
+117,Al Green,Take Me to the River,"['Green', 'Mabon Hodges']",['Willie Mitchell'],1974,Hi,Non-single,Non-single,Al Green Explores Your Mind
+116,The Rolling Stones,Honky Tonk Women,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1969,London ,15,1,Let It Bleed
+115,Sam Cooke,You Send Me,['Cooke'],"['Richard ""Bumps"" Blackwell']",1957,Keen,26,1,Greatest Hits
+114,The Drifters,Up on the Roof,"['Gerry Goffin', 'Carole King']","['Jerry Leiber', 'Mike Stoller']",1962,Atlantic,20,5,The Very Best of the Drifters
+113,Elvis Presley,That's All Right,['Arthur Crudup'],['Sam Phillips'],1954,Sun ,Did not chart,Did not chart,Sunrise
+112,Hank Williams,I'm So Lonesome I Could Cry,['Williams'],['Fred Rose'],1949,Sterling ,Did not chart,Did not chart,The Ultimate Collection
+111,Otis Redding,I've Been Loving You too Long (to Stop Now),"['Jerry Butler', 'Redding']","['Jim Stewart', 'Steve Cropper']",1965,Volt ,11,21,Otis Blue: Otis Redding Sings Soul
+110,Van Morrison,Brown Eyed Girl,['Morrison'],['Bert Berns'],1967,Bang ,16,10,Blowin' Your Mind
+109,Prince,Little Red Corvette,['Prince'],['Prince'],1983,Warner ,22,6,1999
+108,Buddy Holly and the Crickets,Not Fade Away,"['Holly', 'Norman Petty']",['Petty'],1957,Brunswick ,20,10,Greatest Hits
+107,Bob Dylan,Mr. Tambourine Man,['Dylan'],['Tom Wilson'],1965,Columbia ,Non-single,Non-single,Bringing it All Back Home
+106,Simon and Garfunkel,The Boxer,['Paul Simon'],"['Roy Halee', 'Simon', 'Art Garfunkel']",1969,Columbia ,10,7,Bridge Over Troubled Water
+105,Stevie Wonder,Living for the City,['Wonder'],['Wonder'],1973,Tamla ,17,8,Innervisions
+104,Donna Summer,Hot Stuff,"['Pete Bellotte', 'Harold Faltermeyer', 'Keith Forsey']","['Giorgio Moroder', 'Bellotte']",1979,Casablanca,21,1,Bad Girls
+103,Gene Vincent and His Blue Caps,Be-Bop-A-Lula,"['Vincent', 'Bill Davis']",['Ken Nelson'],1956,Capitol ,20,7,The Screaming End: The Best of Gene Vincent and His Blue Cap
+102,The Jimi Hendrix Experience,Voodoo Child (Slight Return),['Jimi Hendrix'],['Chas Chandler'],1968,Reprise,Non-single,Non-single,Electric Ladyland
+101,The Rolling Stones,You Can't Always Get What You Want,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1969,London,8,42,Let It Bleed
+100,Gnarls Barkley,Crazy,"['Brian Burton', 'Thomas Calloway', 'Gianfranco Reverberi', 'Gian Piero Reverberi']",['Danger Mouse'],2006,Downtown ,24,2,St. Elsewhere
+99,Creedence Clearwater Revival,Fortunate Son,['John Fogerty'],['Fogerty'],1969,Fantasy,14,14,Willy and the Poor Boys
+98,Al Green,Love and Happiness,"['Green', 'Mabon ""Teenie"" Hodges']",['Willie Mitchell'],1972,Hi,12,3,I'm Still in Love With You
+97,Chuck Berry,Roll Over Beethoven,['Berry'],['Leonard and Phil Chess'],1956,Chess,5,29,The Anthology
+96,Jerry Lee Lewis,Great Balls of Fire,"['Otis Blackwell', 'Jack Hammer']",['Sam Phillips'],1957,Sun,21,2,Original Sun Greatest Hits
+95,Carl Perkins,Blue Suede Shoes,['Perkins'],['Sam Phillips'],1956,Sun ,21,2,Original Sun Greatest Hits
+94,Little Richard,"Good Golly, Miss Molly","['Robert ""Bumps"" Blackwell', 'John Marascalco']",['Blackwell'],1958,Specialty ,15,10,The Georgia Peach
+93,U2,I Still Haven't Found What I'm Looking For,['Bono'],"['Daniel Lanois', 'Brian Eno']",1987,Island ,17,1,The Joshua Tree
+92,Ramones,Blitzkrieg Bop,[' The Ramones'],['Craig Leon'],1976,Sire,Did not chart,Did not chart,Ramones
+91,Elvis Presley,Suspicious Minds,['Mark James'],"['Chips Moman', 'Felton Jarvis', 'Presley']",1969,RCA,15,1,Elvis 30 #1 Hits
+90,The Five Satins,In the Still of the Night,['Fred Parris'],['The Five Satins'],1956,Standord ,19,24,The Five Satins: Their Greatest Hits
+89,The Mamas and the Papas,California Dreamin',['John and Michelle Phillips'],['Lou Adler'],1965,Dunhill ,17,4,If You Can Believe Your Eyes and Ears
+88,The Temptations,My Girl,"['Smokey Robinson', 'Ronald White']","['Robinson', 'White']",1965,Gordy ,13,1,The Temptations Sing Smokey
+87,Johnny Cash,Ring of Fire,"['June Carter', 'Merle Kilgore']",['Don Law'],1963,Columbia ,13,17,The Man in Black: His Greatest Hits
+86,Bruce Springsteen,Thunder Road,['Springsteen'],"['Springsteen', 'Jon Landau', 'Mike Appel']",1975,Columbia ,Non-single,Non-single,Born to Run
+85,Patsy Cline,Crazy,['Willie Nelson'],['Owen Bradley'],1961,Decca,11,9,Patsy Cline's Greatest Hits
+84,The Police,Every Breath You Take,['Sting'],['Hugh Padgham'],1983,A&M,22,1,Synchronicity
+83,The Beatles,Norwegian Wood (This Bird Has Flown),"['John Lennon', 'Paul McCartney']",['George Martin'],1965,Capitol ,Non-single,Non-single,Rubber Soul
+82,Fats Domino,Blueberry Hill,"['Al Lewis', 'Larry Stock', 'Vincent Rose']",['Dave Bartholomew'],1956,Imperial ,27,2,The Fats Domino Jukebox
+81,Marvin Gaye,I Heard It Through the Grapevine,"['Barrett Strong', 'Norman Whitfield']",['Whitfield'],1968,Tamla ,15,1,Every Motown Hit
+80,The Kinks,You Really Got Me,['Ray Davies'],['Shel Talmy'],1964,Reprise ,15,7,Kinks
+79,The Byrds,Mr. Tambourine Man,['Bob Dylan'],['Terry Melcher'],1965,Columbia ,13,1,Mr. Tambourine Man
+78,James Brown,I Got You (I Feel Good),['Brown'],['Brown'],1965,King ,12,3,James Brown 50th Anniversary Collection
+77,Elvis Presley,Mystery Train,"['Junior Parker', 'Sam Phillips']",['Phillips'],1955,Sun,Did not chart,Did not chart,Sunrise
+76,The Beatles,Strawberry Fields Forever,"['John Lennon', 'Paul McCartney']",['George Martin'],1967,Capitol,9,8,Magical Mystery Tour
+75,Led Zeppelin,Whole Lotta Love,"['Willie Dixon', 'Led Zeppelin']",['Jimmy Page'],1969,Atlantic ,15,4,Led Zeppelin II
+74,Eddie Cochran,Summertime Blues,"['Cochran', 'Jerry Capehart']",['Capehart'],1958,Liberty ,16,8,Somethin' Else
+73,Stevie Wonder,Superstition,['Wonder'],"['Wonder', 'Malcolm Cecil', 'Robert Margouleff']",1972,Tamla,16,1,Talking Book
+72,The Beach Boys,California Girls,"['Brian Wilson', 'Mike Love']",['Wilson'],1965,Capitol,11,3,The Very Best of the Beach Boys
+71,James Brown,Papa's Got A Brand New Bag,['Brown'],['Brown'],1966,King,13,8,50th Anniversary Collection
+70,Dionne Warwick,Walk On By,"['Burt Bacharach', 'Hal David']","['Bacharach', 'David']",1964,Scepter ,13,6,The Dionne Warwick Collection: Her All-Time Greatest Hits 
+69,Roy Orbison,Crying,"['Joe Melson', 'Orbison']",['Fred Foster'],1961,Monument,16,2,For the Lonely: 18 Greatest Hits
+68,Bob Dylan,Tangled Up in Blue,['Dylan'],['Dylan'],1975,Columbia ,7,31,Blood on the Tracks
+67,Elvis Presley,Jailhouse Rock,"['Jerry Leiber', 'Mike Stoller']",['Steve Sholes'],1957,RCA ,27,1,Elvis 30 #1 Hits
+66,Bob Marley and the Wailers,Redemption Song,['Marley'],['Chris Blackwell'],1980,Island ,Did not chart,Did not chart,Uprising
+65,Cream,Sunshine of Your Love,"['Jack Bruce', 'Pete Brown', 'Eric Clapton']",['Felix Pappalardi'],1968,Atco,26,5,Disraeli Gears
+64,The Beatles,She Loves You,"[' John Lennon', 'Paul McCartney ']",[' George Martin '],1963,Swan ,15,1,The Beatles 1
+63,Buffalo Springfield,For What It's Worth,['Stephen Stills'],"['Charles Greene', 'Brian Stone']",1967,Atco ,15,7,Buffalo Springfield
+62,Bo Diddley,Bo Diddley,['Ellas McDaniel'],['Phil and Leonard Chess'],1955,Checker ,Did not chart,Did not chart,His Best: The Chess 50th Anniversary Collection
+61,Jerry Lee Lewis,Whole Lotta Shakin' Going On,"['Dave Williams', 'Roy Hall']",['Jack Clement'],1957,Sun,29,3,Original Sun Greatest Hits
+60,Al Green,Let's Stay Together,"['Al Green', 'Al Jackson Jr.', 'Willie Mitchell']",['Mitchell'],1971,Hi ,16,1,Let's Stay Together
+59,Bob Dylan,The Times They Are A-Changin,['Dylan'],['Bob Johnston'],1964,Columbia, Did not chart , Did not chart ,The Times They Are A-Changin'
+58,Michael Jackson,Billie Jean,['Jackson'],"['Jackson', 'Quincy Jones']",1983,Epic ,7,1,Thriller
+57,Procol Harum,Whiter Shade of Pale,"['Keith Reid', 'Gary Brooker']",['Denny Cordell'],1967,A&M,12,5,Greatest Hits
+56,The Sex Pistols,Anarchy in the U.K.,"['Paul Cook', 'Steve Jones', 'Glen Matlock', 'Johnny Rotten']","['Chris Thomas', 'Bill Price']",1977,Warner Bros.,Non-single,Non-single,"Never Mind the Bollocks, Here's the Sex Pistols"
+55,Little Richard,Long Tall Sally,"['Robert ""Bumps"" Blackwell', 'Enotris Johnson', 'Little Richard']",['Blackwell'],1956,Specialty,19,6,The Georgia Peach
+54,The Kingsmen,Louie Louie,['Richard Berry'],['Ken Chase'],1963,Jerden ,16,2,The Best of the Kingsmen
+53,Percy Sledge,When a Man Loves a Woman,"['Calvin Lewis', 'Andrew Wright']","['Marlin Greene', 'Quin Ivy']",1966,Atlantic ,13,1,It Tears Me Up: The Best of Percy Sledge
+52,Prince,When Doves Cry,['Prince'],['Prince'],1984,Warner Bros. ,21,1,Purple Rain
+51,Grandmaster Flash and the Furious Five,The Message,"['Duke Bootee', 'Melle Mel']",['Sylvia Robinson'],1982,Sugar Hill,7,62,The Best of Sugar Hill Records
+50,Smokey Robinson and the Miracles,The Tracks of My Tears,"['Pete Moore', 'Robinson', 'Marv Tamplin']",['Robinson'],1965,Tamla,12,16,100 Greatest Singers of All Time: Smokey Robinson
+49,The Eagles,Hotel California,"['Don Felder', 'Glenn Frey', 'Don Henley']",['Bill Szymczyk'],1976,Asylum,19,1,Hotel California
+48,Simon and Garfunkel,Bridge Over Troubled Water,['Paul Simon'],"['Art Garfunkel', 'Roy Halee', 'Simon']",1970,Columbia,14,1,Bridge Over Troubled Water
+47,The Jimi Hendrix Experience,All Along the Watchtower,['Bob Dylan'],['Hendrix'],1968,Reprise,9,20,Electric Ladyland
+46,David Bowie,Heroes,"['Bowie', 'Brian Eno']",['Tony Visconti'],1977,RCA,Did not chart,Did not chart,Heroes
+45,Elvis Presley,Heartbreak Hotel,"['Mae Boren Axton', 'Tommy Durden', 'Presley']",['Steve Sholes'],1956,RCA,27,1,Elvis 30 #1 Hits
+44,Ray Charles,Georgia on My Mind,"['Hoagy Carmichael', 'Stuart Gorrell']",['Sid Feller'],1960,ABC-Paramount,13,1,Ultimate Hits Collection
+43,Little Richard,Tutti-Frutti,"['Dorothy La Bostrie', 'Richard Penniman', 'Joe Lubin']","['Robert ""Bumps"" Blackwell']",1955,Specialty,12,17,The Georgia Peach
+42,The Kinks,Waterloo Sunset,['Ray Davies'],['Ray Davies'],1968,Reprise,Did not chart,Did not chart,Something Else by the Kinks
+41,The Band,The Weight,['Robbie Robertson'],['John Simon'],1968,Capitol,7,63,Music From Big Pink
+40,Martha Reeves and the Vandellas,Dancing in the Street,"['Marvin Gaye', 'Ivy Hunter', 'William ""Mickey"" Stevenson']",['Stevenson'],1964,,14,2,The Ultimate Collection
+39,Buddy Holly and the Crickets,That'll Be the Day,"['Jerry Allison', 'Holly', 'Norman Petty']",['Petty'],1957,Brunswick,1,1,100 Greatest Artists of All Time: Buddy Holly
+38,The Rolling Stones,Gimme Shelter,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1969,London,11,21,Let It Bleed
+37,Bob Marley,"No Woman, No Cry","[' Vincent Ford', 'Marley']","['Chris Blackwell', 'Marley and the Wailers']",1975,Island,Did not chart,Did not chart,Natty Dread
+36,U2,One,"['Bono', 'the Edge', 'Adam Clayton', 'Larry Mullen Jr.']","['Brian Eno', 'Daniel Lanois']",1991,Island,20,10,Achtung Baby
+35,The Doors,Light My Fire,"['Robby Krieger', 'John Densmore', 'Jim Morrison', 'Ray Manzarek']",['Paul Rothchild'],1967,Elektra ,17,1,The Doors
+34,The Righteous Brothers,You've Lost That Lovin' Feelin',"['Phil Spector', 'Barry Mann', 'Cynthia Weil']",['Spector'],1964,Philles ,16,1,The Righteous Brothers Photos
+33,Ike and Tina Turner,River Deep - Mountain High,"['Phil Spector', 'Jeff Barry', 'Ellie Greenwich']",['Spector'],1966,Philles,4,88,Proud Mary: The Best of Ike and Tina Turner
+32,The Rolling Stones,Sympathy for the Devil,"['Mick Jagger', 'Keith Richards']",['Jimmy Miller'],1968,London ,Non-single,Non-single,Beggar's Banquet
+31,Led Zeppelin,Stairway to Heaven,"['Jimmy Page', 'Robert Plant']",['Page'],1971,Atlantic,Non-single,Non-single,Led Zeppelin IV
+30,Johnny Cash,I Walk the Line,['Cash'],['Sam Phillips'],1956,Sun,22,17,The Complete Original Sun Singles
+29,The Beatles,Help!,"['John Lennon', 'Paul McCartney']",['George Martin'],1965,Capitol,13,1,Help!
+28,The Beatles,A Day in the Life,"['John Lennon', 'Paul McCartney']",['George Martin'],1967,Capitol,Non-single ,Non-single ,Sgt. Pepper's Lonely Hearts Club Band
+27,Derek and the Dominos,Layla,"['Eric Clapton', 'Jim Gordon']","['Tom Dowd', 'the Dominos']",1970,Atco,15,10,Layla and Other Assorted Love Songs
+26,Otis Redding,(Sittin' on) the Dock of the Bay,"['Redding', 'Steve Cropper']",['Cropper'],1968,Volt,16,1,The Dock of the Bay
+25,The Beach Boys,God Only Knows,"['Brian Wilson', 'Tony Asher']",['Wilson'],1966,Capitol,8,39,Pet Sounds
+24,The Impressions,People Get Ready,['Curtis Mayfield'],['Johnny Pate'],1965,ABC-Paramount,8,14,The Very Best of the Impressions
+23,The Beatles,In My Life,"['John Lennon', 'Paul McCartney']",['George Martin'],1965,Capitol,Non-single ,Non-single ,Rubber Soul
+22,The Ronettes,Be My Baby,"['Jeff Barry', 'Ellie Greenwich', 'Phil Spector']",['Spector'],1963, ,13,2,The Best of the Ronettes
+21,Bruce Springsteen,Born to Run,['Springsteen'],"['Springsteen', 'Mike Appel']",1975,Columbia ,11,23,Born to Run
+20,The Beatles,Let It Be,"['John Lennon', 'Paul McCartney']",['George Martin'],1970,Apple ,14,1,Let It Be
+19,Elvis Presley,Hound Dog,"['Jerry Leiber', 'Mike Stoller']",['Steve Sholes'],1956,RCA ,28,1,Elvis 30 #1 Hits
+18,Chuck Berry,Maybellene,['Berry'],['Leonard and Phil Chess'],1955,Chess ,11,5,The Anthology
+17,The Jimi Hendrix Experience,Purple Haze,['Hendrix'],['Chas Chandler'],1967,Reprise ,8,65,Are You Experienced?
+16,The Beatles,I Want to Hold Your Hand,"['John Lennon', 'Paul McCartney']",['George Martin'],1963,Capitol ,15,1,Meet the Beatles!
+15,The Clash,London Calling,"['Mick Jones', 'Joe Strummer']",['Guy Stevens'],1980,Epic ,Did not chart,Did not chart,London Calling
+14,Bob Dylan,Blowin' in the Wind,['Dylan'],['John Hammond'],1963,Columbia ,Did not chart,Did not chart,The Freewheelin' Bob Dylan
+13,The Beatles,Yesterday,"['John Lennon', 'Paul McCartney']",['George Martin'],1965,Capitol ,11,1,Help!
+12,Sam Cooke,A Change Is Gonna Come,['Cooke'],"['Hugo Peretti', 'Luigi Creatore']",1964,RCA ,7,31,Portrait of a Legend 1951-1964
+11,The Who,My Generation,['Pete Townshend'],['Shel Talmy'],1965,Decca,5,74,My Generation
+10,Ray Charles,What'd I Say,['Charles'],"['Ahmet Ertegun', 'Jerry Wexler']",1959,Atlantic ,15,6,The Ultimate Hits Collection
+9,Nirvana,Smells Like Teen Spirit,['Kurt Cobain'],['Butch Vig'],1991,DGC ,20,6,The 100 Greatest Artists of All Time: Nirvana
+8,The Beatles,Hey Jude,"['John Lennon', 'Paul McCartney']",['George Martin'],1968,Apple ,19,1,1
+7,Chuck Berry,Johnny B. Goode,['Chuck Berry'],['Leonard and Phil Chess'],1958,Chess,15,8,The 100 Greatest Singers of All Time: Chuck Berry
+6,The Beach Boys,Good Vibrations,"['Brian Wilson', 'Mike Love']",['Wilson'],1966,Capitol ,14,1,The 100 Greatest Artists of All Time: The Beach Boys
+5,Aretha Franklin,Respect,['Otis Redding'],['Jerry Wexler'],1967,Atlantic ,12,1,I Never Loved a Man the Way I Love You
+4,Marvin Gaye,What's Going On,"['Gaye', 'Renaldo Benson', 'Al Cleveland']",['Gaye '],1971,Tamla ,13,2,What's Going On
+3,John Lennon,Imagine,['John Lennon'],"['Lennon', 'Phil Spector', 'Yoko Ono']",1971,Apple ,9,3,Imagine
+2,The Rolling Stones,(I Can't Get No) Satisfaction,"[' Mick Jagger', 'Keith Richards']",['Andrew Loog Oldham'],1965,London,14,1,Out of Our Heads
+1,Bob Dylan,Like a Rolling Stone,['Dylan'],['Tom Wilson '],1965,Columbia,12,2,Bob Dylan at 70

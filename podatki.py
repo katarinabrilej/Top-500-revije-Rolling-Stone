@@ -1,124 +1,213 @@
-import csv
-import json
-import os
 import re
-import sys
-
-import requests
-
-
-def pripravi_imenik(ime_datoteke):
-    '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
-    imenik = os.path.dirname(ime_datoteke)
-    if imenik:
-        os.makedirs(imenik, exist_ok=True)
+import orodja
+import uredi_imena
 
 
-def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
-    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
-    try:
-        print('Shranjujem {} ...'.format(url), end='')
-        sys.stdout.flush()
-        if os.path.isfile(ime_datoteke) and not vsili_prenos:
-            print('shranjeno že od prej!')
-            return
-        r = requests.get(url)
-    except requests.exceptions.ConnectionError:
-        print('stran ne obstaja!')
-    else:
-        pripravi_imenik(ime_datoteke)
-        with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
-            datoteka.write(r.text)
-            print('shranjeno!')
+vzorec_bloka = re.compile(
+    r'id="list-item.*?'
+    r'</article><!-- .c-list__item -->',
+    flags=re.DOTALL
+)
 
+vzorec_skladbe = re.compile(
+    r'data-list-item="(?P<id>\d+)".*?'
+    r'data-list-title="(?P<izvajalec>.*?), (I)?&(#8216;)?(#8217;)?.*?'
+    r'(?P<naslov>.*?)(&#8217;)?".*?data-list-permalink="https://www.rollingstone..*?'
+    r'Writer(s)?:( )?(</strong>)?(&#xA0;</strong>)?(</a>)?(?P<avtor>.*?)(<strong>)?(<span>&#xA0;</span>)?<br.*?'
+    r'Producer(s)?(:)?(&#xA0;)?(</strong>)?( </strong>)?(:)?(?P<producent>.*?)(<strong>)?(<b.*?)?( )?Released.*?'
+    r'(&apos;)?(&#8217;)?(&#x2019;)?(?P<leto>\d{2,4})(,)?(?P<zalozba>.*?)</p>.*?',
+    flags = re.DOTALL
+)
 
-def vsebina_datoteke(ime_datoteke):
-    '''Vrne niz z vsebino datoteke z danim imenom.'''
-    with open(ime_datoteke, encoding='utf-8') as datoteka:
-        return datoteka.read()
+vzorec_avtor2 = re.compile(
+    r'.*?>(?P<avtor2>.*?)</a>.*?',
+    flags = re.DOTALL
+)
 
+vzorec_producent2 = re.compile(
+    r'</strong>(?P<producent2>.*)',
+    flags = re.DOTALL
+)
 
-def zapisi_csv(slovarji, imena_polj, ime_datoteke):
-    '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
-        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
-        writer.writeheader()
-        for slovar in slovarji:
-            writer.writerow(slovar)
+vzorec_zalozba_billboard = re.compile(
+    r'(?P<zalozba2>.*?)(<strong>)?<br />(</strong>)?(?P<billboard>.*)',
+    flags = re.DOTALL
+)
 
+vzorec_billboard_p = re.compile(
+    r'Released:.*?</p>.*?<p>(?P<tedni_p>\d{1,2}).*?week(s)?.*?No..*?(?P<mesto_p>\d{1,2})</p>',
+    flags = re.DOTALL
+)
 
-def zapisi_json(objekt, ime_datoteke):
-    '''Iz danega objekta ustvari JSON datoteko.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
-        json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
-
-
-vzorec = re.compile(
-    r'data-list-item="(?P<mesto>\d+)".*?'
-    r'data-list-title="(?P<avtor>.*?), (I)?&(#8216;)?(#8217;)?(?P<naslov>.*?)(&#8217;)?".*?data-list-permalink="https://www.rollingstone..*?'
-    r'Producer(s)?(:)?(&#xA0;)?(</strong>)?( </strong>)?(:)?(?P<producent>.*?)(<.*?)?( )?Released:.*?'
-    r'(&apos;)?(&#8217;)?(&#x2019;)?(?P<leto>\d{2,4})(,)?(?P<zalozba>.*?)</p>.*?'
-    #<br />.*?(?P<tedni>\d{1,2}).*?
-    r'Appears on:.*?<em>(<a  href=)?.*?>(?P<album>.*?)(</a>)?</em>.*?',
-
-    
-
-
-    
-    #r'href="/title/tt(?P<id>\d+)/\?ref_=adv_li_tt"[^>]*?'
-    #r'>(?P<naslov>.+?)</a>.*?'
-    #r'lister-item-year text-muted unbold">.*?\((?P<leto>\d{4})\)</span>.*?'
-    #r'runtime">(?P<dolzina>\d+?) min</.*?'
-    #r'<strong>(?P<ocena>.+?)</strong>.*?'
-    #r'<p class="text-muted">(?P<opis>.+?)<.*?',
-    re.DOTALL
+vzorec_tedni_dnevi = re.compile(
+    r'.*?(?P<tedni>\d{1,2}).*?(?P<mesto>\d{1,2}).*?',
+    flags = re.DOTALL
 )
 
 
-def izloci_podatke_skladbe(ujemanje_skladbe):
-    podatki_skladbe = ujemanje_skladbe.groupdict()
-    podatki_skladbe['mesto'] = int(podatki_skladbe['mesto'])
-    podatki_skladbe['avtor'] = podatki_skladbe['avtor'].replace('&#8217;',"'")
-    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8217;',"'")
-    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8216;',"'")
-    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8221;',"'")
-    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&#8211;',"-")
-    podatki_skladbe['naslov'] = podatki_skladbe['naslov'].replace('&amp;',"&")
-    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&#xA0;',"").strip()
-    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&quot;','"')
-    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&#xE9;','é')
-    podatki_skladbe['producent'] = podatki_skladbe['producent'].replace('&apos;',"'")
-    podatki_skladbe['zalozba'] = podatki_skladbe['zalozba'].replace('&amp;',"&")
-    podatki_skladbe['zalozba'] = podatki_skladbe['zalozba'].replace('&#xA0;',"").strip()
+vzorec_album = re.compile(
+    r'Appears on(:)?.*?(</strong>)?.*?( <em>)?(?P<album>.*?)(\()?(</em>|</a>).*?',
+    flags = re.DOTALL
+)
+
+vzorec_album2 = re.compile(
+    r'.*? >(?P<album2>.*)',
+    flags = re.DOTALL
+)
+
+vzorec_album3 = re.compile(
+    r'.*?(</strong>)?<em>(?P<album3>.*)(</strong>)?',
+    flags = re.DOTALL
+)
+
+vzorec_album_EP = re.compile(
+    r'(<strong>)?(<em>)?(?P<album_EP>.*)(|</strong>)',
+    flags = re.DOTALL
+)
+
+vzorec_blondie = re.compile(
+    r'The 500 Greatest Albums of All Time.*?<em>(?P<album_blondie>.*)</em></a></p>.*?',
+    flags = re.DOTALL
+)
 
 
-    #podatki_skladbe['leto'] = int(podatki_skladbe['leto'])
-    #podatki_skladbe['opis'] = podatki_skladbe['opis'].strip()
-    #podatki_skladbe['dolzina'] = int(podatki_skladbe['dolzina'])
-    #podatki_skladbe['ocena'] = float(podatki_skladbe['ocena'].replace(',', '.'))
-    return podatki_skladbe
+
+def uredi_kodiranje(slovar):
+    for key, value in slovar.items():
+        slovar[key] = slovar[key].strip()
+        slovar[key] = slovar[key].replace('&#8217;',"'")
+        slovar[key] = slovar[key].replace('&#8216;',"'")
+        slovar[key] = slovar[key].replace('&#8221;',"'")
+        slovar[key] = slovar[key].replace('&#8211;',"-")
+        slovar[key] = slovar[key].replace('&#xA0;'," ")
+        slovar[key] = slovar[key].replace('&quot;','"')
+        slovar[key] = slovar[key].replace('&apos;',"'")
+        slovar[key] = slovar[key].replace('&#x2019;',"'")
+        slovar[key] = slovar[key].replace('&#xE9;','é')
+        slovar[key] = slovar[key].replace('&#xF6;','ö')
+        slovar[key] = slovar[key].replace('&amp;',"&")
+        slovar[key] = slovar[key].replace('&#x2026;',"…")
+        slovar[key] = slovar[key].replace('</strong>',"")
+    return slovar
+    
+
+def izloci_podatke_skladbe(blok):
+    skladba = vzorec_skladbe.search(blok).groupdict()
+    uredi_kodiranje(skladba)
+    skladba['id'] = int(skladba['id'])
+
+    avtor2 = vzorec_avtor2.search(skladba['avtor'])
+    if avtor2:
+        skladba['avtor'] = avtor2['avtor2']
+    skladba['avtor']  = skladba['avtor'].split(', ')
 
 
-#for i in range(1, 11):
-#    url = (
-#        'https://www.rollingstone.com/music/music-lists/'
-#        '500-greatest-songs-of-all-time-151127/'
-#        '?list_page={}'     
-#    ).format(i)
-#    shrani_spletno_stran(url, 'zajeti-podatki/top-skladbe-{}.html'.format(i))
+    producent2 = vzorec_producent2.search(skladba['producent'])
+    if producent2:
+        skladba['producent'] = producent2['producent2']
+    producent3 = vzorec_avtor2.search(skladba['producent'])
+    if producent3:
+        skladba['producent'] = producent3['avtor2']
+    skladba['producent']  = skladba['producent'].split(', ')
+
+    skladba['leto'] = int(skladba['leto'])
+    if skladba['leto'] < 10:
+        skladba['leto'] = skladba['leto'] + 2000
+    if skladba['leto'] < 100:
+        skladba['leto'] = skladba['leto'] + 1900
+            
+
+    zalozba_billboard = vzorec_zalozba_billboard.search(skladba['zalozba'])
+    billboard_p = vzorec_billboard_p.search(blok)
+    if zalozba_billboard:
+        skladba['zalozba'] = zalozba_billboard['zalozba2']
+        if skladba['zalozba'] == "":
+            skladba['zalozba'] = None
+        tedni_dnevi = vzorec_tedni_dnevi.search(zalozba_billboard['billboard'])
+        if tedni_dnevi:
+            skladba['tedni'] = tedni_dnevi['tedni']
+            skladba['mesto'] = tedni_dnevi['mesto']
+        else:
+            skladba['tedni'] = zalozba_billboard['billboard']
+            skladba['mesto'] = zalozba_billboard['billboard']
+    else:
+        skladba['tedni'] = None
+        skladba['mesto'] = None
+        if billboard_p:
+            skladba['tedni']  = billboard_p['tedni_p']
+            skladba['mesto']  = billboard_p['mesto_p']
+        else:
+            skladba['tedni'] = None
+            skladba['mesto'] = None
+    
+    album = vzorec_album.search(blok).groupdict()
+    uredi_kodiranje(album)
+    skladba['album'] = album['album']
+    album2 = vzorec_album2.search(skladba['album'])
+    album3 = vzorec_album3.search(skladba['album'])
+    if album2:
+        skladba['album'] = album2['album2'].strip()
+        album_EP = vzorec_album_EP.search(album2['album2'])
+        if album_EP:
+            skladba['album'] = album_EP['album_EP'].strip()
+
+    else:
+        if album3:
+            skladba['album'] = album3['album3'].strip()
+    if skladba['album'] == "<em>":
+        album_blondie = vzorec_blondie.search(blok)
+        if album_blondie:
+            skladba['album'] = album_blondie['album_blondie']
+        
+
+    return skladba
+
+def skladbe_na_strani(st_strani):
+    url = (
+        'https://www.rollingstone.com/music/music-lists/'
+        '500-greatest-songs-of-all-time-151127/'
+        '?list_page={}'     
+    ).format(st_strani)
+    ime_datoteke = 'zajeti-podatki/top-skladbe-{}.html'.format(
+        st_strani)
+    #orodja.shrani_spletno_stran(url, ime_datoteke)
+    vsebina = orodja.vsebina_datoteke(ime_datoteke)
+    for blok in vzorec_bloka.finditer(vsebina):
+        yield izloci_podatke_skladbe(blok.group(0))
+
+def izloci_gnezdene_podatke(skladbe):
+    avtorji, producenti = [], []
+
+    for skladba in skladbe:
+        for producent in skladba.pop('producent'):
+            if producent in skladba['izvajalec']:
+                if producent in uredi_imena.slovar.keys():
+                    producent = producent.replace(producent, uredi_imena.slovar[producent])
+            for a in skladba['avtor']:
+                if producent in a:
+                    if producent in uredi_imena.slovar2.keys():
+                        producent = producent.replace(producent, uredi_imena.slovar2[producent])
+            producenti.append(
+                    {'skladba': skladba['id'], 'producent': producent})
+
+        for avtor in skladba.pop('avtor'):
+            if avtor in skladba['izvajalec']:
+                if avtor in uredi_imena.slovar.keys():
+                    avtor = avtor.replace(avtor, uredi_imena.slovar[avtor])
+            avtorji.append({'skladba': skladba['id'], 'avtor': avtor})
+            
+    return avtorji, producenti
 
 
-podatki_skladb = []
-for i in range(1, 11):
-    vsebina = vsebina_datoteke(
-        'zajeti-podatki/top-skladbe-{}.html'.format(i))
-    for ujemanje_skladbe in vzorec.finditer(vsebina):
-        #print(podatki_skladb)
-        podatki_skladb.append(izloci_podatke_skladbe(ujemanje_skladbe))
-zapisi_json(podatki_skladb, 'obdelani-podatki/vse-skladbe.json')
-zapisi_csv(podatki_skladb, ["mesto","avtor","naslov","producent","leto","zalozba","album"], 'obdelani-podatki/vse-skladbe.csv')
+skladbe = []
+for st_strani in range(1, 11):
+    for skladba in skladbe_na_strani(st_strani):
+        skladbe.append(skladba)
+orodja.zapisi_json(skladbe, 'obdelani-podatki/skladbe.json')
+orodja.zapisi_csv(skladbe, ["id","izvajalec","naslov","avtor","producent","leto","zalozba","tedni","mesto","album"], 'obdelani-podatki/skladbe.csv')
+avtorji, producenti = izloci_gnezdene_podatke(skladbe)
+orodja.zapisi_csv(avtorji, ['skladba', 'avtor'], 'obdelani-podatki/avtorji.csv')
+orodja.zapisi_csv(producenti, ['skladba', 'producent'], 'obdelani-podatki/producenti.csv')
+print(len(skladbe))
 
-print(len(podatki_skladb))
 
