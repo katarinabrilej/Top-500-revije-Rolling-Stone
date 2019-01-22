@@ -17,6 +17,9 @@ Za vsako skladbo bom pridobila naslednje podatke:
 * album
 * založba
 
+(postopek je v datoteki podatki.py, shranjene strani v mapi zajeti-podatki,
+tabele pa v mapi obdelani-podatki)
+
 Delovne hipoteze:
 * Ali sta najvšje mesto in število tednov na lestvici Billboard hot 100 povezani?
 * Ali so pesmi enakomerne porazdeljene po desetletjih?
