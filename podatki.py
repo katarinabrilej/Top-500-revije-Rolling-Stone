@@ -107,7 +107,7 @@ def izloci_podatke_skladbe(blok):
         skladba['producent'] = producent2['producent2']
     producent3 = vzorec_avtor2.search(skladba['producent'])
     if producent3:
-        skladba['producent'] = producent3['avtor2']
+        skladba['producent'] = producent3['avtor2'].strip()
     skladba['producent']  = skladba['producent'].split(', ')
 
     skladba['leto'] = int(skladba['leto'])
@@ -120,16 +120,18 @@ def izloci_podatke_skladbe(blok):
     zalozba_billboard = vzorec_zalozba_billboard.search(skladba['zalozba'])
     billboard_p = vzorec_billboard_p.search(blok)
     if zalozba_billboard:
-        skladba['zalozba'] = zalozba_billboard['zalozba2']
+        skladba['zalozba'] = zalozba_billboard['zalozba2'].strip()
         if skladba['zalozba'] == "":
             skladba['zalozba'] = None
         tedni_dnevi = vzorec_tedni_dnevi.search(zalozba_billboard['billboard'])
         if tedni_dnevi:
-            skladba['tedni'] = tedni_dnevi['tedni']
-            skladba['mesto'] = tedni_dnevi['mesto']
+            skladba['tedni'] = int(tedni_dnevi['tedni'])
+            skladba['mesto'] = int(tedni_dnevi['mesto'].strip())
         else:
-            skladba['tedni'] = zalozba_billboard['billboard']
-            skladba['mesto'] = zalozba_billboard['billboard']
+            #skladba['tedni'] = zalozba_billboard['billboard']
+            #skladba['mesto'] = zalozba_billboard['billboard'].strip()
+            skladba['tedni'] = None
+            skladba['mesto'] = None
     else:
         skladba['tedni'] = None
         skladba['mesto'] = None
@@ -157,9 +159,8 @@ def izloci_podatke_skladbe(blok):
     if skladba['album'] == "<em>":
         album_blondie = vzorec_blondie.search(blok)
         if album_blondie:
-            skladba['album'] = album_blondie['album_blondie']
+            skladba['album'] = album_blondie['album_blondie']  
         
-
     return skladba
 
 def skladbe_na_strani(st_strani):
@@ -187,6 +188,7 @@ def izloci_gnezdene_podatke(skladbe):
                 if producent in a:
                     if producent in uredi_imena.slovar2.keys():
                         producent = producent.replace(producent, uredi_imena.slovar2[producent])
+                        producent = producent.strip()
             producenti.append(
                     {'skladba': skladba['id'], 'producent': producent})
 

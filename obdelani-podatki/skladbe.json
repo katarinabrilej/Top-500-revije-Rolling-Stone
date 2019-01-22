@@ -11,9 +11,9 @@
             "Gordy"
         ],
         "leto": 1960,
-        "zalozba": "Tamla ",
-        "tedni": "16",
-        "mesto": "2",
+        "zalozba": "Tamla",
+        "tedni": 16,
+        "mesto": 2,
         "album": "The Ultimate Collection"
     },
     {
@@ -27,9 +27,9 @@
             "Ric Ocasek"
         ],
         "leto": 1994,
-        "zalozba": "DGC ",
-        "tedni": "21",
-        "mesto": "18",
+        "zalozba": "DGC",
+        "tedni": 21,
+        "mesto": 18,
         "album": "Weezer"
     },
     {
@@ -44,9 +44,9 @@
             "The Glimmer Twins"
         ],
         "leto": 1978,
-        "zalozba": "Rolling Stones ",
-        "tedni": "20",
-        "mesto": "1",
+        "zalozba": "Rolling Stones",
+        "tedni": 20,
+        "mesto": 1,
         "album": "Some Girls"
     },
     {
@@ -60,9 +60,9 @@
             "Brendan O'Brien"
         ],
         "leto": 2002,
-        "zalozba": "Columbia ",
-        "tedni": "11",
-        "mesto": "52",
+        "zalozba": "Columbia",
+        "tedni": 11,
+        "mesto": 52,
         "album": "The Rising"
     },
     {
@@ -76,9 +76,9 @@
             "Browne"
         ],
         "leto": 1977,
-        "zalozba": "Asylum ",
-        "tedni": "17",
-        "mesto": "11",
+        "zalozba": "Asylum",
+        "tedni": 17,
+        "mesto": 11,
         "album": "Running on Empty"
     },
     {
@@ -93,9 +93,9 @@
             "Jimmy Miller"
         ],
         "leto": 1971,
-        "zalozba": "Rolling Stones ",
-        "tedni": "12",
-        "mesto": "1",
+        "zalozba": "Rolling Stones",
+        "tedni": 12,
+        "mesto": 1,
         "album": "Sticky Fingers"
     },
     {
@@ -109,9 +109,9 @@
             "Kelly"
         ],
         "leto": 2002,
-        "zalozba": "Jive ",
-        "tedni": "42",
-        "mesto": "2",
+        "zalozba": "Jive",
+        "tedni": 42,
+        "mesto": 2,
         "album": "Chocolate Factory"
     },
     {
@@ -126,9 +126,9 @@
             "Dave Fridmann"
         ],
         "leto": 2008,
-        "zalozba": "Columbia ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Columbia",
+        "tedni": null,
+        "mesto": null,
         "album": "Oracular Spectacular"
     },
     {
@@ -144,9 +144,9 @@
             "Perren"
         ],
         "leto": 1978,
-        "zalozba": "Polydor ",
-        "tedni": "27",
-        "mesto": "1",
+        "zalozba": "Polydor",
+        "tedni": 27,
+        "mesto": 1,
         "album": "I Will Survive: The Anthology"
     },
     {
@@ -162,9 +162,9 @@
             "Kenny Laguna"
         ],
         "leto": 1982,
-        "zalozba": "Boardwalk ",
-        "tedni": "20",
-        "mesto": "1",
+        "zalozba": "Boardwalk",
+        "tedni": 20,
+        "mesto": 1,
         "album": "I Love Rock 'N Roll"
     },
     {
@@ -179,9 +179,9 @@
             "Mark Phythian"
         ],
         "leto": 2002,
-        "zalozba": "Capitol ",
-        "tedni": "22",
-        "mesto": "29",
+        "zalozba": "Capitol",
+        "tedni": 22,
+        "mesto": 29,
         "album": "A Rush of Blood to the Head"
     },
     {
@@ -196,9 +196,9 @@
             "Bert Berns"
         ],
         "leto": 1964,
-        "zalozba": "Atlantic ",
-        "tedni": "33",
-        "mesto": "4",
+        "zalozba": "Atlantic",
+        "tedni": 33,
+        "mesto": 4,
         "album": "The Very Best of the Drifters"
     },
     {
@@ -217,9 +217,9 @@
             "Smith"
         ],
         "leto": 1987,
-        "zalozba": "Elektra   ",
-        "tedni": "19",
-        "mesto": "40",
+        "zalozba": "Elektra",
+        "tedni": 19,
+        "mesto": 40,
         "album": "Kiss Me, Kiss Me, Kiss Me"
     },
     {
@@ -238,9 +238,9 @@
             "Jack Richardson"
         ],
         "leto": 1971,
-        "zalozba": "Warner Bros. ",
-        "tedni": "13",
-        "mesto": "21",
+        "zalozba": "Warner Bros.",
+        "tedni": 13,
+        "mesto": 21,
         "album": "Love It to Death"
     },
     {
@@ -254,9 +254,9 @@
             "Tony Visconti"
         ],
         "leto": 1975,
-        "zalozba": "RCA ",
-        "tedni": "11",
-        "mesto": "28",
+        "zalozba": "RCA",
+        "tedni": 11,
+        "mesto": 28,
         "album": "Young Americans"
     },
     {
@@ -271,9 +271,9 @@
             "Allen Toussaint"
         ],
         "leto": 1975,
-        "zalozba": "Epic ",
-        "tedni": "18",
-        "mesto": "1",
+        "zalozba": "Epic",
+        "tedni": 18,
+        "mesto": 1,
         "album": "Nightbirds"
     },
     {
@@ -289,9 +289,9 @@
             "Timbaland"
         ],
         "leto": 2002,
-        "zalozba": "Jive ",
-        "tedni": "20",
-        "mesto": "3",
+        "zalozba": "Jive",
+        "tedni": 20,
+        "mesto": 3,
         "album": "Justified"
     },
     {
@@ -305,9 +305,9 @@
             "Rick Jarrard"
         ],
         "leto": 1967,
-        "zalozba": "RCA ",
-        "tedni": "10",
-        "mesto": "8",
+        "zalozba": "RCA",
+        "tedni": 10,
+        "mesto": 8,
         "album": "Surrealistic Pillow"
     },
     {
@@ -323,9 +323,9 @@
             "Martin"
         ],
         "leto": 2004,
-        "zalozba": "RCA ",
-        "tedni": "46",
-        "mesto": "2",
+        "zalozba": "RCA",
+        "tedni": 46,
+        "mesto": 2,
         "album": "Breakaway"
     },
     {
@@ -340,9 +340,9 @@
             "James"
         ],
         "leto": 1981,
-        "zalozba": "Gordy ",
-        "tedni": "24",
-        "mesto": "16",
+        "zalozba": "Gordy",
+        "tedni": 24,
+        "mesto": 16,
         "album": "Street Songs"
     },
     {
@@ -357,9 +357,9 @@
             "Mario Caldato Jr."
         ],
         "leto": 1994,
-        "zalozba": "Grand Royal ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Grand Royal",
+        "tedni": null,
+        "mesto": null,
         "album": "Ill Communication"
     },
     {
@@ -374,9 +374,9 @@
             "Alex Sadkin"
         ],
         "leto": 1984,
-        "zalozba": "Atlantic ",
-        "tedni": "21",
-        "mesto": "1",
+        "zalozba": "Atlantic",
+        "tedni": 21,
+        "mesto": 1,
         "album": "Agent Provocateur"
     },
     {
@@ -390,9 +390,9 @@
             "Gordon Raphael"
         ],
         "leto": 2001,
-        "zalozba": "RCA ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "RCA",
+        "tedni": null,
+        "mesto": null,
         "album": "Is This It"
     },
     {
@@ -407,9 +407,9 @@
             "John Porter"
         ],
         "leto": 1985,
-        "zalozba": "Sire  ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Sire",
+        "tedni": null,
+        "mesto": null,
         "album": "Meat Is Murder"
     },
     {
@@ -424,9 +424,9 @@
             "Jerry Wexler"
         ],
         "leto": 1967,
-        "zalozba": "Atlantic ",
-        "tedni": "11",
-        "mesto": "9",
+        "zalozba": "Atlantic",
+        "tedni": 11,
+        "mesto": 9,
         "album": "I Never Loved a Man the Way I Love You"
     },
     {
@@ -443,9 +443,9 @@
             "Dozier"
         ],
         "leto": 1964,
-        "zalozba": "Motown  ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Motown",
+        "tedni": 14,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -459,9 +459,9 @@
             "Morrison"
         ],
         "leto": 1970,
-        "zalozba": "Warner Bros. ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Warner Bros.",
+        "tedni": null,
+        "mesto": null,
         "album": "Moondance"
     },
     {
@@ -475,9 +475,9 @@
             "Mike Clink"
         ],
         "leto": 1987,
-        "zalozba": "Geffen  ",
-        "tedni": "17",
-        "mesto": "7",
+        "zalozba": "Geffen",
+        "tedni": 17,
+        "mesto": 7,
         "album": "Appetite for Destruction"
     },
     {
@@ -493,9 +493,9 @@
             "Irving Micahnik"
         ],
         "leto": 1961,
-        "zalozba": "Big Top  ",
-        "tedni": "17",
-        "mesto": "1",
+        "zalozba": "Big Top",
+        "tedni": 17,
+        "mesto": 1,
         "album": "Greatest Hits"
     },
     {
@@ -509,9 +509,9 @@
             "Tom Werman"
         ],
         "leto": 1978,
-        "zalozba": "Epic  ",
-        "tedni": "8",
-        "mesto": "62",
+        "zalozba": "Epic",
+        "tedni": 8,
+        "mesto": 62,
         "album": "Heaven Tonight"
     },
     {
@@ -528,9 +528,9 @@
             "Dozier"
         ],
         "leto": 1966,
-        "zalozba": "Motown ",
-        "tedni": "10",
-        "mesto": "6",
+        "zalozba": "Motown",
+        "tedni": 10,
+        "mesto": 6,
         "album": "The Ultimate Collection"
     },
     {
@@ -546,8 +546,8 @@
         ],
         "leto": 1966,
         "zalozba": "Capitol",
-        "tedni": "7",
-        "mesto": "23",
+        "tedni": 7,
+        "mesto": 23,
         "album": "Past Masters"
     },
     {
@@ -562,9 +562,9 @@
             "Al Bell"
         ],
         "leto": 1971,
-        "zalozba": "Stax ",
-        "tedni": "14",
-        "mesto": "12",
+        "zalozba": "Stax",
+        "tedni": 14,
+        "mesto": 12,
         "album": "Bealtitude: Respect Yourself"
     },
     {
@@ -582,9 +582,9 @@
             "Timbaland"
         ],
         "leto": 1999,
-        "zalozba": "Roc-A-Fella ",
-        "tedni": "20",
-        "mesto": "18",
+        "zalozba": "Roc-A-Fella",
+        "tedni": 20,
+        "mesto": 18,
         "album": "Vol. 3: Life  and Times of S. Carter"
     },
     {
@@ -599,9 +599,9 @@
             "Timbaland"
         ],
         "leto": 2001,
-        "zalozba": "Gold Mind/Elektra ",
-        "tedni": "25",
-        "mesto": "7",
+        "zalozba": "Gold Mind/Elektra",
+        "tedni": 25,
+        "mesto": 7,
         "album": "Miss E … So Addictive"
     },
     {
@@ -615,9 +615,9 @@
             "Leonard and Phil Chess"
         ],
         "leto": 1948,
-        "zalozba": "Chess ",
-        "tedni": "predates chart",
-        "mesto": "predates chart",
+        "zalozba": "Chess",
+        "tedni": null,
+        "mesto": null,
         "album": "The Anthology: 1947-1972"
     },
     {
@@ -631,9 +631,9 @@
             "Prince and the Revolution"
         ],
         "leto": 1986,
-        "zalozba": "Paisley Park  ",
-        "tedni": "18",
-        "mesto": "1",
+        "zalozba": "Paisley Park",
+        "tedni": 18,
+        "mesto": 1,
         "album": "Parade"
     },
     {
@@ -649,9 +649,9 @@
             "Porter"
         ],
         "leto": 1967,
-        "zalozba": "Stax ",
-        "tedni": "15",
-        "mesto": "2",
+        "zalozba": "Stax",
+        "tedni": 15,
+        "mesto": 2,
         "album": "Soul Men"
     },
     {
@@ -665,9 +665,9 @@
             "Steve Albini"
         ],
         "leto": 1993,
-        "zalozba": "Geffen  ",
-        "tedni": "22",
-        "mesto": "45",
+        "zalozba": "Geffen",
+        "tedni": 22,
+        "mesto": 45,
         "album": "In Utero"
     },
     {
@@ -682,9 +682,9 @@
             "T. Erdelyi"
         ],
         "leto": 1977,
-        "zalozba": "Sire  ",
-        "tedni": "13",
-        "mesto": "81",
+        "zalozba": "Sire",
+        "tedni": 13,
+        "mesto": 81,
         "album": "Rocket to Russia"
     },
     {
@@ -699,9 +699,9 @@
             "Phil Spector"
         ],
         "leto": 1970,
-        "zalozba": "Apple  ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Apple",
+        "tedni": 14,
+        "mesto": 1,
         "album": "All Things Must Pass"
     },
     {
@@ -715,9 +715,9 @@
             "Mike Clink"
         ],
         "leto": 1987,
-        "zalozba": "Geffen  ",
-        "tedni": "17",
-        "mesto": "5",
+        "zalozba": "Geffen",
+        "tedni": 17,
+        "mesto": 5,
         "album": "Appetite for Destruction"
     },
     {
@@ -732,9 +732,9 @@
             "Hugo and Luigi"
         ],
         "leto": 1961,
-        "zalozba": "RCA ",
-        "tedni": "17",
-        "mesto": "12",
+        "zalozba": "RCA",
+        "tedni": 17,
+        "mesto": 12,
         "album": "Greatest Hits"
     },
     {
@@ -748,9 +748,9 @@
             "Karl Mann"
         ],
         "leto": 1960,
-        "zalozba": "Parkway  ",
-        "tedni": "39",
-        "mesto": "1",
+        "zalozba": "Parkway",
+        "tedni": 39,
+        "mesto": 1,
         "album": "Greatest Hits"
     },
     {
@@ -765,9 +765,9 @@
             "George Martin"
         ],
         "leto": 1967,
-        "zalozba": "Capitol   ",
-        "tedni": "10",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 10,
+        "mesto": 1,
         "album": "Magical Mystery Tour"
     },
     {
@@ -782,9 +782,9 @@
             "Tom Wilson"
         ],
         "leto": 1967,
-        "zalozba": "Verve ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Verve",
+        "tedni": null,
+        "mesto": null,
         "album": "The Velvet Underground and Nico"
     },
     {
@@ -802,9 +802,9 @@
             "Greenwich"
         ],
         "leto": 1964,
-        "zalozba": "Red Bird ",
-        "tedni": "12",
-        "mesto": "1",
+        "zalozba": "Red Bird",
+        "tedni": 12,
+        "mesto": 1,
         "album": "Myrmidons of Melodrama: Definitive Collection"
     },
     {
@@ -818,9 +818,9 @@
             "Leslie Kong"
         ],
         "leto": 1973,
-        "zalozba": "Mango ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Mango",
+        "tedni": null,
+        "mesto": null,
         "album": "The Harder They Come"
     },
     {
@@ -836,9 +836,9 @@
             "Nirvana"
         ],
         "leto": 1991,
-        "zalozba": "Geffen ",
-        "tedni": "18",
-        "mesto": "32",
+        "zalozba": "Geffen",
+        "tedni": 18,
+        "mesto": 32,
         "album": "Nevermind"
     },
     {
@@ -852,9 +852,9 @@
             "Bono"
         ],
         "leto": 1965,
-        "zalozba": "Atco ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Atco",
+        "tedni": 14,
+        "mesto": 1,
         "album": "The Beat Goes On: The Best of Sonny and Cher"
     },
     {
@@ -868,9 +868,9 @@
             "Chris Blackwell"
         ],
         "leto": 1973,
-        "zalozba": "Island ",
-        "tedni": "did not chart",
-        "mesto": "did not chart",
+        "zalozba": "Island",
+        "tedni": null,
+        "mesto": null,
         "album": "Burnin'"
     },
     {
@@ -884,9 +884,9 @@
             "Joe Averbach"
         ],
         "leto": 1957,
-        "zalozba": "Dot ",
-        "tedni": "31",
-        "mesto": "5",
+        "zalozba": "Dot",
+        "tedni": 31,
+        "mesto": 5,
         "album": "Golden Classics"
     },
     {
@@ -903,9 +903,9 @@
             "Elizondo"
         ],
         "leto": 2002,
-        "zalozba": "Interscope/Aftermath/Shady ",
-        "tedni": "30",
-        "mesto": "1",
+        "zalozba": "Interscope/Aftermath/Shady",
+        "tedni": 30,
+        "mesto": 1,
         "album": "Get Rich or Die Tryin'"
     },
     {
@@ -920,9 +920,9 @@
             "Don Gehman"
         ],
         "leto": 1983,
-        "zalozba": "Riva ",
-        "tedni": "16",
-        "mesto": "8",
+        "zalozba": "Riva",
+        "tedni": 16,
+        "mesto": 8,
         "album": "Uh-Huh"
     },
     {
@@ -936,9 +936,9 @@
             "Azor"
         ],
         "leto": 1987,
-        "zalozba": "Next Plateau ",
-        "tedni": "25",
-        "mesto": "19",
+        "zalozba": "Next Plateau",
+        "tedni": 25,
+        "mesto": 19,
         "album": "Hot, Cool and Vicious"
     },
     {
@@ -955,9 +955,9 @@
             "John Cale"
         ],
         "leto": 1969,
-        "zalozba": "Elektra ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Elektra",
+        "tedni": null,
+        "mesto": null,
         "album": "The Stooges"
     },
     {
@@ -972,9 +972,9 @@
             "Steve Sholes"
         ],
         "leto": 1956,
-        "zalozba": "RCA ",
-        "tedni": "23",
-        "mesto": "1",
+        "zalozba": "RCA",
+        "tedni": 23,
+        "mesto": 1,
         "album": "Elvis: 30 #1 Hits"
     },
     {
@@ -989,9 +989,9 @@
             "The Glimmer Twins"
         ],
         "leto": 1978,
-        "zalozba": "Rolling Stones ",
-        "tedni": "13",
-        "mesto": "8",
+        "zalozba": "Rolling Stones",
+        "tedni": 13,
+        "mesto": 8,
         "album": "Some Girls"
     },
     {
@@ -1006,9 +1006,9 @@
             "Bruce Botnick"
         ],
         "leto": 1968,
-        "zalozba": "Elektra ",
-        "tedni": "3",
-        "mesto": "99",
+        "zalozba": "Elektra",
+        "tedni": 3,
+        "mesto": 99,
         "album": "Forever Changes"
     },
     {
@@ -1022,9 +1022,9 @@
             "Jerry Wexler"
         ],
         "leto": 1966,
-        "zalozba": "Atlantic ",
-        "tedni": "9",
-        "mesto": "23",
+        "zalozba": "Atlantic",
+        "tedni": 9,
+        "mesto": 23,
         "album": "The Very Best of Wilson Pickett"
     },
     {
@@ -1039,9 +1039,9 @@
             "Page"
         ],
         "leto": 1969,
-        "zalozba": "Atlantic ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Atlantic",
+        "tedni": null,
+        "mesto": null,
         "album": "Led Zeppelin II"
     },
     {
@@ -1055,9 +1055,9 @@
             "Tony Camillo"
         ],
         "leto": 1973,
-        "zalozba": "Buddah ",
-        "tedni": "19",
-        "mesto": "1",
+        "zalozba": "Buddah",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Essential Collection"
     },
     {
@@ -1072,9 +1072,9 @@
             "Bartholomew"
         ],
         "leto": 1955,
-        "zalozba": "Imperial ",
-        "tedni": "13",
-        "mesto": "10",
+        "zalozba": "Imperial",
+        "tedni": 13,
+        "mesto": 10,
         "album": "The Fats Domino Jukebox:  20 Greatest Hits"
     },
     {
@@ -1089,9 +1089,9 @@
             "The Clash"
         ],
         "leto": 1979,
-        "zalozba": "Epic  ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Epic",
+        "tedni": null,
+        "mesto": null,
         "album": "The Clash"
     },
     {
@@ -1107,9 +1107,9 @@
             "Berns"
         ],
         "leto": 1964,
-        "zalozba": "Atlantic  ",
-        "tedni": "8",
-        "mesto": "58",
+        "zalozba": "Atlantic",
+        "tedni": 8,
+        "mesto": 58,
         "album": "The Very Best of Solomon Burke"
     },
     {
@@ -1126,9 +1126,9 @@
             "Steve Lillywhite"
         ],
         "leto": 1983,
-        "zalozba": "Island  ",
-        "tedni": "12",
-        "mesto": "53",
+        "zalozba": "Island",
+        "tedni": 12,
+        "mesto": 53,
         "album": "War"
     },
     {
@@ -1146,9 +1146,9 @@
             "Deep Purple"
         ],
         "leto": 1973,
-        "zalozba": "Warner Bros. ",
-        "tedni": "16",
-        "mesto": "4",
+        "zalozba": "Warner Bros.",
+        "tedni": 16,
+        "mesto": 4,
         "album": "Machine Head"
     },
     {
@@ -1163,9 +1163,9 @@
             "Jimmy Miller"
         ],
         "leto": 1972,
-        "zalozba": "Rolling Stones  ",
-        "tedni": "10",
-        "mesto": "7",
+        "zalozba": "Rolling Stones",
+        "tedni": 10,
+        "mesto": 7,
         "album": "Exile on Main Street"
     },
     {
@@ -1180,9 +1180,9 @@
             "Green Day"
         ],
         "leto": 2004,
-        "zalozba": "Reprise  ",
-        "tedni": "20",
-        "mesto": "61",
+        "zalozba": "Reprise",
+        "tedni": 20,
+        "mesto": 61,
         "album": "American Idiot"
     },
     {
@@ -1197,9 +1197,9 @@
             "John Porter"
         ],
         "leto": 1984,
-        "zalozba": "Sire ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Sire",
+        "tedni": null,
+        "mesto": null,
         "album": "Louder Than Bombs"
     },
     {
@@ -1213,9 +1213,9 @@
             "Steve Sholes"
         ],
         "leto": 1956,
-        "zalozba": "RCA ",
-        "tedni": "12",
-        "mesto": "20",
+        "zalozba": "RCA",
+        "tedni": 12,
+        "mesto": 20,
         "album": "2nd to None"
     },
     {
@@ -1229,9 +1229,9 @@
             "Michael Stewart"
         ],
         "leto": 1973,
-        "zalozba": "Columbia ",
-        "tedni": "14",
-        "mesto": "25",
+        "zalozba": "Columbia",
+        "tedni": 14,
+        "mesto": 25,
         "album": "Piano Man"
     },
     {
@@ -1249,9 +1249,9 @@
             "O. Isley"
         ],
         "leto": 1969,
-        "zalozba": "T-Neck  ",
-        "tedni": "14",
-        "mesto": "2",
+        "zalozba": "T-Neck",
+        "tedni": 14,
+        "mesto": 2,
         "album": "The Ultimate Isley Brothers"
     },
     {
@@ -1265,9 +1265,9 @@
             "Dr. Dre"
         ],
         "leto": 1993,
-        "zalozba": "Death Row ",
-        "tedni": "27",
-        "mesto": "2",
+        "zalozba": "Death Row",
+        "tedni": 27,
+        "mesto": 2,
         "album": "The Chronic"
     },
     {
@@ -1283,9 +1283,9 @@
             "Graham Nash"
         ],
         "leto": 1969,
-        "zalozba": "Atlantic ",
-        "tedni": "12",
-        "mesto": "21",
+        "zalozba": "Atlantic",
+        "tedni": 12,
+        "mesto": 21,
         "album": "Crosby, Stills and Nash"
     },
     {
@@ -1301,9 +1301,9 @@
             "Yella"
         ],
         "leto": 1989,
-        "zalozba": "Priority ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Priority",
+        "tedni": null,
+        "mesto": null,
         "album": "Straight Outta Compton"
     },
     {
@@ -1318,9 +1318,9 @@
             "Poke"
         ],
         "leto": 1994,
-        "zalozba": "Bad Boy  ",
-        "tedni": "20",
-        "mesto": "27",
+        "zalozba": "Bad Boy",
+        "tedni": 20,
+        "mesto": 27,
         "album": "Ready to Die"
     },
     {
@@ -1338,9 +1338,9 @@
             "Greg Ladanyi"
         ],
         "leto": 1984,
-        "zalozba": "Geffen  ",
-        "tedni": "22",
-        "mesto": "5",
+        "zalozba": "Geffen",
+        "tedni": 22,
+        "mesto": 5,
         "album": "Building the Perfect Beast"
     },
     {
@@ -1358,9 +1358,9 @@
             "Holland"
         ],
         "leto": 1965,
-        "zalozba": "Motown ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Motown",
+        "tedni": 14,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -1377,9 +1377,9 @@
             "Stoller"
         ],
         "leto": 1957,
-        "zalozba": "Atco ",
-        "tedni": "11",
-        "mesto": "1",
+        "zalozba": "Atco",
+        "tedni": 11,
+        "mesto": 1,
         "album": "The Very Best of the Coasters"
     },
     {
@@ -1393,9 +1393,9 @@
             "Robert \"Bumps\" Blackwell"
         ],
         "leto": 1957,
-        "zalozba": "Specialty  ",
-        "tedni": "8",
-        "mesto": "49",
+        "zalozba": "Specialty",
+        "tedni": 8,
+        "mesto": 49,
         "album": "The Georgia Peach"
     },
     {
@@ -1410,9 +1410,9 @@
             "Bobby Paris"
         ],
         "leto": 1967,
-        "zalozba": "Capitol ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Greatest Hits"
     },
     {
@@ -1429,9 +1429,9 @@
             "Bellotte"
         ],
         "leto": 1977,
-        "zalozba": "Casablanca ",
-        "tedni": "23",
-        "mesto": "6",
+        "zalozba": "Casablanca",
+        "tedni": 23,
+        "mesto": 6,
         "album": "The Donna Summer Anthology"
     },
     {
@@ -1445,9 +1445,9 @@
             "Gil Norton"
         ],
         "leto": 1989,
-        "zalozba": "Elektra ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Elektra",
+        "tedni": null,
+        "mesto": null,
         "album": "Doolittle"
     },
     {
@@ -1462,9 +1462,9 @@
             "Jack Douglas"
         ],
         "leto": 1975,
-        "zalozba": "Columbia ",
-        "tedni": "8",
-        "mesto": "36",
+        "zalozba": "Columbia",
+        "tedni": 8,
+        "mesto": 36,
         "album": "Toys in the Attic"
     },
     {
@@ -1478,9 +1478,9 @@
             "Butch Vig"
         ],
         "leto": 1991,
-        "zalozba": "DGC  ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "DGC",
+        "tedni": null,
+        "mesto": null,
         "album": "Nevermind"
     },
     {
@@ -1495,9 +1495,9 @@
             "Jack Daugherty"
         ],
         "leto": 1970,
-        "zalozba": "A&M ",
-        "tedni": "17",
-        "mesto": "2",
+        "zalozba": "A&M",
+        "tedni": 17,
+        "mesto": 2,
         "album": "Singles 1969-1981"
     },
     {
@@ -1511,9 +1511,9 @@
             "Bob Johnston"
         ],
         "leto": 1966,
-        "zalozba": "Columbia ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Columbia",
+        "tedni": null,
+        "mesto": null,
         "album": "Blonde on Blonde"
     },
     {
@@ -1531,9 +1531,9 @@
             "Stewart"
         ],
         "leto": 2007,
-        "zalozba": "Def Jam ",
-        "tedni": "27",
-        "mesto": "1",
+        "zalozba": "Def Jam",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Good Girl Gone Bad"
     },
     {
@@ -1548,9 +1548,9 @@
             "Capehart"
         ],
         "leto": 1958,
-        "zalozba": "Liberty ",
-        "tedni": "12",
-        "mesto": "35",
+        "zalozba": "Liberty",
+        "tedni": 12,
+        "mesto": 35,
         "album": "Something' Else"
     },
     {
@@ -1564,9 +1564,9 @@
             "Stone"
         ],
         "leto": 1970,
-        "zalozba": "Epic ",
-        "tedni": "13",
-        "mesto": "1",
+        "zalozba": "Epic",
+        "tedni": 13,
+        "mesto": 1,
         "album": "Anthology"
     },
     {
@@ -1581,9 +1581,9 @@
             "Dixon"
         ],
         "leto": 1960,
-        "zalozba": "Scepter ",
-        "tedni": "12",
-        "mesto": "39",
+        "zalozba": "Scepter",
+        "tedni": 12,
+        "mesto": 39,
         "album": "25 All-Time Greatest Hits"
     },
     {
@@ -1601,9 +1601,9 @@
             "Ulrich"
         ],
         "leto": 1991,
-        "zalozba": "Elektra  ",
-        "tedni": "20",
-        "mesto": "16",
+        "zalozba": "Elektra",
+        "tedni": 20,
+        "mesto": 16,
         "album": "Metallica"
     },
     {
@@ -1619,9 +1619,9 @@
             "Al Kooper"
         ],
         "leto": 1974,
-        "zalozba": "MCA ",
-        "tedni": "17",
-        "mesto": "8",
+        "zalozba": "MCA",
+        "tedni": 17,
+        "mesto": 8,
         "album": "Second Helping"
     },
     {
@@ -1636,9 +1636,9 @@
             "John Fry"
         ],
         "leto": 1972,
-        "zalozba": "Ardent ",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "zalozba": "Ardent",
+        "tedni": null,
+        "mesto": null,
         "album": "#1 Record/Radio City"
     },
     {
@@ -1654,9 +1654,9 @@
             "David Lucas"
         ],
         "leto": 1976,
-        "zalozba": "Columbia ",
-        "tedni": "14",
-        "mesto": "12",
+        "zalozba": "Columbia",
+        "tedni": 14,
+        "mesto": 12,
         "album": "Agents of Fortune"
     },
     {
@@ -1670,9 +1670,9 @@
             "Morton"
         ],
         "leto": 1964,
-        "zalozba": "Red Bird ",
-        "tedni": "11",
-        "mesto": "5",
+        "zalozba": "Red Bird",
+        "tedni": 11,
+        "mesto": 5,
         "album": "The Best of the Shangri-Las"
     },
     {
@@ -1688,9 +1688,9 @@
             "Joseph Lilley"
         ],
         "leto": 1961,
-        "zalozba": "RCA ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "RCA",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -1704,9 +1704,9 @@
             "Vincent"
         ],
         "leto": 1970,
-        "zalozba": "Buddha ",
-        "tedni": "16",
-        "mesto": "8",
+        "zalozba": "Buddha",
+        "tedni": 16,
+        "mesto": 8,
         "album": "Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2"
     },
     {
@@ -1722,9 +1722,9 @@
             "Erik Jacobsen"
         ],
         "leto": 1966,
-        "zalozba": "Kama Sutra ",
-        "tedni": "11",
-        "mesto": "1",
+        "zalozba": "Kama Sutra",
+        "tedni": 11,
+        "mesto": 1,
         "album": "The Lovin' Spoonful Greatest Hits"
     },
     {
@@ -1742,9 +1742,9 @@
             "Holland"
         ],
         "leto": 1964,
-        "zalozba": "Motown ",
-        "tedni": "12",
-        "mesto": "11",
+        "zalozba": "Motown",
+        "tedni": 12,
+        "mesto": 11,
         "album": "The Ultimate Collection"
     },
     {
@@ -1759,9 +1759,9 @@
             "Whitfield"
         ],
         "leto": 1971,
-        "zalozba": "Gordy ",
-        "tedni": "15",
-        "mesto": "1",
+        "zalozba": "Gordy",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Anthology"
     },
     {
@@ -1775,9 +1775,9 @@
             "The Police"
         ],
         "leto": 1979,
-        "zalozba": "A&M ",
-        "tedni": "13",
-        "mesto": "32",
+        "zalozba": "A&M",
+        "tedni": 13,
+        "mesto": 32,
         "album": "Outlandos d'Amour"
     },
     {
@@ -1792,9 +1792,9 @@
             "Gus Dudgeon"
         ],
         "leto": 1971,
-        "zalozba": "Uni ",
-        "tedni": "7",
-        "mesto": "41",
+        "zalozba": "Uni",
+        "tedni": 7,
+        "mesto": 41,
         "album": "Madman Across the Water"
     },
     {
@@ -1808,9 +1808,9 @@
             "Eric B. and Rakim"
         ],
         "leto": 1987,
-        "zalozba": "4th and Broadway ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "4th and Broadway",
+        "tedni": null,
+        "mesto": null,
         "album": "Paid in Full"
     },
     {
@@ -1827,9 +1827,9 @@
             "Young"
         ],
         "leto": 1970,
-        "zalozba": "Atlantic ",
-        "tedni": "9",
-        "mesto": "14",
+        "zalozba": "Atlantic",
+        "tedni": 9,
+        "mesto": 14,
         "album": "Decade"
     },
     {
@@ -1844,9 +1844,9 @@
             "George Martin"
         ],
         "leto": 1965,
-        "zalozba": "Capitol ",
-        "tedni": "11",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Help!"
     },
     {
@@ -1860,9 +1860,9 @@
             "Tom Dowd"
         ],
         "leto": 1969,
-        "zalozba": "Capricorn ",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "zalozba": "Capricorn",
+        "tedni": null,
+        "mesto": null,
         "album": "At Fillmore East"
     },
     {
@@ -1880,9 +1880,9 @@
             "Youth"
         ],
         "leto": 1997,
-        "zalozba": "Virgin ",
-        "tedni": "20",
-        "mesto": "12",
+        "zalozba": "Virgin",
+        "tedni": 20,
+        "mesto": 12,
         "album": "Urban Hymns"
     },
     {
@@ -1897,9 +1897,9 @@
             "Davis"
         ],
         "leto": 1966,
-        "zalozba": "Par Lo ",
-        "tedni": "14",
-        "mesto": "2",
+        "zalozba": "Par Lo",
+        "tedni": 14,
+        "mesto": 2,
         "album": "Tell It Like It Is: Golden Classics"
     },
     {
@@ -1914,9 +1914,9 @@
             "Gus Dudgeon"
         ],
         "leto": 1973,
-        "zalozba": "MCA ",
-        "tedni": "17",
-        "mesto": "2",
+        "zalozba": "MCA",
+        "tedni": 17,
+        "mesto": 2,
         "album": "Goodbye Yellow Brick Road"
     },
     {
@@ -1931,9 +1931,9 @@
             "Don Dixon"
         ],
         "leto": 1983,
-        "zalozba": "I.R.S. ",
-        "tedni": "5",
-        "mesto": "78",
+        "zalozba": "I.R.S.",
+        "tedni": 5,
+        "mesto": 78,
         "album": "Murmur"
     },
     {
@@ -1951,9 +1951,9 @@
             "Daniel Lanois"
         ],
         "leto": 1984,
-        "zalozba": "Island ",
-        "tedni": "15",
-        "mesto": "33",
+        "zalozba": "Island",
+        "tedni": 15,
+        "mesto": 33,
         "album": "The Unforgettable Fire"
     },
     {
@@ -1967,9 +1967,9 @@
             "Sid Feller"
         ],
         "leto": 1961,
-        "zalozba": "ABC-Paramount ",
-        "tedni": "11",
-        "mesto": "1",
+        "zalozba": "ABC-Paramount",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Ultimate Hits Collection"
     },
     {
@@ -1983,9 +1983,9 @@
             "David Andrew Sitek"
         ],
         "leto": 2004,
-        "zalozba": "Interscope ",
-        "tedni": "13",
-        "mesto": "87",
+        "zalozba": "Interscope",
+        "tedni": 13,
+        "mesto": 87,
         "album": "Fever to Tell"
     },
     {
@@ -1999,9 +1999,9 @@
             "John Leckie"
         ],
         "leto": 1995,
-        "zalozba": "Capitol ",
-        "tedni": "4",
-        "mesto": "65",
+        "zalozba": "Capitol",
+        "tedni": 4,
+        "mesto": 65,
         "album": "The Bends"
     },
     {
@@ -2017,9 +2017,9 @@
             "David Gilmour"
         ],
         "leto": 1979,
-        "zalozba": "Columbia ",
-        "tedni": "25",
-        "mesto": "1",
+        "zalozba": "Columbia",
+        "tedni": 25,
+        "mesto": 1,
         "album": "The Wall"
     },
     {
@@ -2034,9 +2034,9 @@
             "Phil Chess"
         ],
         "leto": 1956,
-        "zalozba": "Chess ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Chess",
+        "tedni": null,
+        "mesto": null,
         "album": "The Anthology"
     },
     {
@@ -2053,9 +2053,9 @@
             "Adler"
         ],
         "leto": 1960,
-        "zalozba": "RCA ",
-        "tedni": "15",
-        "mesto": "12",
+        "zalozba": "RCA",
+        "tedni": 15,
+        "mesto": 12,
         "album": "Portrait of a Legend 1951-1964"
     },
     {
@@ -2069,9 +2069,9 @@
             "Andy Johns"
         ],
         "leto": 1977,
-        "zalozba": "Elektra ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Elektra",
+        "tedni": null,
+        "mesto": null,
         "album": "Marquee Moon"
     },
     {
@@ -2085,9 +2085,9 @@
             "Shel Talmy"
         ],
         "leto": 1965,
-        "zalozba": "Decca ",
-        "tedni": "2",
-        "mesto": "93",
+        "zalozba": "Decca",
+        "tedni": 2,
+        "mesto": 93,
         "album": "The Ultimate Collection"
     },
     {
@@ -2101,9 +2101,9 @@
             "Chas Chandler"
         ],
         "leto": 1967,
-        "zalozba": "Reprise  ",
-        "tedni": "8",
-        "mesto": "65",
+        "zalozba": "Reprise",
+        "tedni": 8,
+        "mesto": 65,
         "album": "Are You Experienced?"
     },
     {
@@ -2117,9 +2117,9 @@
             "Leonard Chess"
         ],
         "leto": 1955,
-        "zalozba": "Checker ",
-        "tedni": "Did Not Chart",
-        "mesto": "Did Not Chart",
+        "zalozba": "Checker",
+        "tedni": null,
+        "mesto": null,
         "album": "His Best: The Chess 50th Anniversary Collection"
     },
     {
@@ -2134,9 +2134,9 @@
             "Flood"
         ],
         "leto": 1989,
-        "zalozba": "Sire ",
-        "tedni": "20",
-        "mesto": "28",
+        "zalozba": "Sire",
+        "tedni": 20,
+        "mesto": 28,
         "album": "Violator"
     },
     {
@@ -2151,9 +2151,9 @@
             "Felix Pappalardi"
         ],
         "leto": 1968,
-        "zalozba": "Atco ",
-        "tedni": "11",
-        "mesto": "6",
+        "zalozba": "Atco",
+        "tedni": 11,
+        "mesto": 6,
         "album": "Wheels of Fire"
     },
     {
@@ -2170,8 +2170,8 @@
         ],
         "leto": 1977,
         "zalozba": "RSO",
-        "tedni": "33",
-        "mesto": "1",
+        "tedni": 33,
+        "mesto": 1,
         "album": "Saturday Night Fever"
     },
     {
@@ -2187,8 +2187,8 @@
         ],
         "leto": 1965,
         "zalozba": "Philles",
-        "tedni": "13",
-        "mesto": "4",
+        "tedni": 13,
+        "mesto": 4,
         "album": "Anthology 1962-1974"
     },
     {
@@ -2203,8 +2203,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Highway 61 Revisited"
     },
     {
@@ -2219,8 +2219,8 @@
         ],
         "leto": 1967,
         "zalozba": "Mala",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "The Letter"
     },
     {
@@ -2236,8 +2236,8 @@
         ],
         "leto": 1979,
         "zalozba": "Epic",
-        "tedni": "Non-single ",
-        "mesto": "Non-single ",
+        "tedni": null,
+        "mesto": null,
         "album": "The Clash"
     },
     {
@@ -2253,8 +2253,8 @@
         ],
         "leto": 1967,
         "zalozba": "Capitol",
-        "tedni": "11",
-        "mesto": "1",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Magical Mystery Tour"
     },
     {
@@ -2270,8 +2270,8 @@
         ],
         "leto": 1973,
         "zalozba": "Atlantic",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Killing Me Softly"
     },
     {
@@ -2288,8 +2288,8 @@
         ],
         "leto": 1957,
         "zalozba": "Chess",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Anthology"
     },
     {
@@ -2307,8 +2307,8 @@
         ],
         "leto": 1965,
         "zalozba": "Gordy",
-        "tedni": "11",
-        "mesto": "8",
+        "tedni": 11,
+        "mesto": 8,
         "album": "The Ultimate Collection "
     },
     {
@@ -2323,8 +2323,8 @@
         ],
         "leto": 1968,
         "zalozba": "Reprise",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Axis: Bold as Love"
     },
     {
@@ -2340,8 +2340,8 @@
         ],
         "leto": 1983,
         "zalozba": "RCA",
-        "tedni": "26",
-        "mesto": "1",
+        "tedni": 26,
+        "mesto": 1,
         "album": "Sweet Dreams"
     },
     {
@@ -2356,8 +2356,8 @@
         ],
         "leto": 1969,
         "zalozba": "Fantasy",
-        "tedni": "14",
-        "mesto": "2",
+        "tedni": 14,
+        "mesto": 2,
         "album": "Green River"
     },
     {
@@ -2372,8 +2372,8 @@
         ],
         "leto": 1977,
         "zalozba": "Columbia",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "My Aim Is True"
     },
     {
@@ -2389,8 +2389,8 @@
         ],
         "leto": 1992,
         "zalozba": "Duck/Reprise",
-        "tedni": "26",
-        "mesto": "2",
+        "tedni": 26,
+        "mesto": 2,
         "album": "\"Rush\" Soundtrack"
     },
     {
@@ -2406,8 +2406,8 @@
         ],
         "leto": 1957,
         "zalozba": "RCA",
-        "tedni": "30",
-        "mesto": "1",
+        "tedni": 30,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -2422,8 +2422,8 @@
         ],
         "leto": 1955,
         "zalozba": "Mercury",
-        "tedni": "24",
-        "mesto": "1",
+        "tedni": 24,
+        "mesto": 1,
         "album": "The Magic Touch: An Anthology"
     },
     {
@@ -2439,8 +2439,8 @@
         ],
         "leto": 1962,
         "zalozba": "Dimension",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "The Loco-Motion"
     },
     {
@@ -2457,8 +2457,8 @@
         ],
         "leto": 1960,
         "zalozba": "Atco",
-        "tedni": "16",
-        "mesto": "10",
+        "tedni": 16,
+        "mesto": 10,
         "album": "The Very Best of Ben E. King "
     },
     {
@@ -2473,8 +2473,8 @@
         ],
         "leto": 1973,
         "zalozba": "T-Neck",
-        "tedni": "20",
-        "mesto": "6",
+        "tedni": 20,
+        "mesto": 6,
         "album": "The Essential Isley Brothers"
     },
     {
@@ -2510,8 +2510,8 @@
         ],
         "leto": 1996,
         "zalozba": "Death Row",
-        "tedni": "24",
-        "mesto": "6",
+        "tedni": 24,
+        "mesto": 6,
         "album": "Greatest Hits"
     },
     {
@@ -2526,8 +2526,8 @@
         ],
         "leto": 1958,
         "zalozba": "Del-Fi",
-        "tedni": "15",
-        "mesto": "22",
+        "tedni": 15,
+        "mesto": 22,
         "album": "The Ritchie Valens Story"
     },
     {
@@ -2543,8 +2543,8 @@
         ],
         "leto": 1968,
         "zalozba": "CBS",
-        "tedni": "12",
-        "mesto": "12",
+        "tedni": 12,
+        "mesto": 12,
         "album": "Cheap Thrills"
     },
     {
@@ -2559,8 +2559,8 @@
         ],
         "leto": 1956,
         "zalozba": "Atlantic",
-        "tedni": "19",
-        "mesto": "17",
+        "tedni": 19,
+        "mesto": 17,
         "album": "Soul on Fire: The Best of LaVern Baker"
     },
     {
@@ -2576,8 +2576,8 @@
         ],
         "leto": 1961,
         "zalozba": "Laurie",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Runaround Sue"
     },
     {
@@ -2592,8 +2592,8 @@
         ],
         "leto": 1975,
         "zalozba": "Mango",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Harder They Come"
     },
     {
@@ -2609,8 +2609,8 @@
         ],
         "leto": 1971,
         "zalozba": "MCA",
-        "tedni": "Non-single in U.S.",
-        "mesto": "Non-single in U.S.",
+        "tedni": null,
+        "mesto": null,
         "album": "Who's Next"
     },
     {
@@ -2627,8 +2627,8 @@
         ],
         "leto": 1966,
         "zalozba": "Motown",
-        "tedni": "12",
-        "mesto": "1",
+        "tedni": 12,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -2643,8 +2643,8 @@
         ],
         "leto": 1970,
         "zalozba": "Apple",
-        "tedni": "13",
-        "mesto": "10",
+        "tedni": 13,
+        "mesto": 10,
         "album": "McCartney"
     },
     {
@@ -2660,8 +2660,8 @@
         ],
         "leto": 1976,
         "zalozba": "Columbia",
-        "tedni": "17",
-        "mesto": "10",
+        "tedni": 17,
+        "mesto": 10,
         "album": "Toys in the Attic"
     },
     {
@@ -2677,8 +2677,8 @@
         ],
         "leto": 2000,
         "zalozba": "Island",
-        "tedni": "25",
-        "mesto": "1",
+        "tedni": 25,
+        "mesto": 1,
         "album": "All That You Can't Leave Behind"
     },
     {
@@ -2693,8 +2693,8 @@
         ],
         "leto": 1982,
         "zalozba": "Epic",
-        "tedni": "25",
-        "mesto": "1",
+        "tedni": 25,
+        "mesto": 1,
         "album": "Thriller"
     },
     {
@@ -2710,8 +2710,8 @@
         ],
         "leto": 1971,
         "zalozba": "Rolling Stones",
-        "tedni": "8",
-        "mesto": "28",
+        "tedni": 8,
+        "mesto": 28,
         "album": "Sticky Fingers"
     },
     {
@@ -2728,8 +2728,8 @@
         ],
         "leto": 1970,
         "zalozba": "Cotillion",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Loaded (Fully Loaded Edition)"
     },
     {
@@ -2744,8 +2744,8 @@
         ],
         "leto": 1970,
         "zalozba": "Reprise",
-        "tedni": "15",
-        "mesto": "3",
+        "tedni": 15,
+        "mesto": 3,
         "album": "Spirit in the Sky"
     },
     {
@@ -2760,8 +2760,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "8",
-        "mesto": "39",
+        "tedni": 8,
+        "mesto": 39,
         "album": "Bringing It All Back Home"
     },
     {
@@ -2778,8 +2778,8 @@
         ],
         "leto": 1991,
         "zalozba": "Capitol",
-        "tedni": "20",
-        "mesto": "18",
+        "tedni": 20,
+        "mesto": 18,
         "album": "Luck of the Draw"
     },
     {
@@ -2795,8 +2795,8 @@
         ],
         "leto": 1977,
         "zalozba": "Elektra",
-        "tedni": "14",
-        "mesto": "52",
+        "tedni": 14,
+        "mesto": 52,
         "album": "News of the World"
     },
     {
@@ -2813,8 +2813,8 @@
         ],
         "leto": 1975,
         "zalozba": "Columbia",
-        "tedni": "16",
-        "mesto": "12",
+        "tedni": 16,
+        "mesto": 12,
         "album": "That's the Way of the World"
     },
     {
@@ -2832,8 +2832,8 @@
         ],
         "leto": 1967,
         "zalozba": "Elektra",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "The Doors"
     },
     {
@@ -2849,8 +2849,8 @@
         ],
         "leto": 1958,
         "zalozba": "Falcon",
-        "tedni": "12",
-        "mesto": "11",
+        "tedni": 12,
+        "mesto": 11,
         "album": "Greatest Hits"
     },
     {
@@ -2866,8 +2866,8 @@
         ],
         "leto": 1970,
         "zalozba": "King",
-        "tedni": "9",
-        "mesto": "15",
+        "tedni": 9,
+        "mesto": 15,
         "album": "50th Anniversary Collection "
     },
     {
@@ -2884,8 +2884,8 @@
         ],
         "leto": 1966,
         "zalozba": "Atlantic",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "The Very Best of the Rascals"
     },
     {
@@ -2902,8 +2902,8 @@
         ],
         "leto": 1964,
         "zalozba": "Motown",
-        "tedni": "13",
-        "mesto": "1",
+        "tedni": 13,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -2919,8 +2919,8 @@
         ],
         "leto": 1979,
         "zalozba": "Arista",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Wave"
     },
     {
@@ -2939,8 +2939,8 @@
         ],
         "leto": 1989,
         "zalozba": "Def Jam",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Fear of a Black Planet"
     },
     {
@@ -2956,8 +2956,8 @@
         ],
         "leto": 1975,
         "zalozba": "Reprise",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Zuma"
     },
     {
@@ -2975,8 +2975,8 @@
         ],
         "leto": 1969,
         "zalozba": "Atlantic",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Led Zeppelin II"
     },
     {
@@ -2992,8 +2992,8 @@
         ],
         "leto": 2004,
         "zalozba": "Domino",
-        "tedni": "19",
-        "mesto": "66",
+        "tedni": 19,
+        "mesto": 66,
         "album": "Franz Ferdinand"
     },
     {
@@ -3012,8 +3012,8 @@
         ],
         "leto": 1972,
         "zalozba": "Warner Bros.",
-        "tedni": "13",
-        "mesto": "7",
+        "tedni": 13,
+        "mesto": 7,
         "album": "School's Out"
     },
     {
@@ -3028,8 +3028,8 @@
         ],
         "leto": 1969,
         "zalozba": "A&M",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Wonderful World, Beautiful People"
     },
     {
@@ -3045,8 +3045,8 @@
         ],
         "leto": 1975,
         "zalozba": "Columbia",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Wish You Were Here"
     },
     {
@@ -3061,8 +3061,8 @@
         ],
         "leto": 1977,
         "zalozba": "Columbia",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "My Aim Is True"
     },
     {
@@ -3078,8 +3078,8 @@
         ],
         "leto": 1965,
         "zalozba": "MGM",
-        "tedni": "10",
-        "mesto": "15",
+        "tedni": 10,
+        "mesto": 15,
         "album": "Retrospective"
     },
     {
@@ -3095,8 +3095,8 @@
         ],
         "leto": 1979,
         "zalozba": "Columbia",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Wall"
     },
     {
@@ -3112,8 +3112,8 @@
         ],
         "leto": 1956,
         "zalozba": "OKeh",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Voodoo Jive"
     },
     {
@@ -3129,8 +3129,8 @@
         ],
         "leto": 1963,
         "zalozba": "Monument",
-        "tedni": "13",
-        "mesto": "7",
+        "tedni": 13,
+        "mesto": 7,
         "album": "For the Lonely: 18 Greatest Hits"
     },
     {
@@ -3146,8 +3146,8 @@
         ],
         "leto": 1957,
         "zalozba": "Cadence",
-        "tedni": "26",
-        "mesto": "1",
+        "tedni": 26,
+        "mesto": 1,
         "album": "The Best of the Everly Brothers"
     },
     {
@@ -3162,8 +3162,8 @@
         ],
         "leto": 1971,
         "zalozba": "Warner",
-        "tedni": "10",
-        "mesto": "52",
+        "tedni": 10,
+        "mesto": 52,
         "album": "Paranoid"
     },
     {
@@ -3179,8 +3179,8 @@
         ],
         "leto": 1984,
         "zalozba": "Capitol",
-        "tedni": "28",
-        "mesto": "1",
+        "tedni": 28,
+        "mesto": 1,
         "album": "Private Dancer"
     },
     {
@@ -3197,8 +3197,8 @@
         ],
         "leto": 1958,
         "zalozba": "Brunswick",
-        "tedni": "21",
-        "mesto": "7",
+        "tedni": 21,
+        "mesto": 7,
         "album": "The Greatest Hits of Jackie Wilson"
     },
     {
@@ -3214,8 +3214,8 @@
         ],
         "leto": 1956,
         "zalozba": "Gee",
-        "tedni": "21",
-        "mesto": "6",
+        "tedni": 21,
+        "mesto": 6,
         "album": "The Best of Frankie Lymon and the Teenagers"
     },
     {
@@ -3231,8 +3231,8 @@
         ],
         "leto": 1980,
         "zalozba": "Polydor",
-        "tedni": "Non-single in the U.S.",
-        "mesto": "Non-single in the U.S.",
+        "tedni": null,
+        "mesto": null,
         "album": "Sound Affects"
     },
     {
@@ -3248,8 +3248,8 @@
         ],
         "leto": 1968,
         "zalozba": "King",
-        "tedni": "11",
-        "mesto": "10",
+        "tedni": 11,
+        "mesto": 10,
         "album": "50th Anniversary Collection"
     },
     {
@@ -3265,8 +3265,8 @@
         ],
         "leto": 1967,
         "zalozba": "Capitol",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
@@ -3282,8 +3282,8 @@
         ],
         "leto": 1967,
         "zalozba": "London",
-        "tedni": "12",
-        "mesto": "1",
+        "tedni": 12,
+        "mesto": 1,
         "album": "Between the Buttons"
     },
     {
@@ -3298,8 +3298,8 @@
         ],
         "leto": 1975,
         "zalozba": "Columbia",
-        "tedni": "18",
-        "mesto": "21",
+        "tedni": 18,
+        "mesto": 21,
         "album": "Red Headed Stranger"
     },
     {
@@ -3315,8 +3315,8 @@
         ],
         "leto": 1978,
         "zalozba": "Warner Bros.",
-        "tedni": "21",
-        "mesto": "1",
+        "tedni": 21,
+        "mesto": 1,
         "album": "Blondes Have More Fun"
     },
     {
@@ -3333,8 +3333,8 @@
         ],
         "leto": 2000,
         "zalozba": "Virgin",
-        "tedni": "16",
-        "mesto": "61",
+        "tedni": 16,
+        "mesto": 61,
         "album": "Discovery"
     },
     {
@@ -3351,8 +3351,8 @@
         ],
         "leto": 1989,
         "zalozba": "Sire",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Like a Prayer"
     },
     {
@@ -3368,8 +3368,8 @@
         ],
         "leto": 1978,
         "zalozba": "Chrysalis",
-        "tedni": "14",
-        "mesto": "24",
+        "tedni": 14,
+        "mesto": 24,
         "album": "Parallel Lines"
     },
     {
@@ -3384,8 +3384,8 @@
         ],
         "leto": 1987,
         "zalozba": "Paisley Park",
-        "tedni": "14",
-        "mesto": "3",
+        "tedni": 14,
+        "mesto": 3,
         "album": "Sign 'O' the Times"
     },
     {
@@ -3401,8 +3401,8 @@
         ],
         "leto": 1972,
         "zalozba": "Reprise",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Harvest"
     },
     {
@@ -3418,8 +3418,8 @@
         ],
         "leto": 1975,
         "zalozba": "Island",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Legend"
     },
     {
@@ -3435,8 +3435,8 @@
         ],
         "leto": 1968,
         "zalozba": "London",
-        "tedni": "6",
-        "mesto": "48",
+        "tedni": 6,
+        "mesto": 48,
         "album": "Beggars Banquet"
     },
     {
@@ -3453,8 +3453,8 @@
         ],
         "leto": 1971,
         "zalozba": "Atlantic",
-        "tedni": "12",
-        "mesto": "15",
+        "tedni": 12,
+        "mesto": 15,
         "album": "Led Zeppelin IV"
     },
     {
@@ -3470,8 +3470,8 @@
         ],
         "leto": 1971,
         "zalozba": "Hi",
-        "tedni": "19",
-        "mesto": "11",
+        "tedni": 19,
+        "mesto": 11,
         "album": "Greatest Hits"
     },
     {
@@ -3487,8 +3487,8 @@
         ],
         "leto": 1979,
         "zalozba": "Epic",
-        "tedni": "14",
-        "mesto": "23",
+        "tedni": 14,
+        "mesto": 23,
         "album": "London Calling"
     },
     {
@@ -3503,8 +3503,8 @@
         ],
         "leto": 1964,
         "zalozba": "Parrot",
-        "tedni": "15",
-        "mesto": "2",
+        "tedni": 15,
+        "mesto": 2,
         "album": "British Invasion: 1963-1967 "
     },
     {
@@ -3521,8 +3521,8 @@
         ],
         "leto": 2000,
         "zalozba": "Aftermath",
-        "tedni": "15",
-        "mesto": "51",
+        "tedni": 15,
+        "mesto": 51,
         "album": "The Marshall Mathers LP"
     },
     {
@@ -3538,8 +3538,8 @@
         ],
         "leto": 1964,
         "zalozba": "Capitol",
-        "tedni": "10",
-        "mesto": "1",
+        "tedni": 10,
+        "mesto": 1,
         "album": "A Hard Day's Night"
     },
     {
@@ -3555,8 +3555,8 @@
         ],
         "leto": 1960,
         "zalozba": "Anna",
-        "tedni": "17",
-        "mesto": "23",
+        "tedni": 17,
+        "mesto": 23,
         "album": "Motown: The Classic Years"
     },
     {
@@ -3572,8 +3572,8 @@
         ],
         "leto": 1986,
         "zalozba": "Profile",
-        "tedni": "16",
-        "mesto": "4",
+        "tedni": 16,
+        "mesto": 4,
         "album": "Raising Hell"
     },
     {
@@ -3589,8 +3589,8 @@
         ],
         "leto": 1992,
         "zalozba": "Drag City",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Slanted and Enchanted"
     },
     {
@@ -3606,8 +3606,8 @@
         ],
         "leto": 1956,
         "zalozba": "Chess",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "His Best"
     },
     {
@@ -3622,8 +3622,8 @@
         ],
         "leto": 1979,
         "zalozba": "Columbia",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Armed Forces"
     },
     {
@@ -3639,8 +3639,8 @@
         ],
         "leto": 1980,
         "zalozba": "Chrysalis",
-        "tedni": "25",
-        "mesto": "1",
+        "tedni": 25,
+        "mesto": 1,
         "album": "Best of Blondie"
     },
     {
@@ -3655,8 +3655,8 @@
         ],
         "leto": 1974,
         "zalozba": "Asylum",
-        "tedni": "19",
-        "mesto": "7",
+        "tedni": 19,
+        "mesto": 7,
         "album": "Court and Spark"
     },
     {
@@ -3671,8 +3671,8 @@
         ],
         "leto": 1972,
         "zalozba": "Tamla",
-        "tedni": "17",
-        "mesto": "1",
+        "tedni": 17,
+        "mesto": 1,
         "album": "Talking Book"
     },
     {
@@ -3703,8 +3703,8 @@
         ],
         "leto": 1971,
         "zalozba": "Sussex",
-        "tedni": "16",
-        "mesto": "3",
+        "tedni": 16,
+        "mesto": 3,
         "album": "Lean on Me: The Best of Bill Withers"
     },
     {
@@ -3724,8 +3724,8 @@
         ],
         "leto": 1964,
         "zalozba": "Red Bird",
-        "tedni": "13",
-        "mesto": "1",
+        "tedni": 13,
+        "mesto": 1,
         "album": "The Best of the Girl Groups, Vol. 1"
     },
     {
@@ -3746,8 +3746,8 @@
         ],
         "leto": 1989,
         "zalozba": "Elektra",
-        "tedni": "8",
-        "mesto": "71",
+        "tedni": 8,
+        "mesto": 71,
         "album": "Disintegration"
     },
     {
@@ -3763,8 +3763,8 @@
         ],
         "leto": 1972,
         "zalozba": "RCA",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
     },
     {
@@ -3779,8 +3779,8 @@
         ],
         "leto": 1972,
         "zalozba": "Stax",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Bealtitude: Respect Yourself"
     },
     {
@@ -3798,8 +3798,8 @@
         ],
         "leto": 1984,
         "zalozba": "Columbia",
-        "tedni": "17",
-        "mesto": "9",
+        "tedni": 17,
+        "mesto": 9,
         "album": "Born in the U.S.A."
     },
     {
@@ -3814,8 +3814,8 @@
         ],
         "leto": 1967,
         "zalozba": "RCA",
-        "tedni": "15",
-        "mesto": "5",
+        "tedni": 15,
+        "mesto": 5,
         "album": "Surrealistic Pillow"
     },
     {
@@ -3830,8 +3830,8 @@
         ],
         "leto": 1969,
         "zalozba": "Apple",
-        "tedni": "16",
-        "mesto": "3",
+        "tedni": 16,
+        "mesto": 3,
         "album": "Abbey Road"
     },
     {
@@ -3846,8 +3846,8 @@
         ],
         "leto": 1958,
         "zalozba": "Chess",
-        "tedni": "16",
-        "mesto": "2",
+        "tedni": 16,
+        "mesto": 2,
         "album": "The Anthology"
     },
     {
@@ -3863,8 +3863,8 @@
         ],
         "leto": 1966,
         "zalozba": "Capitol",
-        "tedni": "11",
-        "mesto": "3",
+        "tedni": 11,
+        "mesto": 3,
         "album": "Pet Sounds"
     },
     {
@@ -3879,8 +3879,8 @@
         ],
         "leto": 1980,
         "zalozba": "Epic",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "I Am What I Am"
     },
     {
@@ -3895,8 +3895,8 @@
         ],
         "leto": 1976,
         "zalozba": "Beserkley",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "The Modern Lovers"
     },
     {
@@ -3911,8 +3911,8 @@
         ],
         "leto": 2004,
         "zalozba": "Roc-a-Fella",
-        "tedni": "25",
-        "mesto": "11",
+        "tedni": 25,
+        "mesto": 11,
         "album": "The College Dropout"
     },
     {
@@ -3930,8 +3930,8 @@
         ],
         "leto": 1983,
         "zalozba": "Island",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "War"
     },
     {
@@ -3947,8 +3947,8 @@
         ],
         "leto": 1973,
         "zalozba": "Mercury",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "New York Dolls"
     },
     {
@@ -3964,8 +3964,8 @@
         ],
         "leto": 1968,
         "zalozba": "Atlantic",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Tightening It Up: The Best of Archie Bell and the Drells"
     },
     {
@@ -3980,8 +3980,8 @@
         ],
         "leto": 1964,
         "zalozba": "Philles",
-        "tedni": "11",
-        "mesto": "23",
+        "tedni": 11,
+        "mesto": 23,
         "album": "The Best of the Ronettes"
     },
     {
@@ -3996,8 +3996,8 @@
         ],
         "leto": 1972,
         "zalozba": "Reprise",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Sail Away"
     },
     {
@@ -4012,8 +4012,8 @@
         ],
         "leto": 1962,
         "zalozba": "Philles",
-        "tedni": "18",
-        "mesto": "1",
+        "tedni": 18,
+        "mesto": 1,
         "album": "Best of the Crystals"
     },
     {
@@ -4028,8 +4028,8 @@
         ],
         "leto": 1965,
         "zalozba": "Tamla",
-        "tedni": "11",
-        "mesto": "16",
+        "tedni": 11,
+        "mesto": 16,
         "album": "Ooo Baby Baby: The Anthology "
     },
     {
@@ -4044,8 +4044,8 @@
         ],
         "leto": 1973,
         "zalozba": "Tamla",
-        "tedni": "14",
-        "mesto": "4",
+        "tedni": 14,
+        "mesto": 4,
         "album": "Innervisions"
     },
     {
@@ -4060,8 +4060,8 @@
         ],
         "leto": 1994,
         "zalozba": "Columbia",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "tedni": null,
+        "mesto": null,
         "album": "Grace"
     },
     {
@@ -4077,8 +4077,8 @@
         ],
         "leto": 1969,
         "zalozba": "Cadet",
-        "tedni": "11",
-        "mesto": "10",
+        "tedni": 11,
+        "mesto": 10,
         "album": "Ultimate Collection"
     },
     {
@@ -4093,8 +4093,8 @@
         ],
         "leto": 1967,
         "zalozba": "Decca",
-        "tedni": "11",
-        "mesto": "9",
+        "tedni": 11,
+        "mesto": 9,
         "album": "The Who Sell Out"
     },
     {
@@ -4109,8 +4109,8 @@
         ],
         "leto": 1966,
         "zalozba": "Atco/Fontana",
-        "tedni": "11",
-        "mesto": "1",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Greatest Hits"
     },
     {
@@ -4125,8 +4125,8 @@
         ],
         "leto": 2001,
         "zalozba": "Columbia",
-        "tedni": "Non-Single",
-        "mesto": "Non-Single",
+        "tedni": null,
+        "mesto": null,
         "album": "Love and Theft"
     },
     {
@@ -4142,8 +4142,8 @@
         ],
         "leto": 1978,
         "zalozba": "Chrysalis",
-        "tedni": "21",
-        "mesto": "1",
+        "tedni": 21,
+        "mesto": 1,
         "album": "Parallel Lines"
     },
     {
@@ -4160,8 +4160,8 @@
         ],
         "leto": 1979,
         "zalozba": "Atlantic",
-        "tedni": "10",
-        "mesto": "47",
+        "tedni": 10,
+        "mesto": 47,
         "album": "Highway to Hell"
     },
     {
@@ -4176,8 +4176,8 @@
         ],
         "leto": 1997,
         "zalozba": "Capitol",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "OK Computer"
     },
     {
@@ -4192,8 +4192,8 @@
         ],
         "leto": 1972,
         "zalozba": "Columbia",
-        "tedni": "11",
-        "mesto": "37",
+        "tedni": 11,
+        "mesto": 37,
         "album": "All the Young Dudes"
     },
     {
@@ -4210,8 +4210,8 @@
         ],
         "leto": 1959,
         "zalozba": "Atco",
-        "tedni": "26",
-        "mesto": "1",
+        "tedni": 26,
+        "mesto": 1,
         "album": "That's All"
     },
     {
@@ -4246,8 +4246,8 @@
         ],
         "leto": 1970,
         "zalozba": "Warner Bros.",
-        "tedni": "8",
-        "mesto": "61",
+        "tedni": 8,
+        "mesto": 61,
         "album": "Paranoid"
     },
     {
@@ -4262,8 +4262,8 @@
         ],
         "leto": 1967,
         "zalozba": "Atlantic",
-        "tedni": "12",
-        "mesto": "2",
+        "tedni": 12,
+        "mesto": 2,
         "album": "Lady Soul"
     },
     {
@@ -4281,8 +4281,8 @@
         ],
         "leto": 1979,
         "zalozba": "Sugar Hill",
-        "tedni": "12",
-        "mesto": "36",
+        "tedni": 12,
+        "mesto": 36,
         "album": "Rappers Delight: The Best of Sugarhill Gang"
     },
     {
@@ -4297,8 +4297,8 @@
         ],
         "leto": 1969,
         "zalozba": "Epic",
-        "tedni": "16",
-        "mesto": "2",
+        "tedni": 16,
+        "mesto": 2,
         "album": "Greatest Hits"
     },
     {
@@ -4314,8 +4314,8 @@
         ],
         "leto": 1969,
         "zalozba": "Capitol",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "The Band"
     },
     {
@@ -4332,8 +4332,8 @@
         ],
         "leto": 1967,
         "zalozba": "Brunswick",
-        "tedni": "12",
-        "mesto": "6",
+        "tedni": 12,
+        "mesto": 6,
         "album": "The Very Best of Jackie Wilson"
     },
     {
@@ -4350,8 +4350,8 @@
         ],
         "leto": 1966,
         "zalozba": "United Artists",
-        "tedni": "13",
-        "mesto": "7",
+        "tedni": 13,
+        "mesto": 7,
         "album": "Gimme Some Lovin'"
     },
     {
@@ -4370,8 +4370,8 @@
         ],
         "leto": 1989,
         "zalozba": "Reprise",
-        "tedni": "27",
-        "mesto": "3",
+        "tedni": 27,
+        "mesto": 3,
         "album": "Cosmic Thing"
     },
     {
@@ -4387,8 +4387,8 @@
         ],
         "leto": 1972,
         "zalozba": "Uni",
-        "tedni": "15",
-        "mesto": "6",
+        "tedni": 15,
+        "mesto": 6,
         "album": "Honky Chateau"
     },
     {
@@ -4403,8 +4403,8 @@
         ],
         "leto": 1969,
         "zalozba": "Epic",
-        "tedni": "8",
-        "mesto": "22",
+        "tedni": 8,
+        "mesto": 22,
         "album": "Stand!"
     },
     {
@@ -4419,8 +4419,8 @@
         ],
         "leto": 1961,
         "zalozba": "Laurie",
-        "tedni": "18",
-        "mesto": "2",
+        "tedni": 18,
+        "mesto": 2,
         "album": "Runaround Sue"
     },
     {
@@ -4436,8 +4436,8 @@
         ],
         "leto": 1968,
         "zalozba": "Atlantic",
-        "tedni": "12",
-        "mesto": "10",
+        "tedni": 12,
+        "mesto": 10,
         "album": "Dusty in Memphis"
     },
     {
@@ -4452,8 +4452,8 @@
         ],
         "leto": 1961,
         "zalozba": "Decca",
-        "tedni": "20",
-        "mesto": "12",
+        "tedni": 20,
+        "mesto": 12,
         "album": "12 Greatest Hits"
     },
     {
@@ -4471,8 +4471,8 @@
         ],
         "leto": 1982,
         "zalozba": "Tommy Boy",
-        "tedni": "11",
-        "mesto": "48",
+        "tedni": 11,
+        "mesto": 48,
         "album": "Looking for the Perfect Beat 1980-1985"
     },
     {
@@ -4488,8 +4488,8 @@
         ],
         "leto": 1954,
         "zalozba": "ABC-Parliament",
-        "tedni": "Predates chart",
-        "mesto": "Predates chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Atlantic Singles"
     },
     {
@@ -4505,8 +4505,8 @@
         ],
         "leto": 1957,
         "zalozba": "Coral a",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Best of Buddy Holly"
     },
     {
@@ -4521,8 +4521,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Mr. Tambourine Man"
     },
     {
@@ -4539,8 +4539,8 @@
         ],
         "leto": 2007,
         "zalozba": "Interscope",
-        "tedni": "21",
-        "mesto": "4",
+        "tedni": 21,
+        "mesto": 4,
         "album": "Kala"
     },
     {
@@ -4556,8 +4556,8 @@
         ],
         "leto": 1965,
         "zalozba": "MGM",
-        "tedni": "11",
-        "mesto": "13",
+        "tedni": 11,
+        "mesto": 13,
         "album": "Retrospective"
     },
     {
@@ -4573,8 +4573,8 @@
         ],
         "leto": 1960,
         "zalozba": "Monument",
-        "tedni": "21",
-        "mesto": "2",
+        "tedni": 21,
+        "mesto": 2,
         "album": "For the Lonely: 18 Greatest Hits"
     },
     {
@@ -4591,8 +4591,8 @@
         ],
         "leto": 1982,
         "zalozba": "Columbia",
-        "tedni": "21",
-        "mesto": "3",
+        "tedni": 21,
+        "mesto": 3,
         "album": "Midnight Love"
     },
     {
@@ -4607,8 +4607,8 @@
         ],
         "leto": 1966,
         "zalozba": "Columbia",
-        "tedni": "6",
-        "mesto": "33",
+        "tedni": 6,
+        "mesto": 33,
         "album": "Blonde on Blonde"
     },
     {
@@ -4623,8 +4623,8 @@
         ],
         "leto": 1970,
         "zalozba": "Warner Bros.",
-        "tedni": "4",
-        "mesto": "92",
+        "tedni": 4,
+        "mesto": 92,
         "album": "Moondance"
     },
     {
@@ -4642,8 +4642,8 @@
         ],
         "leto": 1955,
         "zalozba": "Chess",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Anthology"
     },
     {
@@ -4660,8 +4660,8 @@
         ],
         "leto": 1979,
         "zalozba": "Atlantic",
-        "tedni": "19",
-        "mesto": "1",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Risqué"
     },
     {
@@ -4676,8 +4676,8 @@
         ],
         "leto": 1982,
         "zalozba": "Epic",
-        "tedni": "13",
-        "mesto": "45",
+        "tedni": 13,
+        "mesto": 45,
         "album": "Combat Rock"
     },
     {
@@ -4692,8 +4692,8 @@
         ],
         "leto": 1970,
         "zalozba": "Warner Bros.",
-        "tedni": "16",
-        "mesto": "3",
+        "tedni": 16,
+        "mesto": 3,
         "album": "Sweet Baby James"
     },
     {
@@ -4709,8 +4709,8 @@
         ],
         "leto": 1954,
         "zalozba": "Chess",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Anthology"
     },
     {
@@ -4725,8 +4725,8 @@
         ],
         "leto": 1968,
         "zalozba": "Epic",
-        "tedni": "15",
-        "mesto": "8",
+        "tedni": 15,
+        "mesto": 8,
         "album": "Dance to the Music"
     },
     {
@@ -4742,8 +4742,8 @@
         ],
         "leto": 1964,
         "zalozba": "Monument",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "For the Lonely: 18 Greatest Hits"
     },
     {
@@ -4760,8 +4760,8 @@
         ],
         "leto": 1972,
         "zalozba": "RCA",
-        "tedni": "14",
-        "mesto": "16",
+        "tedni": 14,
+        "mesto": 16,
         "album": "Transformer"
     },
     {
@@ -4778,8 +4778,8 @@
         ],
         "leto": 1966,
         "zalozba": "Smash",
-        "tedni": "13",
-        "mesto": "5",
+        "tedni": 13,
+        "mesto": 5,
         "album": "There's Gonna Be a Storm"
     },
     {
@@ -4794,8 +4794,8 @@
         ],
         "leto": 1960,
         "zalozba": "Chess",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Anniversary Collection"
     },
     {
@@ -4810,8 +4810,8 @@
         ],
         "leto": 1962,
         "zalozba": "Vee-Jay",
-        "tedni": "10",
-        "mesto": "60",
+        "tedni": 10,
+        "mesto": 60,
         "album": "The Very Best of John Lee Hooker"
     },
     {
@@ -4826,8 +4826,8 @@
         ],
         "leto": 1974,
         "zalozba": "RCA",
-        "tedni": "8",
-        "mesto": "60",
+        "tedni": 8,
+        "mesto": 60,
         "album": "Jolene"
     },
     {
@@ -4841,9 +4841,9 @@
             "Erik Jacobsen"
         ],
         "leto": 1965,
-        "zalozba": "Kama Sutra ",
-        "tedni": "13",
-        "mesto": "9",
+        "zalozba": "Kama Sutra",
+        "tedni": 13,
+        "mesto": 9,
         "album": "Do You Believe in Magic"
     },
     {
@@ -4859,8 +4859,8 @@
         ],
         "leto": 1953,
         "zalozba": "MGM",
-        "tedni": "Predates pop charts",
-        "mesto": "Predates pop charts",
+        "tedni": null,
+        "mesto": null,
         "album": "The Ultimate Collection"
     },
     {
@@ -4876,8 +4876,8 @@
         ],
         "leto": 1989,
         "zalozba": "Reprise",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Freedom"
     },
     {
@@ -4892,8 +4892,8 @@
         ],
         "leto": 1982,
         "zalozba": "Warner Bros.",
-        "tedni": "27",
-        "mesto": "12",
+        "tedni": 27,
+        "mesto": 12,
         "album": "1999"
     },
     {
@@ -4909,8 +4909,8 @@
         ],
         "leto": 1966,
         "zalozba": "Capitol",
-        "tedni": "7",
-        "mesto": "32",
+        "tedni": 7,
+        "mesto": 32,
         "album": "Pet Sounds"
     },
     {
@@ -4925,8 +4925,8 @@
         ],
         "leto": 1966,
         "zalozba": "Pa-Go-Go",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "More Action"
     },
     {
@@ -4942,8 +4942,8 @@
         ],
         "leto": 1963,
         "zalozba": "Capitol",
-        "tedni": "11",
-        "mesto": "23",
+        "tedni": 11,
+        "mesto": 23,
         "album": "Surfer Girl/Shut Down, Volume 2"
     },
     {
@@ -4974,8 +4974,8 @@
         ],
         "leto": 1957,
         "zalozba": "Cadence",
-        "tedni": "27",
-        "mesto": "2",
+        "tedni": 27,
+        "mesto": 2,
         "album": "All-Time Original Hits"
     },
     {
@@ -4994,8 +4994,8 @@
         ],
         "leto": 1966,
         "zalozba": "Motown",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -5010,8 +5010,8 @@
         ],
         "leto": 1972,
         "zalozba": "Sussex",
-        "tedni": "19",
-        "mesto": "1",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Lean on Me"
     },
     {
@@ -5029,8 +5029,8 @@
         ],
         "leto": 1966,
         "zalozba": "Stax",
-        "tedni": "10",
-        "mesto": "25",
+        "tedni": 10,
+        "mesto": 25,
         "album": "Very Best of Otis Redding"
     },
     {
@@ -5045,8 +5045,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "9",
-        "mesto": "7",
+        "tedni": 9,
+        "mesto": 7,
         "album": "The Essential Bob Dylan"
     },
     {
@@ -5062,8 +5062,8 @@
         ],
         "leto": 1969,
         "zalozba": "Apple",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Abbey Road"
     },
     {
@@ -5081,8 +5081,8 @@
         ],
         "leto": 1986,
         "zalozba": "Qwest",
-        "tedni": "2",
-        "mesto": "98",
+        "tedni": 2,
+        "mesto": 98,
         "album": "Substance"
     },
     {
@@ -5096,9 +5096,9 @@
             "Karl Stephenson"
         ],
         "leto": 1993,
-        "zalozba": "Bong Load    ",
-        "tedni": "24",
-        "mesto": "10",
+        "zalozba": "Bong Load",
+        "tedni": 24,
+        "mesto": 10,
         "album": "Mellow Gold"
     },
     {
@@ -5115,8 +5115,8 @@
         ],
         "leto": 1977,
         "zalozba": "Casablanca",
-        "tedni": "16",
-        "mesto": "16",
+        "tedni": 16,
+        "mesto": 16,
         "album": "Funkentelechy vs. the Placebo Syndrome"
     },
     {
@@ -5131,8 +5131,8 @@
         ],
         "leto": 1966,
         "zalozba": "Reprise",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Are You Experienced?"
     },
     {
@@ -5148,8 +5148,8 @@
         ],
         "leto": 1956,
         "zalozba": "RCA",
-        "tedni": "27",
-        "mesto": "1",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Elvis: 30 #1 Hits"
     },
     {
@@ -5164,8 +5164,8 @@
         ],
         "leto": 1957,
         "zalozba": "End",
-        "tedni": "18",
-        "mesto": "15",
+        "tedni": 18,
+        "mesto": 15,
         "album": "The Best of the Chantels"
     },
     {
@@ -5180,8 +5180,8 @@
         ],
         "leto": 1987,
         "zalozba": "Geffen",
-        "tedni": "24",
-        "mesto": "1",
+        "tedni": 24,
+        "mesto": 1,
         "album": "Appetite for Destruction"
     },
     {
@@ -5198,8 +5198,8 @@
         ],
         "leto": 1957,
         "zalozba": "Coral",
-        "tedni": "22",
-        "mesto": "3",
+        "tedni": 22,
+        "mesto": 3,
         "album": "Greatest Hits"
     },
     {
@@ -5217,8 +5217,8 @@
         ],
         "leto": 1959,
         "zalozba": "Atlantic",
-        "tedni": "19",
-        "mesto": "2",
+        "tedni": 19,
+        "mesto": 2,
         "album": "The Very Best of the Drifters"
     },
     {
@@ -5233,8 +5233,8 @@
         ],
         "leto": 1968,
         "zalozba": "Capitol",
-        "tedni": "15",
-        "mesto": "3",
+        "tedni": 15,
+        "mesto": 3,
         "album": "Wichita Lineman"
     },
     {
@@ -5249,8 +5249,8 @@
         ],
         "leto": 2007,
         "zalozba": "Universal Republic",
-        "tedni": "20",
-        "mesto": "9",
+        "tedni": 20,
+        "mesto": 9,
         "album": "Back to Black"
     },
     {
@@ -5266,8 +5266,8 @@
         ],
         "leto": 1973,
         "zalozba": "MCA",
-        "tedni": "12",
-        "mesto": "19",
+        "tedni": 12,
+        "mesto": 19,
         "album": "One More From the Road"
     },
     {
@@ -5282,8 +5282,8 @@
         ],
         "leto": 1973,
         "zalozba": "Columbia",
-        "tedni": "16",
-        "mesto": "12",
+        "tedni": 16,
+        "mesto": 12,
         "album": "The Essential Bob Dylan"
     },
     {
@@ -5304,8 +5304,8 @@
         ],
         "leto": 1977,
         "zalozba": "RSO",
-        "tedni": "27",
-        "mesto": "1",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Saturday Night Fever"
     },
     {
@@ -5322,8 +5322,8 @@
         ],
         "leto": 1980,
         "zalozba": "Atlantic",
-        "tedni": "15",
-        "mesto": "37",
+        "tedni": 15,
+        "mesto": 37,
         "album": "Back in Black"
     },
     {
@@ -5338,8 +5338,8 @@
         ],
         "leto": 1967,
         "zalozba": "Atlantic",
-        "tedni": "11",
-        "mesto": "9",
+        "tedni": 11,
+        "mesto": 9,
         "album": "I Never Loved a Man (the Way I Love You)"
     },
     {
@@ -5354,8 +5354,8 @@
         ],
         "leto": 1970,
         "zalozba": "Fantasy",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Cosmo's Factory"
     },
     {
@@ -5370,8 +5370,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Highway 61 Revisited"
     },
     {
@@ -5387,8 +5387,8 @@
         ],
         "leto": 1964,
         "zalozba": "Vee-Jay",
-        "tedni": "13",
-        "mesto": "3",
+        "tedni": 13,
+        "mesto": 3,
         "album": "Please Please Me"
     },
     {
@@ -5404,8 +5404,8 @@
         ],
         "leto": 1969,
         "zalozba": "BluesWay",
-        "tedni": "14",
-        "mesto": "15",
+        "tedni": 14,
+        "mesto": 15,
         "album": "Greatest Hits"
     },
     {
@@ -5422,8 +5422,8 @@
         ],
         "leto": 1960,
         "zalozba": "Atlantic",
-        "tedni": "18",
-        "mesto": "1",
+        "tedni": 18,
+        "mesto": 1,
         "album": "The Drifters' Golden Hits"
     },
     {
@@ -5441,8 +5441,8 @@
         ],
         "leto": 1962,
         "zalozba": "Stax",
-        "tedni": "16",
-        "mesto": "3",
+        "tedni": 16,
+        "mesto": 3,
         "album": "Green Onions"
     },
     {
@@ -5457,8 +5457,8 @@
         ],
         "leto": 2003,
         "zalozba": "LaFace",
-        "tedni": "32",
-        "mesto": "1",
+        "tedni": 32,
+        "mesto": 1,
         "album": "Speakerboxxx/The Love Below"
     },
     {
@@ -5476,8 +5476,8 @@
         ],
         "leto": 1980,
         "zalozba": "Enigma",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Substance 1977-1980"
     },
     {
@@ -5492,8 +5492,8 @@
         ],
         "leto": 1974,
         "zalozba": "Ardent",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Radio City"
     },
     {
@@ -5509,8 +5509,8 @@
         ],
         "leto": 1989,
         "zalozba": "MCA",
-        "tedni": "21",
-        "mesto": "7",
+        "tedni": 21,
+        "mesto": 7,
         "album": "Full Moon Fever"
     },
     {
@@ -5526,8 +5526,8 @@
         ],
         "leto": 1964,
         "zalozba": "Capitol",
-        "tedni": "10",
-        "mesto": "24",
+        "tedni": 10,
+        "mesto": 24,
         "album": "Sounds of Summer"
     },
     {
@@ -5543,8 +5543,8 @@
         ],
         "leto": 1966,
         "zalozba": "Mustang",
-        "tedni": "11",
-        "mesto": "9",
+        "tedni": 11,
+        "mesto": 9,
         "album": "I Fought the Law: The Best of the Bobby Fuller Four"
     },
     {
@@ -5560,8 +5560,8 @@
         ],
         "leto": 1966,
         "zalozba": "London",
-        "tedni": "11",
-        "mesto": "1",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Aftermath"
     },
     {
@@ -5579,8 +5579,8 @@
         ],
         "leto": 1977,
         "zalozba": "Warner Bros.",
-        "tedni": "Did not chart ",
-        "mesto": "Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "Never Mind the Bollocks, Here's the Sex Pistols"
     },
     {
@@ -5598,8 +5598,8 @@
         ],
         "leto": 1976,
         "zalozba": "Atlantic",
-        "tedni": "22",
-        "mesto": "1",
+        "tedni": 22,
+        "mesto": 1,
         "album": "Arrival"
     },
     {
@@ -5614,8 +5614,8 @@
         ],
         "leto": 1973,
         "zalozba": "Columbia",
-        "tedni": "9",
-        "mesto": "59",
+        "tedni": 9,
+        "mesto": 59,
         "album": "Aerosmith"
     },
     {
@@ -5631,8 +5631,8 @@
         ],
         "leto": 2003,
         "zalozba": "Roc-a-Fella",
-        "tedni": "12",
-        "mesto": "30",
+        "tedni": 12,
+        "mesto": 30,
         "album": "The Black Album"
     },
     {
@@ -5647,8 +5647,8 @@
         ],
         "leto": 1969,
         "zalozba": "Reprise",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Clouds"
     },
     {
@@ -5667,8 +5667,8 @@
         ],
         "leto": 1991,
         "zalozba": "Warner Bros.",
-        "tedni": "21",
-        "mesto": "4",
+        "tedni": 21,
+        "mesto": 4,
         "album": "Out of Time"
     },
     {
@@ -5684,8 +5684,8 @@
         ],
         "leto": 1972,
         "zalozba": "Gordy",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Anthology"
     },
     {
@@ -5702,8 +5702,8 @@
         ],
         "leto": 1973,
         "zalozba": "Tamla",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Let's Get It On"
     },
     {
@@ -5718,8 +5718,8 @@
         ],
         "leto": 1988,
         "zalozba": "Elektra",
-        "tedni": "21",
-        "mesto": "6",
+        "tedni": 21,
+        "mesto": 6,
         "album": "Tracy Chapman"
     },
     {
@@ -5734,8 +5734,8 @@
         ],
         "leto": 1975,
         "zalozba": "Elektra",
-        "tedni": "24",
-        "mesto": "9",
+        "tedni": 24,
+        "mesto": 9,
         "album": "A Night at the Opera"
     },
     {
@@ -5751,8 +5751,8 @@
         ],
         "leto": 1990,
         "zalozba": "Ensign",
-        "tedni": "21",
-        "mesto": "1",
+        "tedni": 21,
+        "mesto": 1,
         "album": "I Do Not Want What I Haven't Got"
     },
     {
@@ -5767,8 +5767,8 @@
         ],
         "leto": 1962,
         "zalozba": "ABC-Paramount",
-        "tedni": "18",
-        "mesto": "1",
+        "tedni": 18,
+        "mesto": 1,
         "album": "Modern Sounds in Country and Western Music"
     },
     {
@@ -5783,8 +5783,8 @@
         ],
         "leto": 1956,
         "zalozba": "Sun",
-        "tedni": "18",
-        "mesto": "32",
+        "tedni": 18,
+        "mesto": 32,
         "album": "The Essential Johnny Cash"
     },
     {
@@ -5802,8 +5802,8 @@
         ],
         "leto": 1988,
         "zalozba": "Def Jam",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "It Takes a Nation of Millions to Hold Us Back"
     },
     {
@@ -5819,8 +5819,8 @@
         ],
         "leto": 1967,
         "zalozba": "Verve",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "The Velvet Underground and Nico"
     },
     {
@@ -5839,8 +5839,8 @@
         ],
         "leto": 2009,
         "zalozba": "Interscope",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "No Line on the Horizon"
     },
     {
@@ -5856,8 +5856,8 @@
         ],
         "leto": 1954,
         "zalozba": "Decca",
-        "tedni": "24",
-        "mesto": "1",
+        "tedni": 24,
+        "mesto": 1,
         "album": "The Best of Bill Haley and His Comets"
     },
     {
@@ -5872,8 +5872,8 @@
         ],
         "leto": 1959,
         "zalozba": "End",
-        "tedni": "13",
-        "mesto": "11",
+        "tedni": 13,
+        "mesto": 11,
         "album": "The Best of the Flamingos"
     },
     {
@@ -5887,9 +5887,9 @@
             "Tom Wilson"
         ],
         "leto": 1965,
-        "zalozba": "Columbia ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Columbia",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Sounds of Silence"
     },
     {
@@ -5904,8 +5904,8 @@
         ],
         "leto": 1969,
         "zalozba": "Fantasy",
-        "tedni": "14",
-        "mesto": "2",
+        "tedni": 14,
+        "mesto": 2,
         "album": "Bayou Country"
     },
     {
@@ -5922,8 +5922,8 @@
         ],
         "leto": 1958,
         "zalozba": "Coral",
-        "tedni": "10",
-        "mesto": "37",
+        "tedni": 10,
+        "mesto": 37,
         "album": "Buddy Holly: Greatest Hits"
     },
     {
@@ -5939,8 +5939,8 @@
         ],
         "leto": 1964,
         "zalozba": "Capitol",
-        "tedni": "13",
-        "mesto": "1",
+        "tedni": 13,
+        "mesto": 1,
         "album": "A Hard Day's Night"
     },
     {
@@ -5955,8 +5955,8 @@
         ],
         "leto": 1965,
         "zalozba": "Reprise",
-        "tedni": "4",
-        "mesto": "67",
+        "tedni": 4,
+        "mesto": 67,
         "album": "Are You Experienced?"
     },
     {
@@ -5972,8 +5972,8 @@
         ],
         "leto": 1954,
         "zalozba": "Dootone",
-        "tedni": "15",
-        "mesto": "8",
+        "tedni": 15,
+        "mesto": 8,
         "album": "Earth Angel"
     },
     {
@@ -5990,8 +5990,8 @@
         ],
         "leto": 1966,
         "zalozba": "Columbia",
-        "tedni": "9",
-        "mesto": "14",
+        "tedni": 9,
+        "mesto": 14,
         "album": "Fifth Dimension"
     },
     {
@@ -6005,9 +6005,9 @@
             "Wesley Rose"
         ],
         "leto": 1960,
-        "zalozba": "Warner Bros. ",
-        "tedni": "17",
-        "mesto": "1",
+        "zalozba": "Warner Bros.",
+        "tedni": 17,
+        "mesto": 1,
         "album": "All-Time Original Hits"
     },
     {
@@ -6023,8 +6023,8 @@
         ],
         "leto": 1977,
         "zalozba": "RCA",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Lust for Life"
     },
     {
@@ -6040,8 +6040,8 @@
         ],
         "leto": 1971,
         "zalozba": "Columbia",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Pearl"
     },
     {
@@ -6057,8 +6057,8 @@
         ],
         "leto": 1979,
         "zalozba": "Warner Bros.",
-        "tedni": "8",
-        "mesto": "56",
+        "tedni": 8,
+        "mesto": 56,
         "album": "The B-52'"
     },
     {
@@ -6073,8 +6073,8 @@
         ],
         "leto": 1968,
         "zalozba": "Epic",
-        "tedni": "19",
-        "mesto": "1",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Stand!"
     },
     {
@@ -6090,8 +6090,8 @@
         ],
         "leto": 1978,
         "zalozba": "Sire",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Road to Ruin"
     },
     {
@@ -6106,8 +6106,8 @@
         ],
         "leto": 1984,
         "zalozba": "Warner Bros.",
-        "tedni": "16",
-        "mesto": "2",
+        "tedni": 16,
+        "mesto": 2,
         "album": "Purple Rain"
     },
     {
@@ -6123,8 +6123,8 @@
         ],
         "leto": 1956,
         "zalozba": "Federal",
-        "tedni": "2",
-        "mesto": "95",
+        "tedni": 2,
+        "mesto": 95,
         "album": "50th Anniversary Collection"
     },
     {
@@ -6139,8 +6139,8 @@
         ],
         "leto": 1958,
         "zalozba": "Cadence",
-        "tedni": "11",
-        "mesto": "21",
+        "tedni": 11,
+        "mesto": 21,
         "album": "All-Time Original Hits"
     },
     {
@@ -6157,8 +6157,8 @@
         ],
         "leto": 1975,
         "zalozba": "Swan Song",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Physical Graffiti"
     },
     {
@@ -6174,8 +6174,8 @@
         ],
         "leto": 1964,
         "zalozba": "Capitol",
-        "tedni": "11",
-        "mesto": "14",
+        "tedni": 11,
+        "mesto": 14,
         "album": "Please Please Me"
     },
     {
@@ -6190,8 +6190,8 @@
         ],
         "leto": 1971,
         "zalozba": "Epic",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "There's a Riot Goin' On"
     },
     {
@@ -6207,8 +6207,8 @@
         ],
         "leto": 1966,
         "zalozba": "Capitol",
-        "tedni": "8",
-        "mesto": "11",
+        "tedni": 8,
+        "mesto": 11,
         "album": "Revolver"
     },
     {
@@ -6224,8 +6224,8 @@
         ],
         "leto": 1970,
         "zalozba": "Uni",
-        "tedni": "14",
-        "mesto": "8",
+        "tedni": 14,
+        "mesto": 8,
         "album": "Greatest Hits"
     },
     {
@@ -6240,8 +6240,8 @@
         ],
         "leto": 1968,
         "zalozba": "Apple",
-        "tedni": "Non-single ",
-        "mesto": "Non-single ",
+        "tedni": null,
+        "mesto": null,
         "album": "The Beatles"
     },
     {
@@ -6258,8 +6258,8 @@
         ],
         "leto": 1965,
         "zalozba": "Atlantic",
-        "tedni": "12",
-        "mesto": "21",
+        "tedni": 12,
+        "mesto": 21,
         "album": "The Very Best of Wilson Pickett"
     },
     {
@@ -6275,8 +6275,8 @@
         ],
         "leto": 1971,
         "zalozba": "Decca",
-        "tedni": "13",
-        "mesto": "15",
+        "tedni": 13,
+        "mesto": 15,
         "album": "Who's Next"
     },
     {
@@ -6291,8 +6291,8 @@
         ],
         "leto": 1957,
         "zalozba": "Checker",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "His Best: The Chess 50th Anniversary Collection"
     },
     {
@@ -6311,8 +6311,8 @@
         ],
         "leto": 1987,
         "zalozba": "Island",
-        "tedni": "18",
-        "mesto": "1",
+        "tedni": 18,
+        "mesto": 1,
         "album": "The Joshua Tree"
     },
     {
@@ -6328,8 +6328,8 @@
         ],
         "leto": 1971,
         "zalozba": "Mercury",
-        "tedni": "17",
-        "mesto": "1",
+        "tedni": 17,
+        "mesto": 1,
         "album": "Every Picture Tells a Story"
     },
     {
@@ -6343,9 +6343,9 @@
             "Gabriel Mekler"
         ],
         "leto": 1968,
-        "zalozba": "Dunhill ",
-        "tedni": "13",
-        "mesto": "2",
+        "zalozba": "Dunhill",
+        "tedni": 13,
+        "mesto": 2,
         "album": "Steppenwolf"
     },
     {
@@ -6360,8 +6360,8 @@
         ],
         "leto": 1957,
         "zalozba": "Chess",
-        "tedni": "19",
-        "mesto": "8",
+        "tedni": 19,
+        "mesto": 8,
         "album": "Johnny B. Goode: His Complete '50s Chess Recordings"
     },
     {
@@ -6376,8 +6376,8 @@
         ],
         "leto": 1971,
         "zalozba": "RCA",
-        "tedni": "11",
-        "mesto": "41",
+        "tedni": 11,
+        "mesto": 41,
         "album": "Hunky Dory"
     },
     {
@@ -6393,8 +6393,8 @@
         ],
         "leto": 1954,
         "zalozba": "Atlantic",
-        "tedni": "Predates chart",
-        "mesto": "Predates chart",
+        "tedni": null,
+        "mesto": null,
         "album": "The Very Best of Big Joe Turner"
     },
     {
@@ -6410,8 +6410,8 @@
         ],
         "leto": 1960,
         "zalozba": "Scepter",
-        "tedni": "19",
-        "mesto": "1",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Girl Group Greats"
     },
     {
@@ -6426,9 +6426,9 @@
             "Jimmy Miller"
         ],
         "leto": 1968,
-        "zalozba": "London ",
-        "tedni": "12",
-        "mesto": "3",
+        "zalozba": "London",
+        "tedni": 12,
+        "mesto": 3,
         "album": "Forty Licks"
     },
     {
@@ -6443,9 +6443,9 @@
             "Brown"
         ],
         "leto": 1966,
-        "zalozba": "King ",
-        "tedni": "9",
-        "mesto": "8",
+        "zalozba": "King",
+        "tedni": 9,
+        "mesto": 8,
         "album": "50th Anniversary Collection"
     },
     {
@@ -6460,8 +6460,8 @@
         ],
         "leto": 1964,
         "zalozba": "MGM",
-        "tedni": "11",
-        "mesto": "1",
+        "tedni": 11,
+        "mesto": 1,
         "album": "The Best of the Animals"
     },
     {
@@ -6480,8 +6480,8 @@
         ],
         "leto": 1961,
         "zalozba": "Atco",
-        "tedni": "14",
-        "mesto": "4",
+        "tedni": 14,
+        "mesto": 4,
         "album": "The Very Best of Ben E. King"
     },
     {
@@ -6501,9 +6501,9 @@
             "Gordy"
         ],
         "leto": 1969,
-        "zalozba": "Motown ",
-        "tedni": "19",
-        "mesto": "1",
+        "zalozba": "Motown",
+        "tedni": 19,
+        "mesto": 1,
         "album": "The Ultimate Collection"
     },
     {
@@ -6519,9 +6519,9 @@
             "Ken Caillat"
         ],
         "leto": 1977,
-        "zalozba": "Warner Bros. ",
-        "tedni": "15",
-        "mesto": "10",
+        "zalozba": "Warner Bros.",
+        "tedni": 15,
+        "mesto": 10,
         "album": "Rumours"
     },
     {
@@ -6539,8 +6539,8 @@
         ],
         "leto": 1959,
         "zalozba": "RCA",
-        "tedni": "11",
-        "mesto": "47",
+        "tedni": 11,
+        "mesto": 47,
         "album": "The Isley Brothers Story, Vol. 1: Rockin' Soul"
     },
     {
@@ -6558,8 +6558,8 @@
         ],
         "leto": 2003,
         "zalozba": "Columbia",
-        "tedni": "27",
-        "mesto": "1",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Dangerously in Love"
     },
     {
@@ -6575,8 +6575,8 @@
         ],
         "leto": 1974,
         "zalozba": "Hi",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Al Green Explores Your Mind"
     },
     {
@@ -6591,9 +6591,9 @@
             "Jimmy Miller"
         ],
         "leto": 1969,
-        "zalozba": "London ",
-        "tedni": "15",
-        "mesto": "1",
+        "zalozba": "London",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Let It Bleed"
     },
     {
@@ -6608,8 +6608,8 @@
         ],
         "leto": 1957,
         "zalozba": "Keen",
-        "tedni": "26",
-        "mesto": "1",
+        "tedni": 26,
+        "mesto": 1,
         "album": "Greatest Hits"
     },
     {
@@ -6626,8 +6626,8 @@
         ],
         "leto": 1962,
         "zalozba": "Atlantic",
-        "tedni": "20",
-        "mesto": "5",
+        "tedni": 20,
+        "mesto": 5,
         "album": "The Very Best of the Drifters"
     },
     {
@@ -6641,9 +6641,9 @@
             "Sam Phillips"
         ],
         "leto": 1954,
-        "zalozba": "Sun ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Sun",
+        "tedni": null,
+        "mesto": null,
         "album": "Sunrise"
     },
     {
@@ -6657,9 +6657,9 @@
             "Fred Rose"
         ],
         "leto": 1949,
-        "zalozba": "Sterling ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Sterling",
+        "tedni": null,
+        "mesto": null,
         "album": "The Ultimate Collection"
     },
     {
@@ -6675,9 +6675,9 @@
             "Steve Cropper"
         ],
         "leto": 1965,
-        "zalozba": "Volt ",
-        "tedni": "11",
-        "mesto": "21",
+        "zalozba": "Volt",
+        "tedni": 11,
+        "mesto": 21,
         "album": "Otis Blue: Otis Redding Sings Soul"
     },
     {
@@ -6691,9 +6691,9 @@
             "Bert Berns"
         ],
         "leto": 1967,
-        "zalozba": "Bang ",
-        "tedni": "16",
-        "mesto": "10",
+        "zalozba": "Bang",
+        "tedni": 16,
+        "mesto": 10,
         "album": "Blowin' Your Mind"
     },
     {
@@ -6707,9 +6707,9 @@
             "Prince"
         ],
         "leto": 1983,
-        "zalozba": "Warner ",
-        "tedni": "22",
-        "mesto": "6",
+        "zalozba": "Warner",
+        "tedni": 22,
+        "mesto": 6,
         "album": "1999"
     },
     {
@@ -6724,9 +6724,9 @@
             "Petty"
         ],
         "leto": 1957,
-        "zalozba": "Brunswick ",
-        "tedni": "20",
-        "mesto": "10",
+        "zalozba": "Brunswick",
+        "tedni": 20,
+        "mesto": 10,
         "album": "Greatest Hits"
     },
     {
@@ -6740,9 +6740,9 @@
             "Tom Wilson"
         ],
         "leto": 1965,
-        "zalozba": "Columbia ",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "zalozba": "Columbia",
+        "tedni": null,
+        "mesto": null,
         "album": "Bringing it All Back Home"
     },
     {
@@ -6758,9 +6758,9 @@
             "Art Garfunkel"
         ],
         "leto": 1969,
-        "zalozba": "Columbia ",
-        "tedni": "10",
-        "mesto": "7",
+        "zalozba": "Columbia",
+        "tedni": 10,
+        "mesto": 7,
         "album": "Bridge Over Troubled Water"
     },
     {
@@ -6774,9 +6774,9 @@
             "Wonder"
         ],
         "leto": 1973,
-        "zalozba": "Tamla ",
-        "tedni": "17",
-        "mesto": "8",
+        "zalozba": "Tamla",
+        "tedni": 17,
+        "mesto": 8,
         "album": "Innervisions"
     },
     {
@@ -6794,8 +6794,8 @@
         ],
         "leto": 1979,
         "zalozba": "Casablanca",
-        "tedni": "21",
-        "mesto": "1",
+        "tedni": 21,
+        "mesto": 1,
         "album": "Bad Girls"
     },
     {
@@ -6810,9 +6810,9 @@
             "Ken Nelson"
         ],
         "leto": 1956,
-        "zalozba": "Capitol ",
-        "tedni": "20",
-        "mesto": "7",
+        "zalozba": "Capitol",
+        "tedni": 20,
+        "mesto": 7,
         "album": "The Screaming End: The Best of Gene Vincent and His Blue Cap"
     },
     {
@@ -6827,8 +6827,8 @@
         ],
         "leto": 1968,
         "zalozba": "Reprise",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Electric Ladyland"
     },
     {
@@ -6844,8 +6844,8 @@
         ],
         "leto": 1969,
         "zalozba": "London",
-        "tedni": "8",
-        "mesto": "42",
+        "tedni": 8,
+        "mesto": 42,
         "album": "Let It Bleed"
     },
     {
@@ -6862,9 +6862,9 @@
             "Danger Mouse"
         ],
         "leto": 2006,
-        "zalozba": "Downtown ",
-        "tedni": "24",
-        "mesto": "2",
+        "zalozba": "Downtown",
+        "tedni": 24,
+        "mesto": 2,
         "album": "St. Elsewhere"
     },
     {
@@ -6879,8 +6879,8 @@
         ],
         "leto": 1969,
         "zalozba": "Fantasy",
-        "tedni": "14",
-        "mesto": "14",
+        "tedni": 14,
+        "mesto": 14,
         "album": "Willy and the Poor Boys"
     },
     {
@@ -6896,8 +6896,8 @@
         ],
         "leto": 1972,
         "zalozba": "Hi",
-        "tedni": "12",
-        "mesto": "3",
+        "tedni": 12,
+        "mesto": 3,
         "album": "I'm Still in Love With You"
     },
     {
@@ -6912,8 +6912,8 @@
         ],
         "leto": 1956,
         "zalozba": "Chess",
-        "tedni": "5",
-        "mesto": "29",
+        "tedni": 5,
+        "mesto": 29,
         "album": "The Anthology"
     },
     {
@@ -6929,8 +6929,8 @@
         ],
         "leto": 1957,
         "zalozba": "Sun",
-        "tedni": "21",
-        "mesto": "2",
+        "tedni": 21,
+        "mesto": 2,
         "album": "Original Sun Greatest Hits"
     },
     {
@@ -6944,9 +6944,9 @@
             "Sam Phillips"
         ],
         "leto": 1956,
-        "zalozba": "Sun ",
-        "tedni": "21",
-        "mesto": "2",
+        "zalozba": "Sun",
+        "tedni": 21,
+        "mesto": 2,
         "album": "Original Sun Greatest Hits"
     },
     {
@@ -6961,9 +6961,9 @@
             "Blackwell"
         ],
         "leto": 1958,
-        "zalozba": "Specialty ",
-        "tedni": "15",
-        "mesto": "10",
+        "zalozba": "Specialty",
+        "tedni": 15,
+        "mesto": 10,
         "album": "The Georgia Peach"
     },
     {
@@ -6978,9 +6978,9 @@
             "Brian Eno"
         ],
         "leto": 1987,
-        "zalozba": "Island ",
-        "tedni": "17",
-        "mesto": "1",
+        "zalozba": "Island",
+        "tedni": 17,
+        "mesto": 1,
         "album": "The Joshua Tree"
     },
     {
@@ -6995,8 +6995,8 @@
         ],
         "leto": 1976,
         "zalozba": "Sire",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Ramones"
     },
     {
@@ -7013,8 +7013,8 @@
         ],
         "leto": 1969,
         "zalozba": "RCA",
-        "tedni": "15",
-        "mesto": "1",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -7028,9 +7028,9 @@
             "The Five Satins"
         ],
         "leto": 1956,
-        "zalozba": "Standord ",
-        "tedni": "19",
-        "mesto": "24",
+        "zalozba": "Standord",
+        "tedni": 19,
+        "mesto": 24,
         "album": "The Five Satins: Their Greatest Hits"
     },
     {
@@ -7044,9 +7044,9 @@
             "Lou Adler"
         ],
         "leto": 1965,
-        "zalozba": "Dunhill ",
-        "tedni": "17",
-        "mesto": "4",
+        "zalozba": "Dunhill",
+        "tedni": 17,
+        "mesto": 4,
         "album": "If You Can Believe Your Eyes and Ears"
     },
     {
@@ -7062,9 +7062,9 @@
             "White"
         ],
         "leto": 1965,
-        "zalozba": "Gordy ",
-        "tedni": "13",
-        "mesto": "1",
+        "zalozba": "Gordy",
+        "tedni": 13,
+        "mesto": 1,
         "album": "The Temptations Sing Smokey"
     },
     {
@@ -7079,9 +7079,9 @@
             "Don Law"
         ],
         "leto": 1963,
-        "zalozba": "Columbia ",
-        "tedni": "13",
-        "mesto": "17",
+        "zalozba": "Columbia",
+        "tedni": 13,
+        "mesto": 17,
         "album": "The Man in Black: His Greatest Hits"
     },
     {
@@ -7097,9 +7097,9 @@
             "Mike Appel"
         ],
         "leto": 1975,
-        "zalozba": "Columbia ",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "zalozba": "Columbia",
+        "tedni": null,
+        "mesto": null,
         "album": "Born to Run"
     },
     {
@@ -7114,8 +7114,8 @@
         ],
         "leto": 1961,
         "zalozba": "Decca",
-        "tedni": "11",
-        "mesto": "9",
+        "tedni": 11,
+        "mesto": 9,
         "album": "Patsy Cline's Greatest Hits"
     },
     {
@@ -7130,8 +7130,8 @@
         ],
         "leto": 1983,
         "zalozba": "A&M",
-        "tedni": "22",
-        "mesto": "1",
+        "tedni": 22,
+        "mesto": 1,
         "album": "Synchronicity"
     },
     {
@@ -7146,9 +7146,9 @@
             "George Martin"
         ],
         "leto": 1965,
-        "zalozba": "Capitol ",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "zalozba": "Capitol",
+        "tedni": null,
+        "mesto": null,
         "album": "Rubber Soul"
     },
     {
@@ -7164,9 +7164,9 @@
             "Dave Bartholomew"
         ],
         "leto": 1956,
-        "zalozba": "Imperial ",
-        "tedni": "27",
-        "mesto": "2",
+        "zalozba": "Imperial",
+        "tedni": 27,
+        "mesto": 2,
         "album": "The Fats Domino Jukebox"
     },
     {
@@ -7181,9 +7181,9 @@
             "Whitfield"
         ],
         "leto": 1968,
-        "zalozba": "Tamla ",
-        "tedni": "15",
-        "mesto": "1",
+        "zalozba": "Tamla",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Every Motown Hit"
     },
     {
@@ -7197,9 +7197,9 @@
             "Shel Talmy"
         ],
         "leto": 1964,
-        "zalozba": "Reprise ",
-        "tedni": "15",
-        "mesto": "7",
+        "zalozba": "Reprise",
+        "tedni": 15,
+        "mesto": 7,
         "album": "Kinks"
     },
     {
@@ -7213,9 +7213,9 @@
             "Terry Melcher"
         ],
         "leto": 1965,
-        "zalozba": "Columbia ",
-        "tedni": "13",
-        "mesto": "1",
+        "zalozba": "Columbia",
+        "tedni": 13,
+        "mesto": 1,
         "album": "Mr. Tambourine Man"
     },
     {
@@ -7229,9 +7229,9 @@
             "Brown"
         ],
         "leto": 1965,
-        "zalozba": "King ",
-        "tedni": "12",
-        "mesto": "3",
+        "zalozba": "King",
+        "tedni": 12,
+        "mesto": 3,
         "album": "James Brown 50th Anniversary Collection"
     },
     {
@@ -7247,8 +7247,8 @@
         ],
         "leto": 1955,
         "zalozba": "Sun",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Sunrise"
     },
     {
@@ -7264,8 +7264,8 @@
         ],
         "leto": 1967,
         "zalozba": "Capitol",
-        "tedni": "9",
-        "mesto": "8",
+        "tedni": 9,
+        "mesto": 8,
         "album": "Magical Mystery Tour"
     },
     {
@@ -7280,9 +7280,9 @@
             "Jimmy Page"
         ],
         "leto": 1969,
-        "zalozba": "Atlantic ",
-        "tedni": "15",
-        "mesto": "4",
+        "zalozba": "Atlantic",
+        "tedni": 15,
+        "mesto": 4,
         "album": "Led Zeppelin II"
     },
     {
@@ -7297,9 +7297,9 @@
             "Capehart"
         ],
         "leto": 1958,
-        "zalozba": "Liberty ",
-        "tedni": "16",
-        "mesto": "8",
+        "zalozba": "Liberty",
+        "tedni": 16,
+        "mesto": 8,
         "album": "Somethin' Else"
     },
     {
@@ -7316,8 +7316,8 @@
         ],
         "leto": 1972,
         "zalozba": "Tamla",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Talking Book"
     },
     {
@@ -7333,8 +7333,8 @@
         ],
         "leto": 1965,
         "zalozba": "Capitol",
-        "tedni": "11",
-        "mesto": "3",
+        "tedni": 11,
+        "mesto": 3,
         "album": "The Very Best of the Beach Boys"
     },
     {
@@ -7366,9 +7366,9 @@
             "David"
         ],
         "leto": 1964,
-        "zalozba": "Scepter ",
-        "tedni": "13",
-        "mesto": "6",
+        "zalozba": "Scepter",
+        "tedni": 13,
+        "mesto": 6,
         "album": "The Dionne Warwick Collection: Her All-Time Greatest Hits "
     },
     {
@@ -7384,8 +7384,8 @@
         ],
         "leto": 1961,
         "zalozba": "Monument",
-        "tedni": "16",
-        "mesto": "2",
+        "tedni": 16,
+        "mesto": 2,
         "album": "For the Lonely: 18 Greatest Hits"
     },
     {
@@ -7399,9 +7399,9 @@
             "Dylan"
         ],
         "leto": 1975,
-        "zalozba": "Columbia ",
-        "tedni": "7",
-        "mesto": "31",
+        "zalozba": "Columbia",
+        "tedni": 7,
+        "mesto": 31,
         "album": "Blood on the Tracks"
     },
     {
@@ -7416,9 +7416,9 @@
             "Steve Sholes"
         ],
         "leto": 1957,
-        "zalozba": "RCA ",
-        "tedni": "27",
-        "mesto": "1",
+        "zalozba": "RCA",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -7432,9 +7432,9 @@
             "Chris Blackwell"
         ],
         "leto": 1980,
-        "zalozba": "Island ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Island",
+        "tedni": null,
+        "mesto": null,
         "album": "Uprising"
     },
     {
@@ -7451,8 +7451,8 @@
         ],
         "leto": 1968,
         "zalozba": "Atco",
-        "tedni": "26",
-        "mesto": "5",
+        "tedni": 26,
+        "mesto": 5,
         "album": "Disraeli Gears"
     },
     {
@@ -7467,9 +7467,9 @@
             " George Martin "
         ],
         "leto": 1963,
-        "zalozba": "Swan ",
-        "tedni": "15",
-        "mesto": "1",
+        "zalozba": "Swan",
+        "tedni": 15,
+        "mesto": 1,
         "album": "The Beatles 1"
     },
     {
@@ -7484,9 +7484,9 @@
             "Brian Stone"
         ],
         "leto": 1967,
-        "zalozba": "Atco ",
-        "tedni": "15",
-        "mesto": "7",
+        "zalozba": "Atco",
+        "tedni": 15,
+        "mesto": 7,
         "album": "Buffalo Springfield"
     },
     {
@@ -7500,9 +7500,9 @@
             "Phil and Leonard Chess"
         ],
         "leto": 1955,
-        "zalozba": "Checker ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Checker",
+        "tedni": null,
+        "mesto": null,
         "album": "His Best: The Chess 50th Anniversary Collection"
     },
     {
@@ -7518,8 +7518,8 @@
         ],
         "leto": 1957,
         "zalozba": "Sun",
-        "tedni": "29",
-        "mesto": "3",
+        "tedni": 29,
+        "mesto": 3,
         "album": "Original Sun Greatest Hits"
     },
     {
@@ -7535,9 +7535,9 @@
             "Mitchell"
         ],
         "leto": 1971,
-        "zalozba": "Hi ",
-        "tedni": "16",
-        "mesto": "1",
+        "zalozba": "Hi",
+        "tedni": 16,
+        "mesto": 1,
         "album": "Let's Stay Together"
     },
     {
@@ -7552,8 +7552,8 @@
         ],
         "leto": 1964,
         "zalozba": "Columbia",
-        "tedni": " Did not chart ",
-        "mesto": " Did not chart ",
+        "tedni": null,
+        "mesto": null,
         "album": "The Times They Are A-Changin'"
     },
     {
@@ -7568,9 +7568,9 @@
             "Quincy Jones"
         ],
         "leto": 1983,
-        "zalozba": "Epic ",
-        "tedni": "7",
-        "mesto": "1",
+        "zalozba": "Epic",
+        "tedni": 7,
+        "mesto": 1,
         "album": "Thriller"
     },
     {
@@ -7586,8 +7586,8 @@
         ],
         "leto": 1967,
         "zalozba": "A&M",
-        "tedni": "12",
-        "mesto": "5",
+        "tedni": 12,
+        "mesto": 5,
         "album": "Greatest Hits"
     },
     {
@@ -7606,8 +7606,8 @@
         ],
         "leto": 1977,
         "zalozba": "Warner Bros.",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Never Mind the Bollocks, Here's the Sex Pistols"
     },
     {
@@ -7624,8 +7624,8 @@
         ],
         "leto": 1956,
         "zalozba": "Specialty",
-        "tedni": "19",
-        "mesto": "6",
+        "tedni": 19,
+        "mesto": 6,
         "album": "The Georgia Peach"
     },
     {
@@ -7639,9 +7639,9 @@
             "Ken Chase"
         ],
         "leto": 1963,
-        "zalozba": "Jerden ",
-        "tedni": "16",
-        "mesto": "2",
+        "zalozba": "Jerden",
+        "tedni": 16,
+        "mesto": 2,
         "album": "The Best of the Kingsmen"
     },
     {
@@ -7657,9 +7657,9 @@
             "Quin Ivy"
         ],
         "leto": 1966,
-        "zalozba": "Atlantic ",
-        "tedni": "13",
-        "mesto": "1",
+        "zalozba": "Atlantic",
+        "tedni": 13,
+        "mesto": 1,
         "album": "It Tears Me Up: The Best of Percy Sledge"
     },
     {
@@ -7673,9 +7673,9 @@
             "Prince"
         ],
         "leto": 1984,
-        "zalozba": "Warner Bros. ",
-        "tedni": "21",
-        "mesto": "1",
+        "zalozba": "Warner Bros.",
+        "tedni": 21,
+        "mesto": 1,
         "album": "Purple Rain"
     },
     {
@@ -7691,8 +7691,8 @@
         ],
         "leto": 1982,
         "zalozba": "Sugar Hill",
-        "tedni": "7",
-        "mesto": "62",
+        "tedni": 7,
+        "mesto": 62,
         "album": "The Best of Sugar Hill Records"
     },
     {
@@ -7709,8 +7709,8 @@
         ],
         "leto": 1965,
         "zalozba": "Tamla",
-        "tedni": "12",
-        "mesto": "16",
+        "tedni": 12,
+        "mesto": 16,
         "album": "100 Greatest Singers of All Time: Smokey Robinson"
     },
     {
@@ -7727,8 +7727,8 @@
         ],
         "leto": 1976,
         "zalozba": "Asylum",
-        "tedni": "19",
-        "mesto": "1",
+        "tedni": 19,
+        "mesto": 1,
         "album": "Hotel California"
     },
     {
@@ -7745,8 +7745,8 @@
         ],
         "leto": 1970,
         "zalozba": "Columbia",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Bridge Over Troubled Water"
     },
     {
@@ -7761,8 +7761,8 @@
         ],
         "leto": 1968,
         "zalozba": "Reprise",
-        "tedni": "9",
-        "mesto": "20",
+        "tedni": 9,
+        "mesto": 20,
         "album": "Electric Ladyland"
     },
     {
@@ -7778,8 +7778,8 @@
         ],
         "leto": 1977,
         "zalozba": "RCA",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Heroes"
     },
     {
@@ -7796,8 +7796,8 @@
         ],
         "leto": 1956,
         "zalozba": "RCA",
-        "tedni": "27",
-        "mesto": "1",
+        "tedni": 27,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -7813,8 +7813,8 @@
         ],
         "leto": 1960,
         "zalozba": "ABC-Paramount",
-        "tedni": "13",
-        "mesto": "1",
+        "tedni": 13,
+        "mesto": 1,
         "album": "Ultimate Hits Collection"
     },
     {
@@ -7831,8 +7831,8 @@
         ],
         "leto": 1955,
         "zalozba": "Specialty",
-        "tedni": "12",
-        "mesto": "17",
+        "tedni": 12,
+        "mesto": 17,
         "album": "The Georgia Peach"
     },
     {
@@ -7847,8 +7847,8 @@
         ],
         "leto": 1968,
         "zalozba": "Reprise",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Something Else by the Kinks"
     },
     {
@@ -7863,8 +7863,8 @@
         ],
         "leto": 1968,
         "zalozba": "Capitol",
-        "tedni": "7",
-        "mesto": "63",
+        "tedni": 7,
+        "mesto": 63,
         "album": "Music From Big Pink"
     },
     {
@@ -7881,8 +7881,8 @@
         ],
         "leto": 1964,
         "zalozba": null,
-        "tedni": "14",
-        "mesto": "2",
+        "tedni": 14,
+        "mesto": 2,
         "album": "The Ultimate Collection"
     },
     {
@@ -7899,8 +7899,8 @@
         ],
         "leto": 1957,
         "zalozba": "Brunswick",
-        "tedni": "1",
-        "mesto": "1",
+        "tedni": 1,
+        "mesto": 1,
         "album": "100 Greatest Artists of All Time: Buddy Holly"
     },
     {
@@ -7916,8 +7916,8 @@
         ],
         "leto": 1969,
         "zalozba": "London",
-        "tedni": "11",
-        "mesto": "21",
+        "tedni": 11,
+        "mesto": 21,
         "album": "Let It Bleed"
     },
     {
@@ -7934,8 +7934,8 @@
         ],
         "leto": 1975,
         "zalozba": "Island",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "tedni": null,
+        "mesto": null,
         "album": "Natty Dread"
     },
     {
@@ -7954,8 +7954,8 @@
         ],
         "leto": 1991,
         "zalozba": "Island",
-        "tedni": "20",
-        "mesto": "10",
+        "tedni": 20,
+        "mesto": 10,
         "album": "Achtung Baby"
     },
     {
@@ -7972,9 +7972,9 @@
             "Paul Rothchild"
         ],
         "leto": 1967,
-        "zalozba": "Elektra ",
-        "tedni": "17",
-        "mesto": "1",
+        "zalozba": "Elektra",
+        "tedni": 17,
+        "mesto": 1,
         "album": "The Doors"
     },
     {
@@ -7990,9 +7990,9 @@
             "Spector"
         ],
         "leto": 1964,
-        "zalozba": "Philles ",
-        "tedni": "16",
-        "mesto": "1",
+        "zalozba": "Philles",
+        "tedni": 16,
+        "mesto": 1,
         "album": "The Righteous Brothers Photos"
     },
     {
@@ -8009,8 +8009,8 @@
         ],
         "leto": 1966,
         "zalozba": "Philles",
-        "tedni": "4",
-        "mesto": "88",
+        "tedni": 4,
+        "mesto": 88,
         "album": "Proud Mary: The Best of Ike and Tina Turner"
     },
     {
@@ -8025,9 +8025,9 @@
             "Jimmy Miller"
         ],
         "leto": 1968,
-        "zalozba": "London ",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "zalozba": "London",
+        "tedni": null,
+        "mesto": null,
         "album": "Beggar's Banquet"
     },
     {
@@ -8043,8 +8043,8 @@
         ],
         "leto": 1971,
         "zalozba": "Atlantic",
-        "tedni": "Non-single",
-        "mesto": "Non-single",
+        "tedni": null,
+        "mesto": null,
         "album": "Led Zeppelin IV"
     },
     {
@@ -8059,8 +8059,8 @@
         ],
         "leto": 1956,
         "zalozba": "Sun",
-        "tedni": "22",
-        "mesto": "17",
+        "tedni": 22,
+        "mesto": 17,
         "album": "The Complete Original Sun Singles"
     },
     {
@@ -8076,8 +8076,8 @@
         ],
         "leto": 1965,
         "zalozba": "Capitol",
-        "tedni": "13",
-        "mesto": "1",
+        "tedni": 13,
+        "mesto": 1,
         "album": "Help!"
     },
     {
@@ -8093,8 +8093,8 @@
         ],
         "leto": 1967,
         "zalozba": "Capitol",
-        "tedni": "Non-single ",
-        "mesto": "Non-single ",
+        "tedni": null,
+        "mesto": null,
         "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
@@ -8111,8 +8111,8 @@
         ],
         "leto": 1970,
         "zalozba": "Atco",
-        "tedni": "15",
-        "mesto": "10",
+        "tedni": 15,
+        "mesto": 10,
         "album": "Layla and Other Assorted Love Songs"
     },
     {
@@ -8128,8 +8128,8 @@
         ],
         "leto": 1968,
         "zalozba": "Volt",
-        "tedni": "16",
-        "mesto": "1",
+        "tedni": 16,
+        "mesto": 1,
         "album": "The Dock of the Bay"
     },
     {
@@ -8145,8 +8145,8 @@
         ],
         "leto": 1966,
         "zalozba": "Capitol",
-        "tedni": "8",
-        "mesto": "39",
+        "tedni": 8,
+        "mesto": 39,
         "album": "Pet Sounds"
     },
     {
@@ -8161,8 +8161,8 @@
         ],
         "leto": 1965,
         "zalozba": "ABC-Paramount",
-        "tedni": "8",
-        "mesto": "14",
+        "tedni": 8,
+        "mesto": 14,
         "album": "The Very Best of the Impressions"
     },
     {
@@ -8178,8 +8178,8 @@
         ],
         "leto": 1965,
         "zalozba": "Capitol",
-        "tedni": "Non-single ",
-        "mesto": "Non-single ",
+        "tedni": null,
+        "mesto": null,
         "album": "Rubber Soul"
     },
     {
@@ -8195,9 +8195,9 @@
             "Spector"
         ],
         "leto": 1963,
-        "zalozba": " ",
-        "tedni": "13",
-        "mesto": "2",
+        "zalozba": null,
+        "tedni": 13,
+        "mesto": 2,
         "album": "The Best of the Ronettes"
     },
     {
@@ -8212,9 +8212,9 @@
             "Mike Appel"
         ],
         "leto": 1975,
-        "zalozba": "Columbia ",
-        "tedni": "11",
-        "mesto": "23",
+        "zalozba": "Columbia",
+        "tedni": 11,
+        "mesto": 23,
         "album": "Born to Run"
     },
     {
@@ -8229,9 +8229,9 @@
             "George Martin"
         ],
         "leto": 1970,
-        "zalozba": "Apple ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Apple",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Let It Be"
     },
     {
@@ -8246,9 +8246,9 @@
             "Steve Sholes"
         ],
         "leto": 1956,
-        "zalozba": "RCA ",
-        "tedni": "28",
-        "mesto": "1",
+        "zalozba": "RCA",
+        "tedni": 28,
+        "mesto": 1,
         "album": "Elvis 30 #1 Hits"
     },
     {
@@ -8262,9 +8262,9 @@
             "Leonard and Phil Chess"
         ],
         "leto": 1955,
-        "zalozba": "Chess ",
-        "tedni": "11",
-        "mesto": "5",
+        "zalozba": "Chess",
+        "tedni": 11,
+        "mesto": 5,
         "album": "The Anthology"
     },
     {
@@ -8278,9 +8278,9 @@
             "Chas Chandler"
         ],
         "leto": 1967,
-        "zalozba": "Reprise ",
-        "tedni": "8",
-        "mesto": "65",
+        "zalozba": "Reprise",
+        "tedni": 8,
+        "mesto": 65,
         "album": "Are You Experienced?"
     },
     {
@@ -8295,9 +8295,9 @@
             "George Martin"
         ],
         "leto": 1963,
-        "zalozba": "Capitol ",
-        "tedni": "15",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 15,
+        "mesto": 1,
         "album": "Meet the Beatles!"
     },
     {
@@ -8312,9 +8312,9 @@
             "Guy Stevens"
         ],
         "leto": 1980,
-        "zalozba": "Epic ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Epic",
+        "tedni": null,
+        "mesto": null,
         "album": "London Calling"
     },
     {
@@ -8328,9 +8328,9 @@
             "John Hammond"
         ],
         "leto": 1963,
-        "zalozba": "Columbia ",
-        "tedni": "Did not chart",
-        "mesto": "Did not chart",
+        "zalozba": "Columbia",
+        "tedni": null,
+        "mesto": null,
         "album": "The Freewheelin' Bob Dylan"
     },
     {
@@ -8345,9 +8345,9 @@
             "George Martin"
         ],
         "leto": 1965,
-        "zalozba": "Capitol ",
-        "tedni": "11",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 11,
+        "mesto": 1,
         "album": "Help!"
     },
     {
@@ -8362,9 +8362,9 @@
             "Luigi Creatore"
         ],
         "leto": 1964,
-        "zalozba": "RCA ",
-        "tedni": "7",
-        "mesto": "31",
+        "zalozba": "RCA",
+        "tedni": 7,
+        "mesto": 31,
         "album": "Portrait of a Legend 1951-1964"
     },
     {
@@ -8379,8 +8379,8 @@
         ],
         "leto": 1965,
         "zalozba": "Decca",
-        "tedni": "5",
-        "mesto": "74",
+        "tedni": 5,
+        "mesto": 74,
         "album": "My Generation"
     },
     {
@@ -8395,9 +8395,9 @@
             "Jerry Wexler"
         ],
         "leto": 1959,
-        "zalozba": "Atlantic ",
-        "tedni": "15",
-        "mesto": "6",
+        "zalozba": "Atlantic",
+        "tedni": 15,
+        "mesto": 6,
         "album": "The Ultimate Hits Collection"
     },
     {
@@ -8411,9 +8411,9 @@
             "Butch Vig"
         ],
         "leto": 1991,
-        "zalozba": "DGC ",
-        "tedni": "20",
-        "mesto": "6",
+        "zalozba": "DGC",
+        "tedni": 20,
+        "mesto": 6,
         "album": "The 100 Greatest Artists of All Time: Nirvana"
     },
     {
@@ -8428,9 +8428,9 @@
             "George Martin"
         ],
         "leto": 1968,
-        "zalozba": "Apple ",
-        "tedni": "19",
-        "mesto": "1",
+        "zalozba": "Apple",
+        "tedni": 19,
+        "mesto": 1,
         "album": "1"
     },
     {
@@ -8445,8 +8445,8 @@
         ],
         "leto": 1958,
         "zalozba": "Chess",
-        "tedni": "15",
-        "mesto": "8",
+        "tedni": 15,
+        "mesto": 8,
         "album": "The 100 Greatest Singers of All Time: Chuck Berry"
     },
     {
@@ -8461,9 +8461,9 @@
             "Wilson"
         ],
         "leto": 1966,
-        "zalozba": "Capitol ",
-        "tedni": "14",
-        "mesto": "1",
+        "zalozba": "Capitol",
+        "tedni": 14,
+        "mesto": 1,
         "album": "The 100 Greatest Artists of All Time: The Beach Boys"
     },
     {
@@ -8477,9 +8477,9 @@
             "Jerry Wexler"
         ],
         "leto": 1967,
-        "zalozba": "Atlantic ",
-        "tedni": "12",
-        "mesto": "1",
+        "zalozba": "Atlantic",
+        "tedni": 12,
+        "mesto": 1,
         "album": "I Never Loved a Man the Way I Love You"
     },
     {
@@ -8495,9 +8495,9 @@
             "Gaye "
         ],
         "leto": 1971,
-        "zalozba": "Tamla ",
-        "tedni": "13",
-        "mesto": "2",
+        "zalozba": "Tamla",
+        "tedni": 13,
+        "mesto": 2,
         "album": "What's Going On"
     },
     {
@@ -8513,9 +8513,9 @@
             "Yoko Ono"
         ],
         "leto": 1971,
-        "zalozba": "Apple ",
-        "tedni": "9",
-        "mesto": "3",
+        "zalozba": "Apple",
+        "tedni": 9,
+        "mesto": 3,
         "album": "Imagine"
     },
     {
@@ -8531,8 +8531,8 @@
         ],
         "leto": 1965,
         "zalozba": "London",
-        "tedni": "14",
-        "mesto": "1",
+        "tedni": 14,
+        "mesto": 1,
         "album": "Out of Our Heads"
     },
     {
@@ -8547,8 +8547,8 @@
         ],
         "leto": 1965,
         "zalozba": "Columbia",
-        "tedni": "12",
-        "mesto": "2",
+        "tedni": 12,
+        "mesto": 2,
         "album": "Bob Dylan at 70"
     }
 ]
