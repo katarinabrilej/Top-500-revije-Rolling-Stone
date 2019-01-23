@@ -2,7 +2,7 @@ import re
 import orodja
 import uredi_imena
 
-
+# regularni izrazi s katerimi pridobimo ustrezne podatke iz html datotek
 vzorec_bloka = re.compile(
     r'id="list-item.*?'
     r'</article><!-- .c-list__item -->',
@@ -128,8 +128,6 @@ def izloci_podatke_skladbe(blok):
             skladba['tedni'] = int(tedni_dnevi['tedni'])
             skladba['mesto'] = int(tedni_dnevi['mesto'].strip())
         else:
-            #skladba['tedni'] = zalozba_billboard['billboard']
-            #skladba['mesto'] = zalozba_billboard['billboard'].strip()
             skladba['tedni'] = None
             skladba['mesto'] = None
     else:
@@ -163,6 +161,7 @@ def izloci_podatke_skladbe(blok):
         
     return skladba
 
+# shranimo skladbe s strani revije Rolling Stone
 def skladbe_na_strani(st_strani):
     url = (
         'https://www.rollingstone.com/music/music-lists/'
@@ -176,6 +175,7 @@ def skladbe_na_strani(st_strani):
     for blok in vzorec_bloka.finditer(vsebina):
         yield izloci_podatke_skladbe(blok.group(0))
 
+# izlocimo se podatke za producent in avtorje, saj bomo kasneje ustvari posebni tabeli
 def izloci_gnezdene_podatke(skladbe):
     avtorji, producenti = [], []
 
@@ -200,7 +200,7 @@ def izloci_gnezdene_podatke(skladbe):
             
     return avtorji, producenti
 
-
+# ustvarimo tri csv tabele in sicer: skladbe, avtorji in producenti
 skladbe = []
 for st_strani in range(1, 11):
     for skladba in skladbe_na_strani(st_strani):

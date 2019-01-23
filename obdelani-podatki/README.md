@@ -17,13 +17,13 @@ skladbe.csv je glavna datoteka v kateri so vsi podatki, vsebuje naslednje stolpc
 * album ~ album na katerem je skladba izšla
 
 avtorji.csv vsebuje naslednje stolpce:
-* id  ~  mesto skladbe na strani
+* skladba  ~  mesto skladbe na strani
 * avtor ~  avtor skladbe
 (avtorjev za posamezno pesem je lahko več, zato so te pesmi podane
 tolikokrat kot je avtorjev)
 
 producenti.csv vsebuje naslednje stolpce:
-* id  ~  mesto skladbe na strani
+* skladba  ~  mesto skladbe na strani
 * producent ~  producent skladbe
 (prav tako je producentov za posamezno pesem lahko več, zato so te 
 pesmi podane tolikokrat kot je producentov)

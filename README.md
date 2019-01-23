@@ -21,8 +21,13 @@ Za vsako skladbo bom pridobila naslednje podatke:
 tabele pa v mapi obdelani-podatki)
 
 Delovne hipoteze:
-* Ali sta najvšje mesto in število tednov na lestvici Billboard hot 100 povezani?
+* Ali sta najvišje mesto in število tednov na lestvici Billboard Hot 100 povezani?
 * Ali so pesmi enakomerne porazdeljene po desetletjih?
-* Katera založba/izvajalec/producent ima največ skladb uvrščenih na seznam?
-* Kolikšen delež izvajalcev so hkrati avtorji skladb?
-* Kateri albumi so bili najbolj uspešni?
+* Katera založba/izvajalec/producent/avtor ima največ skladb uvrščenih na seznam?
+* Ali obstaja povezava med mestom na naši lestvici in mestom ter tedni na lestvici Bllboard?
+* Kakšen je delež prvih mest na lestvici Billboard?
+* Katerih izvajalcem je uspelo v enem letu ustvariti največ pesmi na lestvici?
+
+Podatki so shranjeni v mapi obdelani-podatki, kjer so tudi na kratko opisani v README datoteki.
+Uvoz podatkov pa je shranjen v datoteki podatki.py (skupaj s pomožno datoteko orodja.py). Analiza.ipynb vsebuje analizo podatkov, kjer sem testirala delovne hipoteze. 
+
